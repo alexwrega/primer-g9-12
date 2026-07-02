@@ -1,0 +1,1802 @@
+{
+  "course_title": "Reading Primer — Grade 12",
+  "grade": 12,
+  "sequence": "Grades 11–12, Part 2 of 2",
+  "subtitle": "The Independent Scholar: Criticism, Argument, Form & College-Ready Reading",
+  "description": "This capstone course completes the two-year Grades 11–12 reading progression. Building directly on the synthesis, rhetoric, context, intertextuality, and voice/form skills you developed in Grade 11, it teaches the most advanced half of the curriculum: reading literary criticism as a lens, working through dense philosophical and political argument, mastering advanced craft and form, navigating world and postcolonial literature at scale, and reading independently for college and life.",
+  "total_lessons": 40,
+  "total_duration_minutes": 290,
+  "paired_grade_note": "Topics are split across Grades 11 and 12 (the CCSS 11–12 band). Grade 11 covered synthesis, rhetoric, context, intertextuality, and voice/form; Grade 12 covers literary criticism, dense argument, advanced form, world literature at scale, and college/lifelong reading. This course assumes the Grade 11 skills and does not re-teach them.",
+  "placement_modes": {
+    "single_take": "Deliver all modules before Grade 12 Article 1.",
+    "distributed": "Deliver each module before the article cluster in placement.before_articles."
+  },
+  "modules": [
+    {
+      "id": "M1",
+      "title": "Reading Literary Criticism as a Lens",
+      "description": "Students learn what literary criticism is, why scholars argue, and how to read a critic's essay as a lens that opens up a primary text rather than as the final word on it.",
+      "placement": {
+        "before_articles": "Articles 1+ (Hamlet; \"Much Madness Is Divinest Sense\"; T.S. Eliot's \"Hamlet and His Problems\"; Rosencrantz and Guildenstern Are Dead)"
+      },
+      "duration_minutes": 36,
+      "lessons": [
+        {
+          "id": "L1",
+          "number": 1,
+          "title": "What Literary Criticism Is — and Why Scholars Argue",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RL.11-12.1"
+          ],
+          "learning_objective": "Define literary criticism as an interpretive argument and explain why two careful readers can disagree about the same text.",
+          "key_concepts": [
+            "Criticism as argument, not opinion",
+            "Interpretive claim",
+            "Textual evidence",
+            "Scholarly disagreement",
+            "Primary vs. secondary text"
+          ],
+          "instruction": "In Grade 11 you learned to read texts in conversation with each other; now you'll add a new kind of voice to that conversation—the literary critic. Criticism is not a summary and not a star rating. It is an argument about what a text means and how it works, defended with evidence from the text itself. When you read T.S. Eliot's \"Hamlet and His Problems,\" you are reading one scholar's claim about Hamlet, not a neutral guide to the play. Critics disagree because texts are rich enough to support more than one reading; the test of a critical claim is not whether it feels right but whether the words on the page support it. As you move through this module, treat criticism as a lens you can pick up and put down. A lens sharpens certain features and dims others. Your job is to notice what Eliot's lens reveals about Hamlet—and what it leaves out.",
+          "curriculum_connection": "Prepares students for T.S. Eliot's \"Hamlet and His Problems\" read alongside Hamlet, and for the critical framing of Rosencrantz and Guildenstern Are Dead.",
+          "check_for_understanding": [
+            {
+              "prompt": "According to the lesson, what makes a piece of writing literary criticism rather than a review or summary?",
+              "choices": [
+                {
+                  "text": "It argues for an interpretation of a text and defends that claim with textual evidence",
+                  "is_correct": true
+                },
+                {
+                  "text": "It tells readers whether the book is worth their time",
+                  "is_correct": false
+                },
+                {
+                  "text": "It retells the plot in a shorter, clearer form",
+                  "is_correct": false
+                },
+                {
+                  "text": "It records the reader's emotional reaction to the work",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L2",
+          "number": 2,
+          "title": "Eliot's Lens on Hamlet: The 'Objective Correlative'",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.1",
+            "RI.11-12.5"
+          ],
+          "learning_objective": "Apply Eliot's concept of the 'objective correlative' as a critical lens to interpret Hamlet's emotion.",
+          "key_concepts": [
+            "Objective correlative",
+            "Critical concept as a tool",
+            "Emotion in excess of its cause",
+            "Applying a frame to a scene",
+            "Lens reading"
+          ],
+          "instruction": "Eliot's signature claim about Hamlet is that the play fails by his standard because Hamlet's emotion has no adequate 'objective correlative'—no set of facts or events in the play large enough to justify the feeling Hamlet expresses. You don't have to agree with Eliot to use his idea. A critical concept is a tool: pick it up and point it at a scene. When Hamlet rages at his mother in the closet scene, ask Eliot's question—do the play's events fully account for this storm of feeling, or does the emotion overflow its cause? Reading Hamlet through this lens makes you notice things you might have skimmed: the gap between what happens and what Hamlet feels. That gap is exactly what Eliot names. Whether you decide the gap is a flaw (as Eliot does) or the very point of the play is your argument to make—but now you are arguing, not just reacting, because the critic gave you a precise concept to test against the text.",
+          "curriculum_connection": "Directly supports reading T.S. Eliot's \"Hamlet and His Problems\" as a lens on Hamlet and on Dickinson's \"Much Madness Is Divinest Sense.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "How does the lesson suggest you should use Eliot's idea of the 'objective correlative'?",
+              "choices": [
+                {
+                  "text": "Accept it as the correct reading of Hamlet before opening the play",
+                  "is_correct": false
+                },
+                {
+                  "text": "Memorize the definition so you can quote it on a test",
+                  "is_correct": false
+                },
+                {
+                  "text": "Use it as a tool to examine whether the play's events account for Hamlet's emotion",
+                  "is_correct": true
+                },
+                {
+                  "text": "Ignore it, since critics cannot understand a text better than its author",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L3",
+          "number": 3,
+          "title": "Evaluating a Critic's Claim and Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Evaluate whether a critic's evidence actually supports the interpretive claim being made.",
+          "key_concepts": [
+            "Claim–evidence fit",
+            "Cherry-picking",
+            "Counter-evidence",
+            "Warrant",
+            "Charitable but critical reading"
+          ],
+          "instruction": "A critic earns your agreement; they don't command it. When you read Eliot on Hamlet, separate his claim (the play 'fails' artistically) from his evidence (specific lines, the speed of the plot, comparisons to earlier revenge plays). Then ask three questions. First, does the evidence really show what he says it shows, or is there a softer reading of those same lines? Second, has he ignored counter-evidence—scenes that would complicate his claim? Third, what unstated assumption (his 'warrant') connects his evidence to his conclusion—here, the assumption that great art must perfectly match emotion to cause? Strong criticism survives these questions; weak criticism cherry-picks. You're not looking to 'win' against Eliot. You're testing the join between what he claims and what he proves, the same way you would test any argument. When a test question asks why a critic's reasoning is or isn't persuasive, it is asking you to judge this claim–evidence fit.",
+          "curriculum_connection": "Prepares students to evaluate the reasoning in T.S. Eliot's \"Hamlet and His Problems\" against the text of Hamlet.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which question best helps you evaluate whether a critic's evidence supports their claim?",
+              "choices": [
+                {
+                  "text": "Does the critic write in a confident, authoritative tone?",
+                  "is_correct": false
+                },
+                {
+                  "text": "Has the critic ignored scenes that would complicate the claim?",
+                  "is_correct": true
+                },
+                {
+                  "text": "Is the critic more famous than the author being discussed?",
+                  "is_correct": false
+                },
+                {
+                  "text": "Does the critic agree with my first impression of the text?",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L4",
+          "number": 4,
+          "title": "Applying a Critical Frame to a Primary Text",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.1",
+            "RL.11-12.7"
+          ],
+          "learning_objective": "Transfer a critical frame learned from one essay to a new primary text and test how well it fits.",
+          "key_concepts": [
+            "Transferable frame",
+            "Fit and misfit",
+            "Reading against a frame",
+            "Productive limits of a lens",
+            "Evidence-first application"
+          ],
+          "instruction": "Once you can name a critical frame, you can carry it to a text the critic never discussed. Take Eliot's concern with emotion that exceeds its cause and point it at Dickinson's \"Much Madness Is Divinest Sense\" or at the absurd, emotion-saturated world of Rosencrantz and Guildenstern Are Dead. Sometimes the frame fits and illuminates; sometimes it strains and tells you more about its limits than about the new text. Both outcomes are useful. A frame that misfits a text is data: it shows you what makes the new text different. The discipline here is evidence-first—apply the lens to specific lines, not to your general impression. When the frame helps you see structure, emotion, or meaning you'd otherwise miss, keep it. When it forces the text into a shape it resists, say so and explain why. Scholars are judged not only by the frames they adopt but by knowing when a frame has reached its edge.",
+          "curriculum_connection": "Supports applying Eliot's critical lens beyond Hamlet to \"Much Madness Is Divinest Sense\" and Rosencrantz and Guildenstern Are Dead.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does it mean when a critical frame 'misfits' a new text?",
+              "choices": [
+                {
+                  "text": "The frame is useless and should be discarded permanently",
+                  "is_correct": false
+                },
+                {
+                  "text": "The reader has misunderstood the original critic",
+                  "is_correct": false
+                },
+                {
+                  "text": "The text is too simple to deserve criticism",
+                  "is_correct": false
+                },
+                {
+                  "text": "The misfit reveals what makes the new text distinct and marks the frame's limits",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L5",
+          "number": 5,
+          "title": "Entering a Scholarly Conversation",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.9"
+          ],
+          "learning_objective": "Position your own interpretation within an ongoing scholarly conversation by agreeing, extending, or complicating a critic's view.",
+          "key_concepts": [
+            "Scholarly conversation",
+            "Agree / extend / complicate",
+            "Naming your stance",
+            "Building on a source",
+            "Original contribution"
+          ],
+          "instruction": "In Grade 11 you watched authors answer one another; now you'll join the conversation as a reader who has something to add. Scholars rarely start from zero. They enter a discussion already underway and stake out a position relative to it: 'I agree with Eliot that the emotion overflows the plot, but I think that overflow is the play's achievement, not its flaw.' Notice the move—first you fairly state the existing view, then you mark your own with a turn: agree, extend, or complicate. To agree is to add new evidence for the same claim. To extend is to push the claim into territory the critic didn't reach. To complicate is to show where the claim holds only partly. All three are real contributions; none is mere disagreement for its own sake. As you read criticism this year, practice finishing the sentence, 'Eliot says X; I say ___ because ___.' That sentence is the seed of every essay you'll write in college.",
+          "curriculum_connection": "Prepares students to respond to T.S. Eliot's \"Hamlet and His Problems\" with their own positioned reading of Hamlet and Rosencrantz and Guildenstern Are Dead.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which response best shows a student 'extending' a critic's claim rather than just agreeing or disagreeing?",
+              "choices": [
+                {
+                  "text": "Eliot is wrong and the play is perfect",
+                  "is_correct": false
+                },
+                {
+                  "text": "Eliot is right, and I feel the same way about the play",
+                  "is_correct": false
+                },
+                {
+                  "text": "Eliot is right about the closet scene, and the same gap appears in the graveyard scene he never discusses",
+                  "is_correct": true
+                },
+                {
+                  "text": "Eliot's essay is too old to matter to modern readers",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Reading Dense Argument & Philosophy",
+      "description": "Students learn to slow down for philosophical and political prose: isolating premises and conclusions, surfacing hidden assumptions, tracing reasoning across paragraphs, and evaluating seminal foundational arguments.",
+      "placement": {
+        "before_articles": "Articles 8–22 and 23–40 (Leviathan; Two Treatises of Government; The Prince; Utopia; Federalist 51; and dense political prose across the Dystopia cluster: \"Politics and the English Language\"; \"Why I Write\")"
+      },
+      "duration_minutes": 51,
+      "lessons": [
+        {
+          "id": "L6",
+          "number": 6,
+          "title": "Reading Philosophy Slowly",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.4",
+            "RI.11-12.10"
+          ],
+          "learning_objective": "Adopt a slow, re-reading approach suited to dense philosophical and political prose.",
+          "key_concepts": [
+            "Reading speed as a choice",
+            "Re-reading for meaning",
+            "Unpacking long sentences",
+            "Paraphrase as a tool",
+            "Density vs. difficulty"
+          ],
+          "instruction": "Hobbes, Locke, Machiavelli, and More do not reward the reading speed you'd use for a novel. Philosophical prose is dense: each sentence may carry a definition, a claim, and a qualification at once. The skill is to slow down on purpose. Read a passage of Leviathan once for the gist, then again sentence by sentence, turning each long line into your own plain paraphrase: 'Hobbes is saying that without a common power, life is a war of all against all.' If you can't paraphrase a sentence, you haven't understood it yet—so re-read, don't push on. Density is not the same as confusion; a dense sentence is tightly packed, and unpacking is your job. Mark the sentence that states the main claim and the sentences that merely support or qualify it. When the prose feels like a wall, that's the signal to shift gears, not to skim. Going slowly here is not weakness; it is the correct technique for this kind of text.",
+          "curriculum_connection": "Prepares students for the dense prose of Leviathan, Two Treatises of Government, The Prince, and Utopia.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does the lesson recommend when a sentence in Leviathan feels like 'a wall'?",
+              "choices": [
+                {
+                  "text": "Slow down and re-read it, putting it into your own plain paraphrase",
+                  "is_correct": true
+                },
+                {
+                  "text": "Skim ahead and hope the meaning becomes clear later",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip the sentence, since philosophy is mostly repetition",
+                  "is_correct": false
+                },
+                {
+                  "text": "Read faster to build momentum through the passage",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L7",
+          "number": 7,
+          "title": "Premises, Conclusions, and Hidden Assumptions",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.8",
+            "RI.11-12.5"
+          ],
+          "learning_objective": "Distinguish premises from conclusions and surface the hidden assumptions an argument depends on.",
+          "key_concepts": [
+            "Premise",
+            "Conclusion",
+            "Hidden (unstated) assumption",
+            "Inference indicators",
+            "Reconstructing an argument"
+          ],
+          "instruction": "Every argument has parts. A conclusion is what the author wants you to accept; premises are the reasons offered for it. Signal words help: 'therefore,' 'thus,' and 'so' usually point to a conclusion, while 'because,' 'since,' and 'for' point to premises. When Hobbes argues that people should submit to an absolute sovereign, the conclusion is that submission; the premises are claims about human nature and the state of war. But arguments also lean on hidden assumptions—premises the author never states because they seem obvious. Hobbes assumes that order is worth almost any price; Locke assumes individuals have rights prior to government. The hidden assumption is often where the real disagreement lives. To read these texts well, reconstruct the argument in skeleton form: list the premises, draw the arrow to the conclusion, then ask, 'What must also be true for this to work?' That unstated 'must' is the assumption. Finding it is the difference between following an argument and merely being carried by it.",
+          "curriculum_connection": "Supports analyzing the reasoning of Leviathan, Two Treatises of Government, and The Prince by separating premises, conclusions, and assumptions.",
+          "check_for_understanding": [
+            {
+              "prompt": "A 'hidden assumption' in an argument is best described as:",
+              "choices": [
+                {
+                  "text": "An unstated premise the argument needs in order to work",
+                  "is_correct": true
+                },
+                {
+                  "text": "The author's most strongly worded sentence",
+                  "is_correct": false
+                },
+                {
+                  "text": "The conclusion restated in different words",
+                  "is_correct": false
+                },
+                {
+                  "text": "A quotation borrowed from another philosopher",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L8",
+          "number": 8,
+          "title": "Tracing a Chain of Reasoning Across Paragraphs",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.5",
+            "RI.11-12.3"
+          ],
+          "learning_objective": "Follow how a single argument is built and connected across multiple paragraphs of dense prose.",
+          "key_concepts": [
+            "Argument structure",
+            "Logical connectors",
+            "Subordinate vs. main claims",
+            "Cumulative reasoning",
+            "Mapping the through-line"
+          ],
+          "instruction": "Foundational thinkers rarely make their case in one sentence; they build it across paragraphs, each one resting on the last. Locke does not simply assert natural rights—he defines the state of nature, then derives property from labor, then derives government from the need to protect property. Lose any link and the chain breaks. To trace this, read for the connectors that join paragraphs: 'from this it follows,' 'but if,' 'granting this, then.' Jot a one-line summary of each paragraph's job in the larger argument, so you end with a map of the through-line rather than a pile of separate points. Ask which paragraphs carry the main claim and which are doing setup, objection, or reply. When a passage seems to wander, it is usually laying groundwork for a claim still to come. Tracing the chain lets you answer the hardest test questions—the ones that ask how one part of a text relates to another, or what the author needs to establish before reaching the final claim.",
+          "curriculum_connection": "Prepares students to trace extended reasoning in Two Treatises of Government, Leviathan, and Utopia.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does the lesson recommend writing a one-line summary of each paragraph's job?",
+              "choices": [
+                {
+                  "text": "To produce a map of how the whole argument connects across paragraphs",
+                  "is_correct": true
+                },
+                {
+                  "text": "To memorize the text word for word",
+                  "is_correct": false
+                },
+                {
+                  "text": "To replace the need to read the conclusion",
+                  "is_correct": false
+                },
+                {
+                  "text": "To count how many paragraphs the author wrote",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L9",
+          "number": 9,
+          "title": "Evaluating a Seminal Argument",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.8",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Evaluate a foundational document's premises, purposes, and rhetoric, as RI.8 requires for seminal U.S. and world texts.",
+          "key_concepts": [
+            "Seminal text",
+            "Premises and purposes (RI.8)",
+            "Rhetorical strategy",
+            "Constitutional principle",
+            "Strength of reasoning"
+          ],
+          "instruction": "Some documents are 'seminal'—they seed institutions, revolutions, and centuries of argument. Federalist 51 is one such text, and your standards (RI.11-12.8) ask you to evaluate its premises, purposes, and rhetoric, not just to summarize it. Start with purpose: Madison wants to persuade readers that the Constitution's structure will check tyranny. Then the premises: that people are not angels, that ambition must counter ambition. Then the rhetoric: the famous balanced sentences, the appeal to realism about human nature. Evaluating means weighing whether the reasoning is strong—does separating power really restrain it, and what does the argument assume about how factions behave? A seminal text is not above scrutiny; its endurance is a reason to examine it closely, not to wave it through. Compare its logic to Hobbes's case for concentrated power and you'll see two seminal answers to the same question—how to secure order without inviting tyranny.",
+          "curriculum_connection": "Supports the RI.8 evaluation of Federalist 51 and comparison with the political reasoning of Leviathan and Two Treatises of Government.",
+          "check_for_understanding": [
+            {
+              "prompt": "According to RI.11-12.8 as described here, evaluating a seminal text like Federalist 51 means:",
+              "choices": [
+                {
+                  "text": "Accepting its conclusions because the document is historically important",
+                  "is_correct": false
+                },
+                {
+                  "text": "Summarizing its main points as accurately as possible",
+                  "is_correct": false
+                },
+                {
+                  "text": "Weighing its premises, purposes, and rhetoric to judge the strength of its reasoning",
+                  "is_correct": true
+                },
+                {
+                  "text": "Counting how many times it has been quoted by later writers",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L10",
+          "number": 10,
+          "title": "Comparing Competing Political Philosophies",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Compare how two foundational thinkers address the same political question through differing premises.",
+          "key_concepts": [
+            "Comparative analysis",
+            "Shared question, different answers",
+            "Root disagreement",
+            "Premises drive conclusions",
+            "Synthesis across thinkers"
+          ],
+          "instruction": "In Grade 11 you tracked one theme across many texts; here you'll track one question across rival philosophers and watch their premises pull them apart. Hobbes and Locke both ask how government gets its authority, but they start from different pictures of human nature, so they reach different conclusions—absolute sovereignty versus limited, revocable government. Machiavelli asks what a ruler must actually do to keep power, splitting from More's vision of an ideal commonwealth in Utopia. To compare well, don't just list who said what. Find the root disagreement—the single premise where the thinkers part ways—and show how every later difference flows from it. Then ask which premise the evidence and your own reasoning favor. This is synthesis at an advanced level: holding two complete arguments in mind, locating the hinge between them, and judging it. Test questions that ask how two authors would respond to each other are really asking you to find that hinge.",
+          "curriculum_connection": "Prepares students to compare the political philosophies of Leviathan, Two Treatises of Government, The Prince, and Utopia.",
+          "check_for_understanding": [
+            {
+              "prompt": "The lesson says the best way to compare two political philosophers is to:",
+              "choices": [
+                {
+                  "text": "Decide which author is older and therefore more authoritative",
+                  "is_correct": false
+                },
+                {
+                  "text": "List every claim each author makes in separate columns",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choose the author whose conclusion you already prefer",
+                  "is_correct": false
+                },
+                {
+                  "text": "Find the root premise where they part ways and show how later differences flow from it",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L11",
+          "number": 11,
+          "title": "Definitions and First Principles",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.4",
+            "RI.11-12.5"
+          ],
+          "learning_objective": "Recognize how philosophers build arguments on carefully constructed definitions and first principles.",
+          "key_concepts": [
+            "Stipulative definition",
+            "First principle / axiom",
+            "Definitions do argumentative work",
+            "Contesting a definition",
+            "Foundations of a system"
+          ],
+          "instruction": "Philosophers often win or lose an argument at the level of definition. Before Hobbes can argue about the 'state of nature,' he must define it; before Locke can argue about 'property,' he must say what property is and how it arises. These are not neutral dictionary entries—they are stipulative definitions chosen to do argumentative work. If you accept Hobbes's definition of the state of nature as a war of all against all, his conclusions follow almost automatically. That's why a sharp reader inspects definitions first and asks, 'Is this how I would define the term, and what changes if I define it differently?' First principles work the same way: an axiom the author treats as self-evident is the foundation the whole system stands on. When you sense a conclusion is being forced, trace back to the definition or first principle it rests on. Often the most powerful move in reading philosophy is not to attack the conclusion but to contest the definition that made it inevitable.",
+          "curriculum_connection": "Supports analyzing how definitions and first principles drive the arguments of Leviathan, Two Treatises of Government, and Utopia.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does the lesson say a 'stipulative definition' is more than a neutral dictionary entry?",
+              "choices": [
+                {
+                  "text": "Because it is chosen to do argumentative work and shapes the conclusions that follow",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because it is always longer and more formal than ordinary definitions",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because philosophers invent words that do not exist",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because it appears only at the end of a philosophical argument",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L12",
+          "number": 12,
+          "title": "Steelmanning Before You Critique",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Construct the strongest version of an argument before evaluating or critiquing it.",
+          "key_concepts": [
+            "Steelman vs. strawman",
+            "Charitable reconstruction",
+            "Intellectual honesty",
+            "Strongest version first",
+            "Earned critique"
+          ],
+          "instruction": "A strawman is a weak, distorted version of an argument that's easy to knock down; a steelman is the strongest, most reasonable version, stated so well its author would nod. Scholars steelman before they critique. Before you disagree with Machiavelli's hard advice to rulers, state his case at its most persuasive: in a dangerous world, a leader who is always 'good' may doom the people who depend on him. Now any critique you offer has to defeat the strong version, not a cartoon. Steelmanning is not agreement and not weakness—it is intellectual honesty, and it makes your eventual critique far more powerful. It also protects you from the easy error of arguing against a position no serious person holds. As you read the political texts this year, practice the two-step: first write the best one-paragraph defense of the author's view you can, then write your objection. If your objection still stands after the steelman, it's worth something. If it collapses, you've learned the author was right.",
+          "curriculum_connection": "Prepares students to steelman the arguments of The Prince, Leviathan, and Two Treatises of Government before critiquing them.",
+          "check_for_understanding": [
+            {
+              "prompt": "To 'steelman' an argument means to:",
+              "choices": [
+                {
+                  "text": "Restate the argument in its weakest form so it is easy to refute",
+                  "is_correct": false
+                },
+                {
+                  "text": "Agree with the argument and abandon your own view",
+                  "is_correct": false
+                },
+                {
+                  "text": "Avoid critiquing the argument out of politeness",
+                  "is_correct": false
+                },
+                {
+                  "text": "Build the strongest, most reasonable version of it before critiquing it",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Advanced Craft & Form",
+      "description": "Students learn how form and structure create aesthetic effect at a mastery level: the ode, the sonnet sequence, the metaphysical conceit, sustained paradox and irony, the sublime, and satire's understatement.",
+      "placement": {
+        "before_articles": "Articles 13–22 and 41–62 (Shakespeare's Sonnets; \"To His Coy Mistress\"/\"The Garden\"; \"No Man Is an Island\"; and the Romanticism cluster: Keats's odes; Wordsworth; Coleridge; Shelley; Blake)"
+      },
+      "duration_minutes": 51,
+      "lessons": [
+        {
+          "id": "L13",
+          "number": 13,
+          "title": "How Form Creates Aesthetic Effect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Explain how a poem's form and structure produce specific aesthetic effects, as required by RL.5.",
+          "key_concepts": [
+            "Form as meaning",
+            "Aesthetic effect",
+            "Structure shapes response",
+            "Constraint and freedom",
+            "Reading the shape, not just the words"
+          ],
+          "instruction": "In Grade 11 you analyzed modernist form and free verse; now you'll read closed forms at mastery, where the shape of a poem is part of its meaning. RL.11-12.5 asks you to analyze how an author's choices about structure create effect. A fourteen-line sonnet, a stanza that turns at exactly the right moment, a rhyme that snaps shut—these are not decoration. Form sets up expectations and then satisfies, delays, or breaks them, and your response as a reader is shaped by that play. When a poem's argument arrives precisely at the turn of a sonnet, the form is doing the persuading along with the words. The discipline is to read the shape and the sentence together: notice where lines break, where a stanza ends, where the rhythm tightens or loosens, and ask what feeling that structure produces. Constraint can free a poet to be more precise, not less. Throughout this module, treat form as the second text running alongside the words.",
+          "curriculum_connection": "Prepares students to analyze form and structure in Shakespeare's Sonnets, Keats's odes, and \"To His Coy Mistress.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "What does RL.11-12.5 ask you to do, as described in this lesson?",
+              "choices": [
+                {
+                  "text": "Analyze how the poem's structure and form create a specific aesthetic effect",
+                  "is_correct": true
+                },
+                {
+                  "text": "Identify the poem's historical period of composition",
+                  "is_correct": false
+                },
+                {
+                  "text": "Count the number of words in each line",
+                  "is_correct": false
+                },
+                {
+                  "text": "Summarize the poem's plot in prose",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L14",
+          "number": 14,
+          "title": "The Ode and Its Movement",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Trace the characteristic movement of an ode from address, through meditation, to resolution.",
+          "key_concepts": [
+            "Ode as a form",
+            "Apostrophe / direct address",
+            "Meditative development",
+            "Emotional arc",
+            "Earned resolution"
+          ],
+          "instruction": "An ode is a serious, often exalted poem that addresses something directly and thinks its way through a feeling. Keats's \"Ode to a Nightingale\" and \"Ode on a Grecian Urn\" follow a movement worth knowing: the speaker addresses an object (a bird, an urn), is drawn out of himself into longing or vision, presses the object with questions, and then comes back changed—sometimes consoled, sometimes more unsettled. Read an ode for that arc, not just its images. Mark where the speaker turns from the thing to a larger meditation on mortality, art, or time, and notice how the final stanza earns (or refuses) its resolution—\"Beauty is truth, truth beauty\" lands so hard because of everything the poem moved through to reach it. The ode's stanza shape supports this development, giving the meditation room to deepen. When you sense a poem swelling into direct address and high seriousness, you're likely in an ode, and the question to ask is: where does the feeling travel, and where does it arrive?",
+          "curriculum_connection": "Supports reading Keats's \"Ode to a Nightingale\" and \"Ode on a Grecian Urn\" and Shelley's \"Ode to the West Wind.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "Which best describes the 'movement' of an ode as the lesson presents it?",
+              "choices": [
+                {
+                  "text": "A list of unrelated images with no emotional direction",
+                  "is_correct": false
+                },
+                {
+                  "text": "A direct address that develops through meditation toward a resolution",
+                  "is_correct": true
+                },
+                {
+                  "text": "A short, witty poem ending in a surprising joke",
+                  "is_correct": false
+                },
+                {
+                  "text": "A narrative that tells a story from beginning to end",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L15",
+          "number": 15,
+          "title": "The Sonnet and the Sequence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Analyze how the sonnet's volta and the larger sequence shape meaning.",
+          "key_concepts": [
+            "Octave / sestet and quatrains / couplet",
+            "The volta (turn)",
+            "Argument compressed in form",
+            "Sonnet sequence",
+            "Closing couplet as resolution"
+          ],
+          "instruction": "A sonnet is fourteen lines that often work like a tiny argument. In the Shakespearean form, three quatrains develop a problem or image and a final couplet snaps it shut with a turn or twist; in the Italian form, an octave sets up and a sestet responds. That hinge is the volta—the moment the poem pivots. In Sonnet 130 (\"My mistress' eyes are nothing like the sun\"), the quatrains pile up un-flattering comparisons and the couplet turns to declare real love anyway; the form delivers the surprise. Read for the volta first; it tells you what the poem is really doing. Then widen out: many sonnets live in a sequence, so Sonnet 18, 73, and 116 speak to one another about time, decay, and constancy. The sequence lets a poet test an idea from several angles, the way a scholar builds a case across paragraphs. Track both scales—the turn inside one sonnet and the conversation across the set.",
+          "curriculum_connection": "Prepares students for Shakespeare's Sonnets 18, 73, 116, and 130 read as a sequence.",
+          "check_for_understanding": [
+            {
+              "prompt": "The 'volta' in a sonnet is:",
+              "choices": [
+                {
+                  "text": "The poem's title or dedication",
+                  "is_correct": false
+                },
+                {
+                  "text": "The regular rhythm of each line",
+                  "is_correct": false
+                },
+                {
+                  "text": "The turn where the poem pivots in thought or feeling",
+                  "is_correct": true
+                },
+                {
+                  "text": "The list of poems in a sequence",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L16",
+          "number": 16,
+          "title": "The Metaphysical Conceit",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.5"
+          ],
+          "learning_objective": "Interpret an extended metaphysical conceit and explain how its surprising comparison generates meaning.",
+          "key_concepts": [
+            "Conceit (extended metaphor)",
+            "Yoking unlike things",
+            "Wit and intellectual surprise",
+            "Sustained development",
+            "Argument by image"
+          ],
+          "instruction": "A metaphysical conceit is an extended metaphor that yokes two wildly unlike things and then refuses to let go, developing the comparison through surprising logic. Donne compares two parting lovers to the legs of a drawing compass; Marvell, in \"To His Coy Mistress,\" reasons about love with the cold logic of a syllogism. The pleasure—and the meaning—comes from watching the poet make an impossible comparison actually work, line after line. To read a conceit, first name the two things being joined (lovers and a compass), then follow how each property of the image is mapped onto the idea (the fixed foot, the leaning, the return). Don't bail out when the comparison seems strange; the strangeness is the point, and the wit is the argument. A conceit asks you to think, not just to feel. When a poem builds a single odd metaphor across a whole stanza or more, slow down and trace every step of the mapping—that tracing is the interpretation.",
+          "curriculum_connection": "Supports reading Donne's \"No Man Is an Island\" and \"A Valediction\" alongside Marvell's \"To His Coy Mistress\" and \"The Garden.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "A metaphysical conceit is best understood as:",
+              "choices": [
+                {
+                  "text": "A poet's exaggerated pride in their own skill",
+                  "is_correct": false
+                },
+                {
+                  "text": "An extended metaphor that develops a surprising comparison between unlike things",
+                  "is_correct": true
+                },
+                {
+                  "text": "A poem with no figurative language at all",
+                  "is_correct": false
+                },
+                {
+                  "text": "A brief simile used once and dropped",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L17",
+          "number": 17,
+          "title": "Paradox, Ambiguity, and Irony at Mastery",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Interpret deliberate paradox and ambiguity as sources of meaning rather than errors to be resolved.",
+          "key_concepts": [
+            "Paradox",
+            "Productive ambiguity",
+            "Holding two meanings at once",
+            "Irony as a gap",
+            "Resisting the urge to flatten"
+          ],
+          "instruction": "Advanced poems often say two true things that seem to contradict, and they mean for you to hold both. Donne writes \"Death, be not proud\" and then argues that death itself will die—a paradox that carries the whole poem's faith. Keats ends an ode by fusing beauty and truth in a line readers still argue over. The beginner's instinct is to 'solve' such lines by picking one meaning; the scholar's discipline is to keep both in play and ask what the tension does. Ambiguity here is not vagueness—it's a controlled doubleness the poet built on purpose. Irony adds a further layer: a gap between what is said and what is meant, or between what a speaker believes and what the poem knows. When a multiple-choice question offers you an answer that resolves a paradox too neatly, be suspicious; the better answer often preserves the tension. Reading at mastery means tolerating two meanings long enough to see why the poem needs both.",
+          "curriculum_connection": "Prepares students for paradox and ambiguity in Donne's \"Death, be not proud,\" Keats's odes, and \"Much Madness Is Divinest Sense.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "How should a skilled reader handle a deliberate paradox in a poem?",
+              "choices": [
+                {
+                  "text": "Treat it as a mistake the poet failed to fix",
+                  "is_correct": false
+                },
+                {
+                  "text": "Pick the single literal meaning and move on",
+                  "is_correct": false
+                },
+                {
+                  "text": "Hold both meanings in tension and ask what that tension accomplishes",
+                  "is_correct": true
+                },
+                {
+                  "text": "Ignore the line because it cannot be understood",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L18",
+          "number": 18,
+          "title": "The Sublime in Romantic Poetry",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.5"
+          ],
+          "learning_objective": "Identify the Romantic sublime and analyze how poets render awe mixed with terror before the vast.",
+          "key_concepts": [
+            "The sublime",
+            "Awe and terror together",
+            "Vastness and the limits of the self",
+            "Nature as overwhelming",
+            "Form straining toward the unsayable"
+          ],
+          "instruction": "The Romantic sublime is the experience of confronting something so vast or powerful—a mountain, a storm, the night sky—that it overwhelms the mind and produces awe shot through with terror. It is beauty's intense, frightening cousin. Shelley's \"Mont Blanc\" and \"Ode to the West Wind,\" Coleridge's \"Kubla Khan,\" and Wordsworth's mountain passages reach for the sublime, and their form shows the strain: long, surging sentences, a syntax that almost loses control, imagery that gestures past what language can hold. To read for the sublime, watch where the poem admits that the object exceeds the speaker—where awe tips into fear, where the self feels small. Notice how the poet uses sound and sentence length to make you feel that overflow rather than merely report it. The sublime is not just 'pretty nature'; it is the encounter with a power that humbles the mind. When a Romantic poem swells beyond the comfortable, you are likely in its presence.",
+          "curriculum_connection": "Supports reading Shelley's \"Mont Blanc\" and \"Ode to the West Wind,\" Coleridge's \"Kubla Khan,\" and the Romantic treatment of The Sublime.",
+          "check_for_understanding": [
+            {
+              "prompt": "The Romantic sublime is best defined as:",
+              "choices": [
+                {
+                  "text": "A calm, pleasant appreciation of a tidy garden",
+                  "is_correct": false
+                },
+                {
+                  "text": "A clever joke about the natural world",
+                  "is_correct": false
+                },
+                {
+                  "text": "A precise scientific description of a landscape",
+                  "is_correct": false
+                },
+                {
+                  "text": "Awe mixed with terror before something vast that overwhelms the mind",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L19",
+          "number": 19,
+          "title": "Satire and Understatement",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Detect satire and understatement by reading the gap between stated and intended meaning (RL/RI.6).",
+          "key_concepts": [
+            "Satire",
+            "Understatement",
+            "Stated vs. real point of view",
+            "Target of the satire",
+            "Tone as a clue (RL/RI.6)"
+          ],
+          "instruction": "Satire attacks folly or vice by pretending to praise it, and understatement makes a huge thing sound small so the reader supplies the outrage. Both depend on RL/RI.11-12.6: distinguishing what is literally stated from what is really meant. When Swift's \"A Modest Proposal\" calmly recommends an unthinkable solution, the calm tone is the weapon; the reader who takes it straight has missed the point. Pope's \"The Rape of the Lock\" treats a trivial quarrel in grand epic terms, mocking the vanity it pretends to honor. To read satire, ask three questions: what is the surface saying, what is the author actually attacking, and what tonal signals (excessive politeness, mismatched scale, mock-seriousness) reveal the gap? Understatement works the same way in reverse—the deliberate smallness is a flag. Test items that ask about an author's point of view or purpose are often probing whether you can hear the irony. Read the tone, not just the words, and locate the real target.",
+          "curriculum_connection": "Prepares students for the satire of Gulliver's Travels, \"Essay on Man\"/\"The Rape of the Lock,\" and the irony in \"Politics and the English Language.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "Reading satire successfully depends most on:",
+              "choices": [
+                {
+                  "text": "Counting the number of jokes in the text",
+                  "is_correct": false
+                },
+                {
+                  "text": "Identifying the longest sentence in the passage",
+                  "is_correct": false
+                },
+                {
+                  "text": "Taking the author's praise completely at face value",
+                  "is_correct": false
+                },
+                {
+                  "text": "Recognizing the gap between what is stated and what is really meant",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Advanced Narrative & the Fractured Self",
+      "description": "Students master demanding narrative techniques: stream of consciousness, the absurd and alienated narrator, framed and unreliable narration, genre conventions, and nonlinear fragmentation.",
+      "placement": {
+        "before_articles": "Articles 44–62 and 63–93 (Frankenstein; Great Expectations; and the Modernism cluster: Mrs. Dalloway; The Stranger; \"The Metamorphosis\"; 1984/We)"
+      },
+      "duration_minutes": 45,
+      "lessons": [
+        {
+          "id": "L20",
+          "number": 20,
+          "title": "Stream of Consciousness at Mastery",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.3",
+            "RL.11-12.5"
+          ],
+          "learning_objective": "Follow sustained stream-of-consciousness narration and explain how it represents the movement of a mind.",
+          "key_concepts": [
+            "Stream of consciousness",
+            "Free association",
+            "Interior time vs. clock time",
+            "Shifting focus",
+            "Reading the mind's logic"
+          ],
+          "instruction": "In Grade 11 you were introduced to stream of consciousness; now you'll read it sustained across a whole work, where it becomes the novel's main instrument. In Mrs. Dalloway, Woolf lets a single hour of clock time open into pages of memory, sensation, and association as the mind drifts from a flower shop to a lost love to a passing car. The narration follows the logic of thought, not the logic of plot: it leaps, circles back, and blurs the line between present perception and remembered past. To read it well, stop expecting a tidy sequence of events and instead track the chain of associations—why does this thought summon that memory? Mark the moves between characters' minds, which can happen mid-paragraph. Interior time stretches and compresses; an instant can fill a page. The reward is intimacy: you are inside experience as it forms. When the prose seems to wander, ask what feeling or memory is pulling it, and you'll find the hidden order.",
+          "curriculum_connection": "Supports reading Mrs. Dalloway and the stream-of-consciousness sections of \"The Dead.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "Stream-of-consciousness narration follows which kind of logic?",
+              "choices": [
+                {
+                  "text": "The strict chronological order of external events",
+                  "is_correct": false
+                },
+                {
+                  "text": "The associative movement of a character's thoughts and memories",
+                  "is_correct": true
+                },
+                {
+                  "text": "A formal argument with premises and a conclusion",
+                  "is_correct": false
+                },
+                {
+                  "text": "The conventions of a stage play with scene headings",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L21",
+          "number": 21,
+          "title": "The Absurd and the Alienated Narrator",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.3",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Analyze how an alienated, affectless narrator conveys the philosophy of the absurd.",
+          "key_concepts": [
+            "The absurd",
+            "Alienation / estrangement",
+            "Affectless narration",
+            "Detached tone as meaning",
+            "Reader discomfort as a clue"
+          ],
+          "instruction": "Some narrators are deliberately estranged from the world and from feeling, and that estrangement is the meaning. Camus's narrator in The Stranger reports his mother's funeral and even a killing with the same flat, detached calm he'd use for the weather; the absence of expected emotion forces you to feel the absurd—the gap between human longing for meaning and a universe that offers none. In \"The Metamorphosis,\" Kafka narrates a man waking as an insect in a matter-of-fact register, as if the impossible were merely inconvenient. Don't read the flat tone as the author's coldness; read it as a designed effect. Ask what response the narrator withholds and why your own discomfort grows. The alienated narrator makes ordinary life look strange so you can see it freshly—and makes catastrophe look ordinary so you confront how arbitrary it is. Your unease is not a failure of the text; it is the text working. Track where the tone refuses the feeling the events seem to demand.",
+          "curriculum_connection": "Prepares students for The Stranger and \"The Metamorphosis.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "In The Stranger, the narrator's flat, detached tone mainly functions to:",
+              "choices": [
+                {
+                  "text": "Show that the author did not care about the story",
+                  "is_correct": false
+                },
+                {
+                  "text": "Hide important plot information from the reader",
+                  "is_correct": false
+                },
+                {
+                  "text": "Convey the absurd gap between human longing for meaning and an indifferent universe",
+                  "is_correct": true
+                },
+                {
+                  "text": "Prove the narrator is lying about events",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L22",
+          "number": 22,
+          "title": "Framed and Nested Narration",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Analyze how nested frame narratives shape and complicate the reliability of a story.",
+          "key_concepts": [
+            "Frame narrative",
+            "Nested narrators",
+            "Mediated story",
+            "Whose version are we hearing?",
+            "Structure shapes sympathy"
+          ],
+          "instruction": "In Grade 11 you learned to spot an unreliable narrator; now you'll read structures that stack narrators inside one another so reliability becomes a layered question. Frankenstein is told through frames: Walton's letters contain Victor's confession, which contains the creature's own account. Each layer is filtered through the one outside it, so by the time you reach the creature's story, it has passed through two narrators who shape how you receive it. Ask at every point: whose version is this, and who is reporting it to whom? The frame controls sympathy—we may pity the creature more or less depending on whether we hear him directly or through Victor's fear. Map the nesting like a set of boxes, and notice where a narrator's bias might color the tale he passes along. A framed story is never neutral; the structure itself is an argument about whom to trust. When you sense a story-within-a-story, slow down and track the chain of telling before you judge any character inside it.",
+          "curriculum_connection": "Supports reading the nested frame narration of Frankenstein.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does a frame narrative like Frankenstein complicate reliability?",
+              "choices": [
+                {
+                  "text": "Each narrator's account is filtered through the narrators outside it",
+                  "is_correct": true
+                },
+                {
+                  "text": "Frame narratives always tell the story in reverse order",
+                  "is_correct": false
+                },
+                {
+                  "text": "The outermost narrator is always the villain",
+                  "is_correct": false
+                },
+                {
+                  "text": "Nested stories remove all bias from the telling",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L23",
+          "number": 23,
+          "title": "Genre Conventions: Dystopia, Tragedy, Bildungsroman",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Use knowledge of genre conventions to anticipate structure and interpret meaning.",
+          "key_concepts": [
+            "Genre as a contract",
+            "Dystopia",
+            "Tragedy and the tragic flaw",
+            "Bildungsroman (coming of age)",
+            "Convention and variation"
+          ],
+          "instruction": "Genre is a set of expectations shared between writer and reader—a kind of contract. Knowing the conventions lets you read faster and deeper, because you can anticipate the shape and notice meaningful departures. A dystopia like 1984 or We projects present fears onto a controlled future, usually following an individual who begins to see through the system and is crushed or co-opted. A tragedy like Hamlet traces a capable figure brought down by a flaw or fate, moving toward inevitable catastrophe. A bildungsroman like Great Expectations follows a young protagonist's moral and emotional growth toward maturity and self-knowledge. Once you name the genre, you can ask the right questions: in dystopia, what does the regime fear and forbid; in tragedy, what is the fatal misstep; in a bildungsroman, what does the hero have to lose to grow up? Watch, too, for variation—where a work bends its genre is often where its originality and meaning concentrate.",
+          "curriculum_connection": "Prepares students for the genres of 1984, We, Great Expectations, and the tragedy of Hamlet.",
+          "check_for_understanding": [
+            {
+              "prompt": "A bildungsroman is a genre that focuses on:",
+              "choices": [
+                {
+                  "text": "A controlled future society that projects present fears",
+                  "is_correct": false
+                },
+                {
+                  "text": "A noble figure destroyed by a fatal flaw",
+                  "is_correct": false
+                },
+                {
+                  "text": "A detective solving a crime through clues",
+                  "is_correct": false
+                },
+                {
+                  "text": "A young protagonist's growth toward maturity and self-knowledge",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L24",
+          "number": 24,
+          "title": "Nonlinear Structure and Fragmentation",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.3"
+          ],
+          "learning_objective": "Interpret nonlinear and fragmented narrative structures and explain how disorder creates meaning.",
+          "key_concepts": [
+            "Nonlinear chronology",
+            "Fragmentation",
+            "Juxtaposition over sequence",
+            "Form mirrors content",
+            "Reader as assembler"
+          ],
+          "instruction": "Not every story marches forward in time. Modernist and later narratives often fracture chronology—jumping between past and present, breaking into fragments, juxtaposing scenes without smooth transitions—and the disorder is meaningful, not careless. When a narrative about trauma, memory, or a disordered mind refuses straight chronology, the form mirrors the content: a shattered experience told in shattered pieces. Mrs. Dalloway folds a single day around sudden plunges into the past; the structure enacts how memory invades the present. Your job shifts from following a line to assembling a pattern—you become the one who pieces the order together and asks why the author withheld it. Notice what each jump connects: a present sound that triggers a buried scene, two moments placed side by side so their contrast does the arguing. Fragmentation is a technique with a purpose. When a text seems hard to follow chronologically, pause and ask what the broken structure is making you feel or understand that a tidy sequence could not.",
+          "curriculum_connection": "Supports reading the nonlinear structure of Mrs. Dalloway and the fragmented modernist form of \"The Metamorphosis\" and \"Prufrock.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "When a narrative deliberately fractures its chronology, the lesson says the reader should:",
+              "choices": [
+                {
+                  "text": "Assume the author lost track of the timeline",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip ahead to find where events are told in order",
+                  "is_correct": false
+                },
+                {
+                  "text": "Treat every scene as happening simultaneously",
+                  "is_correct": false
+                },
+                {
+                  "text": "Assemble the pattern and ask what the broken structure conveys",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L25",
+          "number": 25,
+          "title": "How a Narrator's Limits Create Meaning",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.6",
+            "RL.11-12.3"
+          ],
+          "learning_objective": "Explain how the boundaries of a narrator's knowledge and perspective generate dramatic irony and theme.",
+          "key_concepts": [
+            "Limited perspective",
+            "What the narrator cannot see",
+            "Dramatic irony",
+            "Gap between narrator and author",
+            "Limits as a design choice"
+          ],
+          "instruction": "A narrator's blind spots are not bugs—they are tools. When you read a story bounded by one limited perspective, the meaning often lives in what the narrator can't or won't see. Pip in Great Expectations misjudges where his fortune comes from and whom to value; the gap between his understanding and ours generates dramatic irony and, finally, the novel's lesson about gratitude and class. The creature in Frankenstein understands his own loneliness but not how his actions look from outside. To read for this, hold two pictures at once: the narrator's account, and the fuller truth the author lets you glimpse around its edges. Ask what the narrator overvalues, fears, or fails to notice, and what that limit reveals about the theme. The author chose these boundaries deliberately; a perfectly informed narrator would kill the irony. When a test question asks why a story is told from a particular vantage, it is asking how that limited view shapes meaning—not merely who is speaking.",
+          "curriculum_connection": "Prepares students to analyze limited perspective in Great Expectations and Frankenstein.",
+          "check_for_understanding": [
+            {
+              "prompt": "A limited narrator's blind spots most often function to:",
+              "choices": [
+                {
+                  "text": "Generate dramatic irony and reveal theme through what the narrator cannot see",
+                  "is_correct": true
+                },
+                {
+                  "text": "Signal that the author ran out of information",
+                  "is_correct": false
+                },
+                {
+                  "text": "Make the story easier and faster to read",
+                  "is_correct": false
+                },
+                {
+                  "text": "Prove that the narrator is the story's villain",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M5",
+      "title": "World Literature & Postcolonial Reading at Scale",
+      "description": "Students learn to read literature that 'writes back' to empire, to trace intertextuality across literary history, to resist the danger of a single story, and to compare world texts on a shared theme.",
+      "placement": {
+        "before_articles": "Articles 70–93 (Things Fall Apart; A Small Place; Season of Migration to the North; In the Time of the Butterflies; Persepolis; The Kite Runner; The God of Small Things; So Long a Letter; Partition of India; Single Story/Americanah)"
+      },
+      "duration_minutes": 53,
+      "lessons": [
+        {
+          "id": "L26",
+          "number": 26,
+          "title": "Literature That Writes Back to Empire",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.6",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Explain how postcolonial literature responds to and revises the perspective of imperial narratives.",
+          "key_concepts": [
+            "Postcolonial literature",
+            "Writing back",
+            "Whose perspective dominates",
+            "Reclaiming the narrative",
+            "Empire as subject and target"
+          ],
+          "instruction": "Much of the world's modern literature was written by people whose lands and stories were once told only by their colonizers. Postcolonial literature 'writes back': it reclaims the narrative, telling history from the side that earlier books ignored or distorted. Achebe's Things Fall Apart presents a complex Igbo society on its own terms before the British arrive, answering centuries of European fiction that reduced Africa to a backdrop. Kincaid's A Small Place turns a tourist's paradise inside out to expose the colonial scars beneath it. To read these works, ask whose perspective the text recenters and which earlier, more powerful narrative it is correcting. The point of view is itself an argument about who gets to speak. In Grade 11 you saw how texts answer one another within a tradition; here the answer crosses an imbalance of power, which raises the stakes. Read for what the text restores—the voices, the dignity, the complexity—that the imperial story left out.",
+          "curriculum_connection": "Supports reading Things Fall Apart, A Small Place, and Season of Migration to the North as literature that writes back to empire.",
+          "check_for_understanding": [
+            {
+              "prompt": "Literature that 'writes back' to empire is best described as:",
+              "choices": [
+                {
+                  "text": "Reclaiming the narrative by telling history from a perspective earlier imperial texts ignored",
+                  "is_correct": true
+                },
+                {
+                  "text": "Literature written exclusively for readers in former colonies",
+                  "is_correct": false
+                },
+                {
+                  "text": "Any story that takes place during a war",
+                  "is_correct": false
+                },
+                {
+                  "text": "A defense of empire written by colonial officials",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L27",
+          "number": 27,
+          "title": "Intertextuality Across Literary History",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RL.11-12.7"
+          ],
+          "learning_objective": "Analyze how a later work reworks an earlier canonical text and what that reworking argues.",
+          "key_concepts": [
+            "Intertextuality across eras",
+            "Reworking the canon",
+            "Margins to center",
+            "Adaptation as commentary",
+            "Dialogue with a source"
+          ],
+          "instruction": "In Grade 11 you studied texts answering texts within one tradition, such as Hughes answering Whitman; now you'll watch later writers rework canonical works across centuries and cultures, often to challenge them. Stoppard's Rosencrantz and Guildenstern Are Dead takes two minor courtiers from Hamlet and makes them the center, exposing how the canon treats some lives as disposable. Postcolonial novels enter dialogue with the European classics that once excluded them, talking back from the margins. To read this kind of intertextuality, hold the source and the reworking side by side: what does the new text keep, what does it invert, and what argument does the change make? Moving a minor figure to center stage is itself a claim about whose story matters. Adaptation is never neutral copying; it is commentary. When a work clearly leans on an older one, ask not just 'what is the allusion?' but 'what is this later text saying back to the earlier one?'",
+          "curriculum_connection": "Prepares students for Rosencrantz and Guildenstern Are Dead reworking Hamlet, and for Achebe and other writers in dialogue with the canon.",
+          "check_for_understanding": [
+            {
+              "prompt": "When Stoppard moves two minor Hamlet characters to center stage, the reworking primarily:",
+              "choices": [
+                {
+                  "text": "Copies Shakespeare's play without changing its meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "Proves that Hamlet was poorly written",
+                  "is_correct": false
+                },
+                {
+                  "text": "Makes an argument about whose lives the canon treats as disposable",
+                  "is_correct": true
+                },
+                {
+                  "text": "Avoids any connection to the original play",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L28",
+          "number": 28,
+          "title": "The Danger of a Single Story",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Recognize how a 'single story' flattens a people or place and how literature can resist it.",
+          "key_concepts": [
+            "The single story",
+            "Stereotype and flattening",
+            "Power and who tells the story",
+            "Multiplicity of narratives",
+            "Reading for complexity"
+          ],
+          "instruction": "A 'single story' is what happens when one narrow narrative about a people or place repeats until it becomes the only story readers know—and it almost always serves whoever has the power to tell it. Adichie warns that the single story robs people of dignity and makes difference, not shared humanity, the headline. Literature both creates single stories and dismantles them. A novel like The Kite Runner or Persepolis offers an insider's complexity that resists the flat outsider's version; A Small Place refuses the tourist's single story of a sunny island. As a reader, ask: is this text giving me one reductive narrative, or many? Whose telling am I receiving, and what does it leave out? Watch your own assumptions, too—if a place or group appears in your reading only one way, that is a sign you're holding a single story, not the truth. Reading for complexity is an ethical skill as much as an analytic one, and it travels with you out of the classroom.",
+          "curriculum_connection": "Supports reading the Single Story/Americanah materials, Persepolis, and The Kite Runner.",
+          "check_for_understanding": [
+            {
+              "prompt": "The 'danger of a single story,' as the lesson describes it, is that:",
+              "choices": [
+                {
+                  "text": "Stories are too long for most readers to finish",
+                  "is_correct": false
+                },
+                {
+                  "text": "One narrow, repeated narrative flattens a people or place and strips away complexity",
+                  "is_correct": true
+                },
+                {
+                  "text": "Readers prefer fiction to nonfiction",
+                  "is_correct": false
+                },
+                {
+                  "text": "A story can only have one main character",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L29",
+          "number": 29,
+          "title": "Reading Across Cultural and Linguistic Distance",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Read texts from unfamiliar traditions with humility, supplying context without imposing your own assumptions.",
+          "key_concepts": [
+            "Cultural distance",
+            "Translation and its limits",
+            "Context without judgment",
+            "Avoiding misreading",
+            "Reading on the text's terms"
+          ],
+          "instruction": "When you read literature from a tradition far from your own, you read across distance—of culture, language, and assumption. A proverb in Things Fall Apart, an untranslatable word in Persepolis, a social rule in So Long a Letter may carry weight you'll miss if you read by your own defaults. The discipline is twofold: supply context (what does this custom mean in its world?) without imposing judgment (it isn't 'strange,' it's unfamiliar to you). Remember, too, that translated texts reach you through a translator's choices; a word in English may only approximate the original. Read on the text's terms first—reconstruct what a value or ritual means inside the story before evaluating it. This humility is not relativism; it's accuracy, the same close attention you'd give any text, extended across a gap. When something puzzles you in a world text, treat the puzzle as an invitation to learn the context, not as evidence that the text is deficient.",
+          "curriculum_connection": "Prepares students to read across cultural distance in Things Fall Apart, So Long a Letter, Persepolis, and The God of Small Things.",
+          "check_for_understanding": [
+            {
+              "prompt": "How does the lesson advise reading a custom from an unfamiliar culture in a world text?",
+              "choices": [
+                {
+                  "text": "Judge it immediately against your own culture's norms",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip the passage, since translation makes it unreliable",
+                  "is_correct": false
+                },
+                {
+                  "text": "Assume it is strange and therefore unimportant",
+                  "is_correct": false
+                },
+                {
+                  "text": "Supply the context to understand its meaning before evaluating it",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L30",
+          "number": 30,
+          "title": "The Witness and Testimony Text",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Read testimony and witness literature with attention to the ethical weight of bearing witness.",
+          "key_concepts": [
+            "Witness literature",
+            "Testimony",
+            "Survivor's authority",
+            "Limits of language for atrocity",
+            "Reading as moral act"
+          ],
+          "instruction": "Some texts exist to bear witness—to say 'this happened, and I was there.' Wiesel's Night and the accounts in In the Time of the Butterflies carry the authority of testimony: a survivor records suffering so it cannot be denied or forgotten. Reading witness literature asks something different from reading invented fiction. The first move is to honor the testimony's truth-claim and recognize the courage it took to speak. The second is to notice how language strains at the edges of atrocity—where the writer admits words fail, where silence or understatement says more than description could. Don't rush to literary 'analysis' that treats horror as mere technique; respect what the text is doing before dissecting how. At the same time, read carefully: testimony is shaped by memory and purpose like any account. Witness literature reminds you that reading is sometimes a moral act—you become a secondary witness, charged with carrying forward what you've read.",
+          "curriculum_connection": "Supports reading Night (Wiesel's Nobel lecture) and In the Time of the Butterflies as witness and testimony.",
+          "check_for_understanding": [
+            {
+              "prompt": "What distinguishes a witness or testimony text, according to the lesson?",
+              "choices": [
+                {
+                  "text": "It is always written long after the events by an outsider",
+                  "is_correct": false
+                },
+                {
+                  "text": "It carries a survivor's truth-claim—'this happened, and I was there'",
+                  "is_correct": true
+                },
+                {
+                  "text": "It avoids any reference to real historical events",
+                  "is_correct": false
+                },
+                {
+                  "text": "It is purely fictional and makes no claim about reality",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L31",
+          "number": 31,
+          "title": "Comparing Two World Texts on a Shared Theme",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Compare how two works from different cultures treat a shared theme, as RL.9 requires.",
+          "key_concepts": [
+            "Comparative thematic reading (RL.9)",
+            "Shared theme, different treatment",
+            "Cultural frame shapes meaning",
+            "Convergence and divergence",
+            "Synthesized claim"
+          ],
+          "instruction": "RL.11-12.9 asks you to compare how different works treat similar themes, and world literature gives that skill its widest stretch. Take exile: Things Fall Apart and Season of Migration to the North both follow a man torn between cultures, yet each treats displacement differently because each grows from a different history. Take resistance: In the Time of the Butterflies and Persepolis both render life under a repressive regime, but through different forms and cultural frames. To compare well, first name the shared theme precisely, then identify how each text's cultural and formal choices shape its particular treatment. Look for both convergence (what they agree the theme means) and divergence (where they part). End with a synthesized claim that neither text alone could give you—something like, 'Both works show exile as loss of self, but one locates the loss in community and the other in language.' That synthesized claim is the goal RL.9 is driving at.",
+          "curriculum_connection": "Prepares students to compare shared themes across Things Fall Apart, Season of Migration to the North, In the Time of the Butterflies, and Persepolis.",
+          "check_for_understanding": [
+            {
+              "prompt": "RL.11-12.9 comparison of two world texts on a shared theme is best completed by:",
+              "choices": [
+                {
+                  "text": "Deciding which text is the better piece of writing",
+                  "is_correct": false
+                },
+                {
+                  "text": "Listing the plot of each text separately",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reaching a synthesized claim about how each text's choices shape its treatment of the theme",
+                  "is_correct": true
+                },
+                {
+                  "text": "Choosing the text from the more familiar culture",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L32",
+          "number": 32,
+          "title": "Translating Context for Unfamiliar Traditions",
+          "duration_minutes": 9,
+          "ccss_standards": [
+            "RI.11-12.7",
+            "RL.11-12.7"
+          ],
+          "learning_objective": "Locate and apply the historical and cultural context needed to read a world text accurately.",
+          "key_concepts": [
+            "Necessary background knowledge",
+            "Historical context",
+            "Paratext (notes, prefaces, maps)",
+            "Context serves the text",
+            "Independent research"
+          ],
+          "instruction": "Some world texts assume knowledge you may not have—a partition, a revolution, a religious calendar, a colonial border. Reading them well means becoming your own context-translator: identifying what you need to know and finding it, so the text's references land as the author intended. Persepolis assumes familiarity with the Iranian Revolution; the Partition of India materials assume the trauma of 1947; So Long a Letter assumes Senegalese customs around marriage. Use the text's paratext first—footnotes, prefaces, maps, glossaries—then do brief, targeted research to fill real gaps. The goal is not to bury the story in history but to supply just enough background that the words mean what they should. This is exactly the academic move you'll make in college, where professors expect you to fill gaps independently rather than wait to be told. In Grade 11 you weighed historical context without reducing literature to it; here you extend that judgment across the whole world.",
+          "curriculum_connection": "Supports supplying context for Persepolis, the Partition of India, So Long a Letter, and The God of Small Things.",
+          "check_for_understanding": [
+            {
+              "prompt": "Being your own 'context-translator' for a world text means:",
+              "choices": [
+                {
+                  "text": "Translating the text word for word into your own language",
+                  "is_correct": false
+                },
+                {
+                  "text": "Identifying and supplying the background knowledge the text assumes so its references make sense",
+                  "is_correct": true
+                },
+                {
+                  "text": "Replacing the foreign setting with one you already understand",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reading only texts from cultures you already know",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M6",
+      "title": "Lifelong & College Reading + Capstone",
+      "description": "Students build the habits of independent academic reading—active note-taking, textbook strategies, reflective reading, a reader's notebook, tracing an idea across eras, and evaluating sources—then complete a capstone synthesis of the full 11–12 progression.",
+      "placement": {
+        "before_articles": "Articles 94–114 (\"This Is Water\"; How to Read a College Textbook; The Great Conversation; \"On Keeping a Notebook\"; Between the World and Me; The Souls of Black Folk; \"The Uses of Enchantment\"; Writing the College Essay)"
+      },
+      "duration_minutes": 54,
+      "lessons": [
+        {
+          "id": "L33",
+          "number": 33,
+          "title": "Active Academic Reading and Note-Taking",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RI.11-12.2",
+            "RI.11-12.10"
+          ],
+          "learning_objective": "Use active reading and note-taking strategies that prepare you for college-level workloads.",
+          "key_concepts": [
+            "Active vs. passive reading",
+            "Annotation",
+            "Summary in your own words",
+            "Question-generating",
+            "Reading with a pen"
+          ],
+          "instruction": "College reading is too dense and too plentiful to absorb by passive eyes-on-page reading; you read actively, with a pen and a purpose. Active reading means marking the main claim of each section, jotting questions in the margin, and pausing at the end of a passage to summarize it in your own words. If you can't summarize it, you didn't read it—you only looked at it. Adopt a light system now: underline claims, circle key terms, star what you don't understand, and write a one-sentence gist beside each major chunk. These habits turn reading into a conversation with the text rather than a download. They also make review fast: your notes become a map you can return to without rereading everything. Pitch your annotations to your purpose—reading for an argument's structure looks different from reading for pleasure. This module is explicit preparation for college, where no one will tell you how to read; the students who thrive already have a system.",
+          "curriculum_connection": "Prepares students for College-Level Reading and How to Read a College Textbook.",
+          "check_for_understanding": [
+            {
+              "prompt": "According to the lesson, the test of whether you have truly read a passage is:",
+              "choices": [
+                {
+                  "text": "Whether your eyes moved over every line",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether you finished it quickly",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether you highlighted it in a bright color",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether you can summarize it in your own words",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L34",
+          "number": 34,
+          "title": "How to Read a College Textbook",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RI.11-12.5",
+            "RI.11-12.2"
+          ],
+          "learning_objective": "Apply a structured strategy for reading dense informational textbooks efficiently.",
+          "key_concepts": [
+            "Previewing structure",
+            "Headings and signposts",
+            "Bold terms and summaries",
+            "Selective vs. linear reading",
+            "Reading for the architecture"
+          ],
+          "instruction": "A college textbook is built to be read strategically, not cover to cover at one speed. Before diving in, preview: read the chapter title, headings, subheadings, any summary or review questions, and the bold key terms. This builds a mental map so each detail has somewhere to land. Textbooks signpost themselves—headings announce structure, bold terms flag what matters, end-of-section summaries restate the core. Use these signposts to read selectively: slow down on the architecture (the claims and definitions) and move faster through examples once you grasp the principle. Turn each heading into a question before you read the section, then read to answer it. This 'survey first' approach is far more efficient than plowing line by line and hoping the structure emerges. The skill connects to the dense-argument module: a textbook chapter, like a philosophical text, has a structure you can map. Reading for the architecture first lets the details make sense rather than pile up.",
+          "curriculum_connection": "Directly supports How to Read a College Textbook and College-Level Reading.",
+          "check_for_understanding": [
+            {
+              "prompt": "The lesson's recommended first step for reading a college textbook chapter is to:",
+              "choices": [
+                {
+                  "text": "Preview the headings, key terms, and summaries to build a mental map",
+                  "is_correct": true
+                },
+                {
+                  "text": "Read every sentence at the same slow speed",
+                  "is_correct": false
+                },
+                {
+                  "text": "Memorize the first paragraph before continuing",
+                  "is_correct": false
+                },
+                {
+                  "text": "Start with the final page and read backward",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L35",
+          "number": 35,
+          "title": "Reflective Reading: 'This Is Water'",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.2",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Read reflectively, connecting a text's ideas to your own habits of attention and meaning-making.",
+          "key_concepts": [
+            "Reflective reading",
+            "Reading to live, not just to analyze",
+            "Default settings of attention",
+            "Applying a text to yourself",
+            "Reading as self-examination"
+          ],
+          "instruction": "Not all reading is dissection; some texts ask you to turn their ideas back on your own life. David Foster Wallace's \"This Is Water\" argues that real freedom is choosing what to pay attention to and how to interpret others, instead of running on your mind's selfish default. Reading this reflectively means more than identifying his thesis—it means asking, honestly, where your own defaults run unexamined, and what would change if you read the world the way he describes. Reflective reading sits beside analytic reading; you still track the argument, but you also let it press on you. This is part of becoming a lifelong reader: books stop being assignments and become conversation partners for the way you live. Practice the move now—after the analysis, write a few lines on what the text asks of you personally. The most educated readers don't just understand a text like \"This Is Water\"; they let it change how they pay attention.",
+          "curriculum_connection": "Supports reflective reading of \"This Is Water.\"",
+          "check_for_understanding": [
+            {
+              "prompt": "Reflective reading, as the lesson describes it, adds which move to ordinary analysis?",
+              "choices": [
+                {
+                  "text": "Counting how many rhetorical devices the author uses",
+                  "is_correct": false
+                },
+                {
+                  "text": "Asking how the text's ideas press on your own life and habits",
+                  "is_correct": true
+                },
+                {
+                  "text": "Memorizing the author's biography",
+                  "is_correct": false
+                },
+                {
+                  "text": "Rewriting the text in simpler words",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L36",
+          "number": 36,
+          "title": "Keeping a Reader's Notebook",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.2",
+            "RI.11-12.10"
+          ],
+          "learning_objective": "Maintain a reader's notebook to capture, connect, and develop ideas over time.",
+          "key_concepts": [
+            "Reader's / commonplace notebook",
+            "Why we keep notes (Didion)",
+            "Capturing fleeting responses",
+            "Connecting across texts",
+            "Notes as future thinking"
+          ],
+          "instruction": "Joan Didion, in \"On Keeping a Notebook,\" explains that we keep notebooks not to record facts accurately but to stay in touch with the people we used to be and the thoughts we'd otherwise lose. A reader's notebook works the same way: a place to capture the line that struck you, the question a text raised, the connection you spotted between two works. The value is not neat summaries but live thinking you can return to. Date your entries, copy passages worth keeping, and write the connection while it's fresh—'this argument in Hobbes is the dark mirror of Locke,' or 'Coates is answering Du Bois across a century.' Over a year, the notebook becomes a record of your own developing mind and a seedbed for essays. Unlike class notes aimed at a test, a reader's notebook is for you, which is exactly why it lasts beyond school. The lifelong reader keeps thinking on the page long after the assignment ends.",
+          "curriculum_connection": "Supports reading \"On Keeping a Notebook\" (Didion) and modeling a reader's notebook practice.",
+          "check_for_understanding": [
+            {
+              "prompt": "According to Didion as presented here, the main purpose of keeping a notebook is to:",
+              "choices": [
+                {
+                  "text": "Record facts and dates with perfect accuracy",
+                  "is_correct": false
+                },
+                {
+                  "text": "Replace the need to read the original texts",
+                  "is_correct": false
+                },
+                {
+                  "text": "Stay in touch with your past selves and keep thoughts you'd otherwise lose",
+                  "is_correct": true
+                },
+                {
+                  "text": "Prepare evidence for a single upcoming test",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L37",
+          "number": 37,
+          "title": "The Great Conversation: Reading for Life",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RI.11-12.10"
+          ],
+          "learning_objective": "Understand reading as participation in an ongoing 'Great Conversation' across centuries.",
+          "key_concepts": [
+            "The Great Conversation",
+            "Texts answering texts over time",
+            "Reading independently for life",
+            "Building your own canon",
+            "Joining the dialogue"
+          ],
+          "instruction": "The idea of the 'Great Conversation' holds that the major books across centuries are talking to one another about the deepest human questions—justice, freedom, love, death, meaning—and that to read seriously is to join that conversation rather than overhear it. You've already seen this in action: Hobbes and Locke arguing about authority, Coates answering Du Bois about race in America, Stoppard talking back to Shakespeare. The lifelong reader keeps following these threads after graduation, choosing the next book because it answers the last one, building a personal canon over a lifetime. Reading for life is not a school requirement that ends in June; it's a habit of staying curious and letting one text send you to another. In Grade 11 you learned to read texts in conversation within a single curriculum; now you'll carry that habit out into a reading life you direct yourself. The conversation has been going on for millennia, and your seat at the table is open.",
+          "curriculum_connection": "Supports reading The Great Conversation and The Next Chapter on independent lifelong reading.",
+          "check_for_understanding": [
+            {
+              "prompt": "The 'Great Conversation' refers to:",
+              "choices": [
+                {
+                  "text": "A single famous debate held at one moment in history",
+                  "is_correct": false
+                },
+                {
+                  "text": "An ongoing dialogue among major texts across centuries about enduring human questions",
+                  "is_correct": true
+                },
+                {
+                  "text": "A rule that students must read books in chronological order",
+                  "is_correct": false
+                },
+                {
+                  "text": "A conversation that ends once a course is completed",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L38",
+          "number": 38,
+          "title": "Tracing a Single Idea Across Eras: Du Bois to Coates",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RI.11-12.2"
+          ],
+          "learning_objective": "Trace how a single idea is developed, revised, and answered across texts from different eras.",
+          "key_concepts": [
+            "Idea history across time",
+            "Du Bois → Coates lineage",
+            "Continuity and revision",
+            "Echo and update",
+            "Reading the long arc"
+          ],
+          "instruction": "Ideas have histories, and tracing one across eras is among the most sophisticated reading you can do. W.E.B. Du Bois, in The Souls of Black Folk, names 'double-consciousness'—the felt division of being both Black and American. A century later, Ta-Nehisi Coates, in Between the World and Me, writes to his son about the body and the same enduring divide, clearly in dialogue with Du Bois even as he updates the idea for his moment. Reading the long arc means holding both texts and asking what continues, what is revised, and what the later writer adds because the world has changed. This is the synthesis skill from Grade 11 stretched across a century rather than across one curriculum. Track the echoes—shared images, repeated concerns—and the departures, where Coates pushes beyond Du Bois. An idea is not static; it is handed forward, reshaped by each writer who picks it up. Following that handoff is how scholars read intellectual history.",
+          "curriculum_connection": "Supports tracing double-consciousness from The Souls of Black Folk (Du Bois) to Between the World and Me (Coates).",
+          "check_for_understanding": [
+            {
+              "prompt": "Tracing an idea like 'double-consciousness' from Du Bois to Coates involves:",
+              "choices": [
+                {
+                  "text": "Proving that the later writer copied the earlier one exactly",
+                  "is_correct": false
+                },
+                {
+                  "text": "Showing that the idea disappeared after the first writer",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choosing whichever author is more recent and ignoring the other",
+                  "is_correct": false
+                },
+                {
+                  "text": "Identifying what continues, what is revised, and what the later writer adds",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L39",
+          "number": 39,
+          "title": "Evaluating Sources for a Research Stance",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.8",
+            "RI.11-12.7"
+          ],
+          "learning_objective": "Evaluate the credibility, bias, and relevance of sources when building a research-based position.",
+          "key_concepts": [
+            "Source credibility",
+            "Authority and bias",
+            "Primary vs. secondary sources",
+            "Relevance to the question",
+            "Synthesizing evidence into a stance"
+          ],
+          "instruction": "College reading often serves a purpose beyond the single text: building a researched position. That means judging sources, not just understanding them. For any source, ask who wrote it and with what expertise, what stake or bias they might have, whether it's a primary source (an original document or testimony) or a secondary one (an analysis of others' work), and whether it actually bears on your question. A passionate source can still be credible; a calm one can still be biased—so weigh evidence and reasoning, not tone alone. Then synthesize: a research stance is not a stack of quotations but a claim you build by putting credible sources into conversation, including the ones that disagree with you. The skills from earlier modules converge here—evaluating arguments, steelmanning opposing views, tracing reasoning. You'll do exactly this when writing the college essay and every research paper after it. The strongest stances are the ones that have honestly tested themselves against the best contrary sources.",
+          "curriculum_connection": "Prepares students for Writing the College Essay and source-based research drawing on texts like The Souls of Black Folk and Between the World and Me.",
+          "check_for_understanding": [
+            {
+              "prompt": "When evaluating a source for a research stance, the lesson says you should:",
+              "choices": [
+                {
+                  "text": "Trust any source written in a calm, neutral tone",
+                  "is_correct": false
+                },
+                {
+                  "text": "Judge its authority, bias, type, and relevance to your question",
+                  "is_correct": true
+                },
+                {
+                  "text": "Use only sources that already agree with your view",
+                  "is_correct": false
+                },
+                {
+                  "text": "Collect as many quotations as possible regardless of quality",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L40",
+          "number": 40,
+          "title": "Capstone: Synthesizing the 11–12 Progression",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.9"
+          ],
+          "learning_objective": "Integrate the full range of Grades 11–12 reading skills into a single advanced act of synthesis.",
+          "key_concepts": [
+            "Synthesis across two years",
+            "Criticism + argument + form + world lit",
+            "Independent scholarly reading",
+            "Building a unified interpretation",
+            "Reader as scholar"
+          ],
+          "instruction": "This capstone pulls the whole two-year progression together. In Grade 11 you learned to synthesize across texts, analyze rhetoric, weigh context, read intertextually, and attend to voice and form. In Grade 12 you added reading criticism as a lens, working through dense argument, mastering advanced form, reading world literature at scale, and reading independently for life. Now combine them. Imagine setting Eliot's critical method beside Achebe's writing-back, reading Hamlet through both a formal lens and a postcolonial reworking like Rosencrantz and Guildenstern Are Dead, while tracing an idea such as freedom from Hobbes through 1984 to Coates. A true scholar moves fluidly among these moves—naming a critic's frame, isolating a premise, hearing a sonnet's turn, honoring a witness, joining the Great Conversation—and assembles them into one coherent reading no single skill could produce. That integration is what 'reading like a scholar' finally means, and it is the readiness this course was built to give you. You leave not with answers handed to you, but with the equipment to find your own.",
+          "curriculum_connection": "Synthesizes the full Grade 12 curriculum—from Hamlet and \"Hamlet and His Problems\" through 1984, Frankenstein, Things Fall Apart, Between the World and Me, and Writing the College Essay.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does the capstone identify as the final meaning of 'reading like a scholar'?",
+              "choices": [
+                {
+                  "text": "Memorizing the definitions of every literary term",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reading as many books as quickly as possible",
+                  "is_correct": false
+                },
+                {
+                  "text": "Fluidly integrating many reading skills into one coherent interpretation",
+                  "is_correct": true
+                },
+                {
+                  "text": "Always agreeing with the most famous critic available",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

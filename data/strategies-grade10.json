@@ -1,0 +1,1802 @@
+{
+  "course_title": "Reading Primer — Grade 10",
+  "grade": 10,
+  "sequence": "Grades 9–10, Part 2 of 2",
+  "subtitle": "Analysis & Evaluation: Craft, Perspective, Drama & Argument",
+  "description": "This course is Part 2 of the coordinated Grades 9–10 reading-strategy progression. Where Grade 9 built the foundations of the reading process, comprehension, narrative, poetry, informational text, and the basics of argument, Grade 10 takes up the analytical and evaluative half of the CCSS 9–10 band. You will analyze how craft and structure create meaning, weigh competing perspectives and bias, read drama and tragic structure, compare and synthesize multiple texts, and evaluate the strength of arguments and sources.",
+  "total_lessons": 40,
+  "total_duration_minutes": 291,
+  "paired_grade_note": "Topics are split across Grades 9 and 10 (the CCSS 9–10 band). Grade 9 built foundations; Grade 10 builds craft/structure analysis, perspective, drama, comparison, and argument evaluation. This course assumes the Grade 9 foundations and does not re-teach them.",
+  "placement_modes": {
+    "single_take": "Deliver all modules before Grade 10 Article 1.",
+    "distributed": "Deliver each module before the article cluster in placement.before_articles."
+  },
+  "modules": [
+    {
+      "id": "M1",
+      "title": "Craft & Structure: Word Choice, Connotation & Tone",
+      "description": "How precise word choice, figurative language, imagery, and irony create tone and meaning — the analytical successor to Grade 9's figurative-language and tone basics.",
+      "placement": {
+        "before_articles": "Articles 1+ (begin before Article 1; reinforce throughout)"
+      },
+      "duration_minutes": 43,
+      "lessons": [
+        {
+          "id": "L1",
+          "number": 1,
+          "title": "Connotation & the Weight of Precise Word Choice",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RI.9-10.4"
+          ],
+          "learning_objective": "Analyze how a word's connotation, not just its denotation, shapes meaning and reveals an author's stance.",
+          "key_concepts": [
+            "Denotation vs. connotation",
+            "Word choice as authorial control",
+            "Near-synonyms carry different charge",
+            "Cumulative effect of diction",
+            "Connotation reveals stance"
+          ],
+          "instruction": "In Grade 9 you learned that figurative language compares one thing to another. Now you will analyze the quieter power of literal words. Every word has a denotation (its dictionary meaning) and a connotation (the feelings and associations it drags along). 'Slender,' 'thin,' and 'scrawny' point to the same body but carry admiration, neutrality, and pity in turn. Authors choose among near-synonyms to steer you. In 'The White Man's Burden,' Kipling's choice to call colonized peoples 'sullen' and 'new-caught' presents conquest as parenting. In Things Fall Apart, Achebe's careful, weighty diction for Igbo custom insists on its dignity. Read for the charge of individual words, then ask what an author gains by choosing this word over its neighbors. The accumulation of charged choices is what builds an author's attitude long before any opinion is stated outright. Practice this by listing three near-synonyms for a key word and naming the shade of feeling each one adds before you decide what the author intended.",
+          "curriculum_connection": "Prepares students for 'The White Man's Burden,' Things Fall Apart, and 'Ozymandias.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Choosing 'scrawny' instead of 'slender' to describe a character mainly changes the:",
+              "choices": [
+                {
+                  "text": "Connotation, adding a sense of pity or weakness",
+                  "is_correct": true
+                },
+                {
+                  "text": "Denotation, so the words now mean opposite things",
+                  "is_correct": false
+                },
+                {
+                  "text": "Number of syllables and nothing else",
+                  "is_correct": false
+                },
+                {
+                  "text": "Setting in which the character appears",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L2",
+          "number": 2,
+          "title": "Advanced Figurative Language & Its Effect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Analyze the effect of extended and layered figurative language rather than merely identifying the device.",
+          "key_concepts": [
+            "Extended metaphor and conceit",
+            "Personification's interpretive payoff",
+            "From naming to analyzing effect",
+            "Figurative language and theme",
+            "Cumulative figurative patterns"
+          ],
+          "instruction": "In Grade 9 you identified similes and metaphors. The grade-10 task is to explain their effect: what does the comparison make you feel or understand that plain statement could not? In 'The Second Coming,' Yeats's 'rough beast' slouching toward Bethlehem is not just a monster; the extended image converts vague dread about history into something you can almost see and fear. In 'Ozymandias,' the 'sneer of cold command' surviving on a shattered statue lets the figurative language carry the whole theme — that arrogance outlives its empire as a ruin. When you meet a device, do not stop at labeling it. Trace what it adds: does it compress a large idea, create irony, or reveal a character's inner life? An image repeated across a text becomes a pattern, and patterns point to theme. When you write about a device, finish the sentence 'This image matters because it makes me understand or feel ___,' and you will have moved from labeling to genuine analysis.",
+          "curriculum_connection": "Prepares students for 'The Second Coming,' 'Ozymandias,' and 'Once Upon a Time.'",
+          "check_for_understanding": [
+            {
+              "prompt": "A grade-10 analysis of an extended metaphor should focus on:",
+              "choices": [
+                {
+                  "text": "How many lines the metaphor spans",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether the poet used 'like' or 'as'",
+                  "is_correct": false
+                },
+                {
+                  "text": "What understanding or feeling the comparison produces",
+                  "is_correct": true
+                },
+                {
+                  "text": "The poem's exact publication date",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L3",
+          "number": 3,
+          "title": "From Diction to Tone — and Tonal Shifts",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RI.9-10.4"
+          ],
+          "learning_objective": "Determine tone from accumulated diction and identify the moment and meaning of a tonal shift.",
+          "key_concepts": [
+            "Tone built from word choice",
+            "Naming tone precisely",
+            "Tonal shift and its trigger",
+            "Tone vs. mood",
+            "Shifts signal turning points"
+          ],
+          "instruction": "In Grade 9 you learned to recognize basic tone. Now you will build tone from evidence and track when it changes. Tone is the author's attitude toward the subject, assembled from the diction, imagery, and rhythm you studied in the last two lessons. Push past 'sad' or 'serious' to precise words: rueful, defiant, reverent, mocking. Just as important is the tonal shift — the point where attitude turns. In 'Once Upon a Time,' the speaker's tone slides from bitter critique of false adult smiles toward tender longing to relearn his child's sincerity, and that pivot is the poem's heart. Mark shift words ('but,' 'now,' 'yet'), changes in punctuation, and reversals in imagery. When you can name a shift and explain what triggered it, you have found the structural hinge where the text's meaning concentrates. Build a short tone-word bank now — wry, somber, indignant, tender — so that when a passage shifts, you can name the before and the after with precision rather than reaching for 'sad' again.",
+          "curriculum_connection": "Prepares students for 'Once Upon a Time,' 'We Wear the Mask,' and Things Fall Apart.",
+          "check_for_understanding": [
+            {
+              "prompt": "A tonal shift in a poem most often signals:",
+              "choices": [
+                {
+                  "text": "An error the poet failed to revise",
+                  "is_correct": false
+                },
+                {
+                  "text": "A turning point where the text's meaning concentrates",
+                  "is_correct": true
+                },
+                {
+                  "text": "A change in the meter only",
+                  "is_correct": false
+                },
+                {
+                  "text": "The end of the poem regardless of content",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L4",
+          "number": 4,
+          "title": "The Analytical Effect of Imagery",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Explain how patterns of sensory imagery shape meaning, mood, and theme.",
+          "key_concepts": [
+            "Sensory imagery types",
+            "Imagery creates mood",
+            "Image patterns and motifs",
+            "Imagery vs. literal description",
+            "Imagery serving theme"
+          ],
+          "instruction": "In Grade 9 you identified imagery as language that appeals to the senses. Now you will analyze why a writer reaches for one image rather than another and what a recurring pattern accomplishes. Imagery does work: it builds mood, controls pacing, and quietly carries theme. In 'Ozymandias,' the desert imagery of 'boundless and bare' sands swallowing a king's monument makes the poem's argument about the impermanence of power without ever stating it. In 'We Wear the Mask,' the imagery of the smiling mask hiding 'torn and bleeding hearts' turns a single object into the poem's whole meaning. When images repeat — light, water, decay — they become motifs, and motifs are theme in disguise. Read imagery as evidence: ask what each picture asks you to feel, and what idea the accumulated pictures finally deliver. Try sketching the dominant images of a poem in the margin; when the same picture keeps reappearing, circle it, because that repetition is your fastest route to the poem's theme.",
+          "curriculum_connection": "Prepares students for 'Ozymandias,' 'We Wear the Mask,' and 'Sympathy.'",
+          "check_for_understanding": [
+            {
+              "prompt": "When the same kind of image recurs across a poem, it most likely functions as:",
+              "choices": [
+                {
+                  "text": "A printing error",
+                  "is_correct": false
+                },
+                {
+                  "text": "A rhyme scheme",
+                  "is_correct": false
+                },
+                {
+                  "text": "Proof the poet ran out of ideas",
+                  "is_correct": false
+                },
+                {
+                  "text": "A motif that carries theme",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L5",
+          "number": 5,
+          "title": "Three Kinds of Irony",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Distinguish verbal, situational, and dramatic irony and analyze the meaning each creates.",
+          "key_concepts": [
+            "Verbal irony (saying the opposite)",
+            "Situational irony (outcome subverts expectation)",
+            "Dramatic irony (reader knows more)",
+            "Irony and theme",
+            "Irony vs. coincidence"
+          ],
+          "instruction": "Irony is a gap — between what is said and meant, expected and happens, known and unknown. Verbal irony says one thing to mean another, as when 'The Lottery' uses a cheerful, holiday tone for a stoning. Situational irony delivers an outcome that subverts expectation: in 'Ozymandias,' a tyrant's boast 'Look on my Works... and despair' survives only as a wrecked statue in empty sand. Dramatic irony, which you will use heavily in drama, occurs when you the reader know something a character does not. Each kind makes meaning differently — irony can mock, warn, or expose hypocrisy. Be careful: not every surprise is irony, and coincidence alone is not ironic. Ask what gap the author has opened and what truth that gap reveals. The richest texts run several ironies at once, and naming the right type is the first step to explaining its purpose.",
+          "curriculum_connection": "Prepares students for 'The Lottery,' 'Ozymandias,' and 'The Guest.'",
+          "check_for_understanding": [
+            {
+              "prompt": "When the reader knows a danger the character does not, the author is using:",
+              "choices": [
+                {
+                  "text": "Dramatic irony",
+                  "is_correct": true
+                },
+                {
+                  "text": "Verbal irony",
+                  "is_correct": false
+                },
+                {
+                  "text": "Situational irony",
+                  "is_correct": false
+                },
+                {
+                  "text": "A simile",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L6",
+          "number": 6,
+          "title": "\"What Does This Word Most Nearly Mean in Context?\"",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RI.9-10.4"
+          ],
+          "learning_objective": "Use context, tone, and connotation to determine the precise meaning of a word as it is used in a passage.",
+          "key_concepts": [
+            "Words have multiple meanings",
+            "Context narrows meaning",
+            "Match connotation to tone",
+            "Substitute and test",
+            "Beware the common-but-wrong meaning"
+          ],
+          "instruction": "This is one of the most common grade-10 multiple-choice stems, and it rewards method over vocabulary luck. A word's right answer is the meaning that fits this sentence, not its most familiar definition. First read the full sentence and the one before it to gather context clues. Second, decide the tone — a positive word will not fit a bitter passage. Third, test each choice by substituting it and rereading; the correct option keeps the sentence true to the author's intent. The trap answer is usually a real definition of the word that does not fit here. In dense Grade 10 texts like Heart of Darkness or the 'Nobel Lecture,' a word like 'grave' may mean 'serious,' 'a burial site,' or 'to engrave' — only context decides. Match meaning to the surrounding connotation and tone you have been practicing, and the trap answers fall away.",
+          "curriculum_connection": "Prepares students for Heart of Darkness, 'Nobel Lecture,' and 'An Image of Africa.'",
+          "check_for_understanding": [
+            {
+              "prompt": "On a 'most nearly means in context' item, the best strategy is to:",
+              "choices": [
+                {
+                  "text": "Pick the word's most familiar dictionary meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choose the longest answer choice",
+                  "is_correct": false
+                },
+                {
+                  "text": "Substitute each choice and keep the one that fits the sentence's meaning and tone",
+                  "is_correct": true
+                },
+                {
+                  "text": "Pick whichever word looks most like the original",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Craft & Structure: How Texts Are Built",
+      "description": "Analyzing the effect of structural choices — sequencing, development of ideas, parallel plots, and argument architecture — beyond Grade 9's basic text-structure labels.",
+      "placement": {
+        "before_articles": "Articles 1–39 (Postcolonial cluster and the Truth/Perception cluster)"
+      },
+      "duration_minutes": 42,
+      "lessons": [
+        {
+          "id": "L7",
+          "number": 7,
+          "title": "Structure as a Choice With an Effect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.5",
+            "RI.9-10.5"
+          ],
+          "learning_objective": "Analyze how an author's structural choice creates a specific effect on the reader.",
+          "key_concepts": [
+            "Structure is a decision, not a default",
+            "Effect on the reader",
+            "Pacing and emphasis",
+            "Where information is placed",
+            "Form follows purpose"
+          ],
+          "instruction": "In Grade 9 you learned to label text structures — chronological, compare/contrast, cause/effect. Now you analyze why an author chose a structure and what effect it produces. Structure is a decision: where to begin, what to withhold, when to slow down. Things Fall Apart opens with Okonkwo's hard-won status, so his later fall hits harder; the structure sets up the tragedy. A writer who buries the most important fact in a final sentence creates suspense; one who states it first creates emphasis and lets you watch the proof accumulate. Ask: what does this arrangement make me feel, and when? What would change if the parts were reordered? The grade-10 skill is to connect a structural choice to its purpose, treating the shape of a text as evidence of meaning rather than a neutral container. As a quick test, mentally reorder the opening and the ending of a passage and ask what feeling is lost; whatever disappears is exactly the effect the author's chosen structure was producing.",
+          "curriculum_connection": "Prepares students for Things Fall Apart, 'Dead Men's Path,' and Persepolis.",
+          "check_for_understanding": [
+            {
+              "prompt": "Analyzing structure at the grade-10 level mainly means explaining:",
+              "choices": [
+                {
+                  "text": "Which font the text was printed in",
+                  "is_correct": false
+                },
+                {
+                  "text": "The effect an arrangement of parts has on the reader",
+                  "is_correct": true
+                },
+                {
+                  "text": "How many paragraphs the text has",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether the text is fiction or nonfiction",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L8",
+          "number": 8,
+          "title": "How a Paragraph or Section Develops an Idea",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.5",
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Explain how a particular paragraph or section refines, develops, or complicates an idea in a text.",
+          "key_concepts": [
+            "The 'role of paragraph X' stem",
+            "Refine vs. introduce vs. contradict",
+            "Function within the whole",
+            "Transitions reveal relationships",
+            "A part serves the argument"
+          ],
+          "instruction": "A signature grade-10 multiple-choice stem asks what a specific paragraph or section does for the text as a whole — does it introduce an idea, refine it, provide a counterexample, or shift the focus? To answer, read the part in light of what came before and after, then name its job in one verb. In 'An Image of Africa,' Achebe builds his case in stages: one section establishes Conrad's reputation, the next complicates it with damning quotations, the next refines the charge from carelessness to ideology. Each section advances the argument; none merely repeats. When you meet this stem, do not summarize the paragraph's content — state its function. Watch transition words, which announce whether the author is adding, qualifying, or contrasting. The right answer describes the relationship between the part and the developing idea, not just what the part happens to say.",
+          "curriculum_connection": "Prepares students for 'An Image of Africa,' 'Nobel Lecture,' and Confirmation Bias.",
+          "check_for_understanding": [
+            {
+              "prompt": "To answer 'What is the function of paragraph 4?' you should:",
+              "choices": [
+                {
+                  "text": "Restate everything the paragraph says",
+                  "is_correct": false
+                },
+                {
+                  "text": "Count the sentences it contains",
+                  "is_correct": false
+                },
+                {
+                  "text": "Find a synonym for its first word",
+                  "is_correct": false
+                },
+                {
+                  "text": "Name the job the paragraph does in developing the text's idea",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L9",
+          "number": 9,
+          "title": "Sequencing, Flashback & In Medias Res",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Analyze how manipulating chronology — through flashback, foreshadowing, or beginning in medias res — shapes meaning.",
+          "key_concepts": [
+            "Chronological vs. narrative order",
+            "Flashback and its purpose",
+            "In medias res",
+            "Foreshadowing and suspense",
+            "Order controls revelation"
+          ],
+          "instruction": "In Grade 9 you tracked plot as a sequence of events. Now you analyze how authors rearrange that sequence for effect. Story order and telling order are not the same thing. Beginning in medias res — in the middle of the action — throws you into urgency before you have context, then fills it in. Flashback interrupts the present to deliver a past that reframes what you just read. In The Things They Carried, time loops and doubles back so that the weight of memory, not clock-time, organizes the story. In Persepolis, jumps between a child's view and adult hindsight let the same event mean two things at once. Ask what the chosen order lets the author withhold, surprise, or recontextualize. When you can explain why an event appears where it does rather than when it happened, you are reading structure analytically.",
+          "curriculum_connection": "Prepares students for The Things They Carried, Persepolis, and In Cold Blood.",
+          "check_for_understanding": [
+            {
+              "prompt": "Beginning a story 'in medias res' means starting:",
+              "choices": [
+                {
+                  "text": "In the middle of the action, before full context is given",
+                  "is_correct": true
+                },
+                {
+                  "text": "With a detailed family history",
+                  "is_correct": false
+                },
+                {
+                  "text": "At the chronological end and moving backward only",
+                  "is_correct": false
+                },
+                {
+                  "text": "With a formal thesis statement",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L10",
+          "number": 10,
+          "title": "Parallel & Contrasting Plot Lines",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Analyze how parallel or contrasting storylines develop theme through comparison.",
+          "key_concepts": [
+            "Parallel plots and subplots",
+            "Foils and contrast",
+            "Juxtaposition creates meaning",
+            "Threads that converge",
+            "Comparison reveals theme"
+          ],
+          "instruction": "Many texts run more than one storyline, and the relationship between them is where meaning lives. Parallel plots echo each other so a theme appears in two registers; contrasting plots set choices side by side so you can judge them. In Things Fall Apart, Okonkwo's rigid path is shadowed by characters who bend and survive, and the contrast indicts his inflexibility more sharply than any narrator's comment could. In a paired structure, a subplot can be a foil — a mirror that highlights the main line by difference. When you notice a second thread, do not treat it as a distraction. Ask: how does it rhyme with or oppose the main plot, and what does the juxtaposition argue? Authors place storylines together to make you compare; the comparison, not either plot alone, delivers the theme. When you spot a second storyline, write one sentence naming how it rhymes with or opposes the main plot, and you will usually find the theme stated in your own words.",
+          "curriculum_connection": "Prepares students for Things Fall Apart, Purple Hibiscus, and Life of Pi.",
+          "check_for_understanding": [
+            {
+              "prompt": "Two contrasting storylines are placed side by side mainly to:",
+              "choices": [
+                {
+                  "text": "Fill space when one plot is too short",
+                  "is_correct": false
+                },
+                {
+                  "text": "Confuse the reader on purpose",
+                  "is_correct": false
+                },
+                {
+                  "text": "Let the comparison between them develop a theme",
+                  "is_correct": true
+                },
+                {
+                  "text": "Avoid having to write an ending",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L11",
+          "number": 11,
+          "title": "How Organization Advances an Author's Purpose",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.5",
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Connect an author's organizational choices to the purpose they are trying to achieve.",
+          "key_concepts": [
+            "Organization serves purpose",
+            "Order builds an effect",
+            "Withholding vs. front-loading",
+            "Structure and persuasion",
+            "Purpose-driven design"
+          ],
+          "instruction": "In Grade 9 you identified an author's purpose — to inform, persuade, or entertain. Now you connect that purpose to how the text is organized. A persuasive writer who opens with a vivid story before any claim is lowering your defenses; one who stacks evidence before naming the conclusion is building inevitability. In Journalism Ethics readings and 'Danger of a Single Story,' notice how a writer arranges anecdote, data, and counterargument to land a final point. Ask what each stage of the text is doing for the author's goal: hooking, establishing credibility, conceding, or driving home. The arrangement is rarely accidental. When you can say not only what an author wants but how the order of parts is engineered to get it, you are reading organization as a strategic tool rather than a table of contents. Try outlining a persuasive text by the job of each section — hook, credibility, evidence, concession, drive-home — and the author's strategy for reaching the goal will appear in your outline.",
+          "curriculum_connection": "Prepares students for Journalism Ethics, 'Danger of a Single Story,' and the 'Nobel Lecture.'",
+          "check_for_understanding": [
+            {
+              "prompt": "When a persuasive author opens with a story before stating a claim, the likely purpose is to:",
+              "choices": [
+                {
+                  "text": "Hide that the text has no claim",
+                  "is_correct": false
+                },
+                {
+                  "text": "Engage the reader emotionally before presenting the argument",
+                  "is_correct": true
+                },
+                {
+                  "text": "Meet a required word count",
+                  "is_correct": false
+                },
+                {
+                  "text": "Confuse the order of events",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L12",
+          "number": 12,
+          "title": "Structure in Argument",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.5",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Map the structure of an argument and explain how its arrangement supports the claim.",
+          "key_concepts": [
+            "Claim placement",
+            "Reasons and evidence order",
+            "Counterargument and rebuttal",
+            "Concession as strategy",
+            "Structure tests soundness"
+          ],
+          "instruction": "An argument is a building, and you can read its blueprint. In Grade 9 you learned an argument has a claim, reasons, and evidence. Now map how those parts are arranged and why. Strong arguments often state a claim, support it with ordered reasons, then anticipate and answer objections — the counterargument-and-rebuttal move that signals an author has considered other views. In 'An Image of Africa,' Achebe concedes Conrad's talent before pressing his charge, and that concession makes the attack land harder. Watch where the claim sits, whether reasons escalate, and whether objections are honestly addressed or dodged. Mapping argument structure is also how you test soundness: an argument that never faces a counterargument may be hiding weakness. Reading the architecture of a claim prepares you for the full evaluation work you will do in Module 6. Sketch an argument's blueprint in the margin — claim here, reasons there, objection answered or dodged — and weak spots in the structure will reveal themselves before you even weigh the evidence.",
+          "curriculum_connection": "Prepares students for 'An Image of Africa,' Confirmation Bias, and Journalism Ethics.",
+          "check_for_understanding": [
+            {
+              "prompt": "Including a counterargument and rebuttal in an argument usually:",
+              "choices": [
+                {
+                  "text": "Weakens the claim by admitting doubt",
+                  "is_correct": false
+                },
+                {
+                  "text": "Is required only in fiction",
+                  "is_correct": false
+                },
+                {
+                  "text": "Replaces the need for any evidence",
+                  "is_correct": false
+                },
+                {
+                  "text": "Strengthens credibility by showing other views were considered",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Point of View, Perspective & Bias",
+      "description": "Advanced analysis of narrator reliability, authorial and cultural perspective, the Conrad–Achebe dialogue, and framing/bias in journalism and memoir.",
+      "placement": {
+        "before_articles": "Articles 1–20 (Postcolonial Literature & Cultural Identity)"
+      },
+      "duration_minutes": 50,
+      "lessons": [
+        {
+          "id": "L13",
+          "number": 13,
+          "title": "Narrator Reliability, Advanced",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Evaluate a narrator's reliability and analyze how an unreliable narrator shapes meaning.",
+          "key_concepts": [
+            "Reliable vs. unreliable narrator",
+            "Signals of unreliability",
+            "Gap between narrator and author",
+            "Reading around the narrator",
+            "Unreliability creates theme"
+          ],
+          "instruction": "In Grade 9 you learned to identify a narrator's point of view. Now you judge whether to trust it. An unreliable narrator's account cannot be taken at face value — because of bias, limited knowledge, self-deception, or a deliberate aim to mislead. Watch for contradictions between what a narrator says and what the events show, excessive self-justification, or gaps the narrator hurries past. In Life of Pi, the storyteller offers two versions of survival and dares you to choose which to believe; the unreliability is the whole point about truth and need. In 'The Yellow Wallpaper,' the narrator's slipping grip turns her descriptions into evidence she cannot read herself. The author and narrator are not the same person — learning to read around a narrator, catching what they reveal without meaning to, is one of the sharpest analytical skills in grade 10.",
+          "curriculum_connection": "Prepares students for Life of Pi, 'The Yellow Wallpaper,' and 'Cathedral.'",
+          "check_for_understanding": [
+            {
+              "prompt": "An unreliable narrator is one whose account:",
+              "choices": [
+                {
+                  "text": "The reader cannot fully trust due to bias, limits, or self-deception",
+                  "is_correct": true
+                },
+                {
+                  "text": "Is always a deliberate lie from start to finish",
+                  "is_correct": false
+                },
+                {
+                  "text": "Is written in third person only",
+                  "is_correct": false
+                },
+                {
+                  "text": "Contains no dialogue",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L14",
+          "number": 14,
+          "title": "Author's Perspective: What It Enables and Prevents",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6",
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Analyze how an author's perspective enables certain insights while preventing others.",
+          "key_concepts": [
+            "Perspective as a lens",
+            "What a viewpoint reveals",
+            "What a viewpoint hides",
+            "Standpoint shapes selection",
+            "No view from nowhere"
+          ],
+          "instruction": "Every author writes from somewhere, and that location both opens and closes the view. A perspective is a lens: it brings some things into sharp focus while pushing others out of frame. There is no view from nowhere. In Heart of Darkness, Conrad's perspective lets him render European dread and moral collapse vividly — yet that same standpoint reduces Africans to a backdrop, unable to be seen as full people. The skill is to name both halves: what does this perspective let the author see that others might miss, and what does it structurally prevent? Ask whose experience is centered and whose is unavailable from this vantage. Recognizing the enabling and the blinding power of a single perspective is exactly what sets up the Conrad-versus-Achebe debate you will study next. Make this concrete by writing two short lists for any text — what this viewpoint lets the author show, and what it structurally hides — and your analysis will already be half-written.",
+          "curriculum_connection": "Prepares students for Heart of Darkness, 'An Image of Africa,' and Persepolis.",
+          "check_for_understanding": [
+            {
+              "prompt": "Saying an author's perspective both 'enables and prevents' means it:",
+              "choices": [
+                {
+                  "text": "Makes the writing factually false",
+                  "is_correct": false
+                },
+                {
+                  "text": "Has no effect on what the text shows",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reveals some things while keeping others out of view",
+                  "is_correct": true
+                },
+                {
+                  "text": "Only matters in nonfiction",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L15",
+          "number": 15,
+          "title": "Cultural Perspective: Whose Story Gets Told",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6",
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Analyze how cultural perspective determines which stories are centered and whose voices are marginalized.",
+          "key_concepts": [
+            "Cultural standpoint",
+            "Centered vs. marginalized voices",
+            "The single story problem",
+            "Insider vs. outsider account",
+            "Recovering silenced perspectives"
+          ],
+          "instruction": "Whose story gets told — and who only appears as scenery — is itself a meaning. In Grade 9 you considered cultural context; now you analyze cultural perspective as a force that distributes attention and dignity. 'The Danger of a Single Story' names the cost of hearing only one version of a people or place: it hardens into stereotype. Achebe wrote Things Fall Apart partly to tell the Igbo story from inside, after centuries of outsiders telling it. Compare an insider account, which assumes the culture's logic is normal, with an outsider account, which often treats it as exotic or deficient. Ask of any text: from which culture's center is this narrated, and which experiences are pushed to the margins or erased entirely? Reading for cultural perspective lets you notice the silences that a confident narrative can hide. Ask of any text who narrates from the center and who appears only at the edges, and you will begin to hear the silences a confident narrative hides.",
+          "curriculum_connection": "Prepares students for 'The Danger of a Single Story,' Things Fall Apart, and Cultural Relativity.",
+          "check_for_understanding": [
+            {
+              "prompt": "The 'single story' problem refers to the danger of:",
+              "choices": [
+                {
+                  "text": "Books that are too long to finish",
+                  "is_correct": false
+                },
+                {
+                  "text": "Knowing a people only through one repeated narrative, which becomes stereotype",
+                  "is_correct": true
+                },
+                {
+                  "text": "Stories told without any setting",
+                  "is_correct": false
+                },
+                {
+                  "text": "Using first-person point of view",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L16",
+          "number": 16,
+          "title": "Conrad vs. Achebe: Two Texts in Dialogue",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.6",
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Analyze how Achebe's critique reframes Conrad, holding a literary work and its rebuttal in dialogue.",
+          "key_concepts": [
+            "Text and counter-text",
+            "Critique as a reading lens",
+            "Representation and power",
+            "Reading a work through its critic",
+            "Dialogue across texts"
+          ],
+          "instruction": "This is the signature grade-10 postcolonial conversation. Heart of Darkness was long praised as a masterpiece exposing colonial brutality. In 'An Image of Africa,' Chinua Achebe argues that the same novel dehumanizes Africa by using it as a mere setting for European psychodrama, denying Africans speech and selfhood. Reading them together is not about declaring a winner; it is about watching a critique reframe a classic. Things Fall Apart then answers from the other side, telling an African society's story from within. When two texts are in dialogue, read each through the other: let Achebe sharpen what you notice in Conrad, and let Conrad clarify what Achebe is reacting against. This is the heart of the comparative analysis you will formalize in Module 5 — a literary work and its rebuttal arguing across the page. Try writing one sentence in Achebe's voice answering a line from Conrad, then one in Conrad's voice answering Achebe, and the live disagreement at the center of the pairing will come into focus.",
+          "curriculum_connection": "Prepares students for Heart of Darkness, 'An Image of Africa,' and Things Fall Apart.",
+          "check_for_understanding": [
+            {
+              "prompt": "Achebe's central charge against Heart of Darkness in 'An Image of Africa' is that the novel:",
+              "choices": [
+                {
+                  "text": "Has too few characters",
+                  "is_correct": false
+                },
+                {
+                  "text": "Is poorly written sentence by sentence",
+                  "is_correct": false
+                },
+                {
+                  "text": "Was published in the wrong decade",
+                  "is_correct": false
+                },
+                {
+                  "text": "Dehumanizes Africa by using it as a backdrop and denying Africans full selfhood",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L17",
+          "number": 17,
+          "title": "Detecting Bias & Framing in Journalism",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.6",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Detect bias and framing in news writing by analyzing word choice, selection, and emphasis.",
+          "key_concepts": [
+            "Framing and emphasis",
+            "Selection of facts",
+            "Loaded vs. neutral language",
+            "Sourcing and attribution",
+            "Headlines shape reading"
+          ],
+          "instruction": "News is supposed to inform, but every report is framed — built from choices about what to include, what to lead with, and which words to use. Bias is often not a false statement but a tilt created by selection and emphasis. In the paired Two News Articles, the same event can become two different stories: one headline says protesters 'clashed with police,' another says police 'cracked down on protesters,' and the framing assigns blame before you reach the facts. In Journalism Ethics readings, you will study standards meant to limit this. Ask: which facts lead and which are buried? Whose sources are quoted? Is the language neutral or charged? Detecting framing does not mean every outlet lies — it means you read for the angle and reconstruct the event the framing tries to settle for you. Practice by rewriting a slanted headline in neutral language; the words you have to remove are precisely the framing, and naming them is how you recover the event beneath the spin.",
+          "curriculum_connection": "Prepares students for Two News Articles (paired), Journalism Ethics, and Digital Misinformation.",
+          "check_for_understanding": [
+            {
+              "prompt": "Two news stories on the same event differ mainly because of:",
+              "choices": [
+                {
+                  "text": "Framing — choices about wording, selection, and emphasis",
+                  "is_correct": true
+                },
+                {
+                  "text": "The number of letters in their headlines",
+                  "is_correct": false
+                },
+                {
+                  "text": "Which one used a larger font",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether they were printed on paper",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L18",
+          "number": 18,
+          "title": "Perspective in Memoir & Nonfiction",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Analyze how the personal perspective of memoir shapes a true account and what it gains and limits.",
+          "key_concepts": [
+            "Memoir is selective truth",
+            "Hindsight reshapes events",
+            "Subjectivity as strength and limit",
+            "Persona vs. person",
+            "Emotional truth vs. fact"
+          ],
+          "instruction": "Memoir tells a true story, but always from one person's vantage, filtered through memory and hindsight. That subjectivity is both its power and its limit. In Persepolis, the child Marjane's perspective lets political upheaval be felt at human scale, but it cannot show events she did not witness. In I Know Why the Caged Bird Sings, the adult writer reshapes childhood pain into meaning that the child living it could not have seen. Distinguish the persona on the page from the real author, and emotional truth — what an experience felt like — from verifiable fact. Ask what this single remembering mind can offer that a neutral history cannot, and what it must leave out. Reading memoir analytically means honoring its intimacy while staying aware that one life's view, however honest, is still a view. When you read a memoir, separate two questions — is this emotionally true, and is it verifiable — and you will respect the form's intimacy without mistaking one remembered life for the whole record.",
+          "curriculum_connection": "Prepares students for Persepolis, I Know Why the Caged Bird Sings, and A Long Way Gone.",
+          "check_for_understanding": [
+            {
+              "prompt": "A memoir's first-person perspective is best described as:",
+              "choices": [
+                {
+                  "text": "A neutral, complete record of events",
+                  "is_correct": false
+                },
+                {
+                  "text": "Always less truthful than fiction",
+                  "is_correct": false
+                },
+                {
+                  "text": "A selective, hindsight-shaped account that is both intimate and limited",
+                  "is_correct": true
+                },
+                {
+                  "text": "Identical to a news report",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L19",
+          "number": 19,
+          "title": "Shifting & Multiple Perspectives",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Analyze how shifting or multiple points of view create meaning that no single perspective could.",
+          "key_concepts": [
+            "Multiple narrators or viewpoints",
+            "Shifting point of view",
+            "Competing versions of events",
+            "What the gaps between views reveal",
+            "Reader assembles the whole"
+          ],
+          "instruction": "In Grade 9 you learned to identify a single narrator's point of view. Grade 10 fiction often refuses to stay in one mind. When a text shifts perspective or sets several viewpoints side by side, the meaning lives in the differences between them. In Life of Pi, two accounts of the same survival force you to weigh which truth you can bear; in stories that move among characters, each limited view withholds something only another can supply. A perspective shift can reveal that a character we trusted was wrong, or that two people experienced one event as opposite realities. Do not read each section in isolation — track who is seeing, what each viewpoint can and cannot know, and what the gaps imply. The reader's job is to assemble a whole from partial views, and recognizing why an author distributes the telling this way is a core grade-10 perspective skill.",
+          "curriculum_connection": "Prepares students for Life of Pi, 'The Open Boat,' and Purple Hibiscus.",
+          "check_for_understanding": [
+            {
+              "prompt": "When a story is told through multiple shifting perspectives, the meaning is found largely in:",
+              "choices": [
+                {
+                  "text": "The first perspective only",
+                  "is_correct": false
+                },
+                {
+                  "text": "The differences and gaps between the viewpoints",
+                  "is_correct": true
+                },
+                {
+                  "text": "The longest section",
+                  "is_correct": false
+                },
+                {
+                  "text": "The number of narrators",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Drama & Tragic Structure",
+      "description": "Reading plays as performance — stage directions, soliloquy, dramatic irony, five-act structure, and the Aristotelian tragic hero.",
+      "placement": {
+        "before_articles": "Articles 77–96 (War, Genocide & Moral Courage: Macbeth, Antigone, The Crucible)"
+      },
+      "duration_minutes": 38,
+      "lessons": [
+        {
+          "id": "L20",
+          "number": 20,
+          "title": "How to Read a Play: Stage Directions & Subtext",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Read a play as a script, interpreting stage directions and the subtext beneath the dialogue.",
+          "key_concepts": [
+            "Drama is meant to be performed",
+            "Stage directions carry meaning",
+            "Subtext vs. text",
+            "Dialogue does double duty",
+            "Reader as director"
+          ],
+          "instruction": "A play is a blueprint for performance, not a finished picture, so you must stage it in your mind. Stage directions tell you setting, action, and how lines are delivered — and they often carry meaning the dialogue won't say. In The Crucible, Miller's lengthy stage directions editorialize on Salem's tensions before anyone speaks. Just as important is subtext: what characters mean beneath what they say. When Macbeth and Lady Macbeth discuss 'business,' the real subject is murder. Read every line twice — once for its surface, once for its buried intent. Picture the silences, the entrances, the props. Becoming a reader who directs the scene mentally is the foundational drama skill; without it, the rich ironies and reversals you will study next remain invisible on the flat page. As you read, mark which act you are in and where the dramatic irony tightens; locating the climax that seals the hero's fate lets you feel the trap close exactly when the playwright intended.",
+          "curriculum_connection": "Prepares students for The Crucible, Macbeth, and Antigone.",
+          "check_for_understanding": [
+            {
+              "prompt": "Subtext in a play refers to:",
+              "choices": [
+                {
+                  "text": "The footnotes printed at the bottom of the page",
+                  "is_correct": false
+                },
+                {
+                  "text": "The list of characters at the front",
+                  "is_correct": false
+                },
+                {
+                  "text": "The act and scene numbers",
+                  "is_correct": false
+                },
+                {
+                  "text": "What characters really mean beneath what they openly say",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L21",
+          "number": 21,
+          "title": "Dramatic Irony & Five-Act Structure",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.5",
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Analyze how dramatic irony and the five-act structure build and release tension in tragedy.",
+          "key_concepts": [
+            "Five-act arc",
+            "Dramatic irony in performance",
+            "Exposition to catastrophe",
+            "Climax and turning point",
+            "Tension and release"
+          ],
+          "instruction": "Classical and Shakespearean tragedy often unfolds in five acts: exposition, rising action, climax, falling action, and catastrophe. Knowing this arc lets you locate where you are and anticipate the turn. Dramatic irony — when the audience knows what a character does not — is tragedy's engine. In Macbeth, you hear the witches' prophecy and watch Macbeth misread it, so every confident step toward the throne tightens the dread. In The Crucible, you know the girls are lying while the court does not, and that gap makes each accusation unbearable. The five acts manage tension: the climax (often the third act) is the point of no return, after which the hero's fall accelerates. Track the structure and the irony together — the architecture tells you when the trap closes, and the irony makes you feel it spring. When a character finally speaks alone, ask what they confess here that they would deny in company, and you will often find the motive that explains every choice they make in public.",
+          "curriculum_connection": "Prepares students for Macbeth, The Crucible, and Antigone.",
+          "check_for_understanding": [
+            {
+              "prompt": "In tragedy, dramatic irony heightens tension because:",
+              "choices": [
+                {
+                  "text": "The audience knows a danger the character does not",
+                  "is_correct": true
+                },
+                {
+                  "text": "The characters know more than the audience",
+                  "is_correct": false
+                },
+                {
+                  "text": "No one knows anything until the end",
+                  "is_correct": false
+                },
+                {
+                  "text": "There are exactly five acts",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L22",
+          "number": 22,
+          "title": "Soliloquy & Aside",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3",
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Analyze how soliloquy and aside grant the audience access to a character's private mind.",
+          "key_concepts": [
+            "Soliloquy: thinking aloud, alone",
+            "Aside: a private comment",
+            "Access to inner conflict",
+            "Honesty of solitary speech",
+            "Audience as confidant"
+          ],
+          "instruction": "Plays usually show only outward speech, so dramatists invented conventions to reveal the inner life. A soliloquy is a character alone on stage, thinking aloud, with no one to perform for — which is why it is often a character's most honest moment. An aside is a quick remark to the audience that other characters cannot hear. In Macbeth, the 'Is this a dagger' soliloquy lets you watch ambition and guilt war inside him before he kills. These speeches make you the character's confidant, granting access to motive and conflict that action alone could not show. When you reach a soliloquy, slow down: this is the playwright handing you the key to a character's interior. Ask what the character admits in solitude that they would never say to another, and the play's psychology opens up. Keep these five terms at hand and label each stage as it arrives so the hero's downfall becomes a structure you can explain, not just a feeling.",
+          "curriculum_connection": "Prepares students for Macbeth, Antigone, and The Crucible.",
+          "check_for_understanding": [
+            {
+              "prompt": "A soliloquy is valuable to readers because it:",
+              "choices": [
+                {
+                  "text": "Summarizes the plot for latecomers",
+                  "is_correct": false
+                },
+                {
+                  "text": "Lists the play's settings",
+                  "is_correct": false
+                },
+                {
+                  "text": "Gives honest access to a character's private thoughts",
+                  "is_correct": true
+                },
+                {
+                  "text": "Always reveals the ending",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L23",
+          "number": 23,
+          "title": "The Tragic Hero: Aristotle's Anatomy of a Fall",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.3",
+            "RL.9-10.2"
+          ],
+          "learning_objective": "Apply Aristotle's concepts of hamartia, hubris, peripeteia, and catharsis to analyze a tragic hero.",
+          "key_concepts": [
+            "Hamartia (tragic flaw or error)",
+            "Hubris (destructive pride)",
+            "Peripeteia (reversal of fortune)",
+            "Anagnorisis (recognition)",
+            "Catharsis (emotional release)"
+          ],
+          "instruction": "Aristotle gave us a precise vocabulary for tragedy that grade 10 expects you to use. The tragic hero is a person of stature whose downfall comes largely from within. Hamartia is the tragic flaw or fatal error; hubris, a common form of it, is the destructive pride that makes a hero overreach. Peripeteia is the reversal of fortune — the moment the rise becomes a fall — and anagnorisis is the recognition, when the hero finally sees the truth, often too late. Catharsis is the pity and fear the audience releases by watching it. Macbeth's ambition is his hamartia; his belief he is untouchable is hubris; the tide turning against him is peripeteia. Antigone's unbending will fits the same anatomy. Naming these stages precisely turns a vague sense of doom into a structured analysis of why a great figure falls.",
+          "curriculum_connection": "Prepares students for Macbeth, Antigone, and The Crucible.",
+          "check_for_understanding": [
+            {
+              "prompt": "In Aristotle's terms, 'hamartia' refers to a tragic hero's:",
+              "choices": [
+                {
+                  "text": "Moment of comic relief",
+                  "is_correct": false
+                },
+                {
+                  "text": "Fatal flaw or error that drives the downfall",
+                  "is_correct": true
+                },
+                {
+                  "text": "Final reconciliation with enemies",
+                  "is_correct": false
+                },
+                {
+                  "text": "Opening monologue",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L24",
+          "number": 24,
+          "title": "Internal vs. External Conflict in Drama",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Distinguish internal and external conflict in a play and analyze how they intensify each other.",
+          "key_concepts": [
+            "Internal (within a character)",
+            "External (against world or others)",
+            "Conflicts feed each other",
+            "Conflict drives tragic choice",
+            "Conflict and theme"
+          ],
+          "instruction": "In Grade 9 you learned that conflict drives a plot. In drama, the richest tension is between conflicts — the war inside a character feeding the war outside. External conflict pits a character against other people, society, or fate; internal conflict is the struggle within, between desire and conscience, fear and duty. In Antigone, Antigone's external clash with Creon's law is inseparable from her internal certainty about the gods; in Macbeth, the external battle for the crown is mirrored by his internal collapse into guilt. The tragedy deepens when an external pressure forces an internal crisis, and the character's choice under that pressure reveals the play's theme. When you analyze a dramatic scene, name both layers and show how they intensify each other — that interaction, not either conflict alone, is where the meaning of a tragedy lives. When you analyze a scene, name the external conflict and the internal conflict, then show how one forces the other; that link usually points at the play's theme.",
+          "curriculum_connection": "Prepares students for Antigone, Macbeth, and The Crucible.",
+          "check_for_understanding": [
+            {
+              "prompt": "Internal conflict in a play is a struggle:",
+              "choices": [
+                {
+                  "text": "Between two minor characters offstage",
+                  "is_correct": false
+                },
+                {
+                  "text": "Between the playwright and the audience",
+                  "is_correct": false
+                },
+                {
+                  "text": "Over the seating in the theater",
+                  "is_correct": false
+                },
+                {
+                  "text": "Within a single character, such as desire versus conscience",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M5",
+      "title": "Integration: Comparing & Synthesizing Texts",
+      "description": "Systematic comparison of paired texts, synthesis across sources, intertextuality and allusion, and cross-genre comparison.",
+      "placement": {
+        "before_articles": "Paired texts across all clusters (paired poems, Two News Articles, founding-document pairings)"
+      },
+      "duration_minutes": 44,
+      "lessons": [
+        {
+          "id": "L25",
+          "number": 25,
+          "title": "Comparing Paired Texts Systematically",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.9",
+            "RI.9-10.9"
+          ],
+          "learning_objective": "Use a systematic method to compare two texts across purpose, claim, evidence, and craft.",
+          "key_concepts": [
+            "Compare on shared criteria",
+            "Same topic, different treatment",
+            "Point-by-point analysis",
+            "Similarities and differences",
+            "Comparison answers a question"
+          ],
+          "instruction": "Comparing two texts is a skill with a method, not a vibe. First find the common ground that makes comparison worthwhile — shared topic, theme, or event. Then choose criteria and examine both texts on each one: purpose, central claim, evidence, tone, structure. Go point by point rather than describing one text fully and then the other, so the contrasts stay sharp. In the paired suffrage speeches, both argue for the vote, but compare how each handles audience, emotion, and evidence. In 'New Colossus' and 'I, Too,' both define America, yet one welcomes and one indicts. A good comparison is built to answer a question — which is more persuasive, or how do they differ on a theme — not to list random matches. Systematic comparison is the engine of the synthesis work ahead. Build a simple comparison chart with the criteria down the side and the two texts across the top, and your point-by-point analysis will write itself while keeping every contrast sharp and fair.",
+          "curriculum_connection": "Prepares students for the paired suffrage speeches, 'The New Colossus'/'I, Too,' and Two News Articles.",
+          "check_for_understanding": [
+            {
+              "prompt": "The most rigorous way to compare two texts is to:",
+              "choices": [
+                {
+                  "text": "Examine both on shared criteria, point by point",
+                  "is_correct": true
+                },
+                {
+                  "text": "Summarize one fully, then summarize the other",
+                  "is_correct": false
+                },
+                {
+                  "text": "Decide which is longer",
+                  "is_correct": false
+                },
+                {
+                  "text": "List facts from each in any order",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L26",
+          "number": 26,
+          "title": "Reading Two Texts in Dialogue",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.9",
+            "RI.9-10.9"
+          ],
+          "learning_objective": "Read two texts as if they are responding to each other to surface a deeper conversation.",
+          "key_concepts": [
+            "Texts as participants in a debate",
+            "What each would say to the other",
+            "Agreement and tension",
+            "Reading the gap between them",
+            "Dialogue reveals stakes"
+          ],
+          "instruction": "Some pairs are not just similar — they argue. Reading them in dialogue means imagining each text as a voice responding to the other, even across centuries. You practiced this with Conrad and Achebe; now make it a habit. Ask what Text A would say about Text B's claim, and where they would clash. In 'The New Colossus,' Lazarus's statue promises welcome to the tired and poor; in 'I, Too,' Hughes answers from inside a nation that has not kept that promise to Black Americans. Held together, the two poems stage an argument about who America is for. The meaning is not in either poem alone but in the gap between the promise and the witness. When you read for dialogue, you find the stakes — the live question two authors are really fighting over. Try writing the sentence each text would say to the other across the gap between them, and the live question both authors are really arguing over will come clearly into view.",
+          "curriculum_connection": "Prepares students for 'The New Colossus'/'I, Too,' Heart of Darkness/'An Image of Africa,' and the paired suffrage speeches.",
+          "check_for_understanding": [
+            {
+              "prompt": "Reading two texts 'in dialogue' means treating them as:",
+              "choices": [
+                {
+                  "text": "Two unrelated documents to be graded separately",
+                  "is_correct": false
+                },
+                {
+                  "text": "A single text with two titles",
+                  "is_correct": false
+                },
+                {
+                  "text": "Voices responding to and arguing with each other",
+                  "is_correct": true
+                },
+                {
+                  "text": "Identical works by the same author",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L27",
+          "number": 27,
+          "title": "Synthesis vs. Summary",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.9",
+            "RI.9-10.7"
+          ],
+          "learning_objective": "Distinguish synthesis from summary and build a single new idea from multiple sources.",
+          "key_concepts": [
+            "Summary restates; synthesis builds",
+            "Combining sources into one idea",
+            "Your controlling idea",
+            "Sources as evidence, not centerpiece",
+            "Synthesis creates new understanding"
+          ],
+          "instruction": "Summary and synthesis are not the same, and grade 10 increasingly asks for the second. Summary restates what each source says, one after another. Synthesis combines multiple sources to build a single new idea that no source states alone — your own controlling claim, supported by evidence drawn from all of them. The give-away of weak synthesis is paragraphs that march through sources ('Source 1 says... Source 2 says...'). Strong synthesis organizes by idea, pulling from whichever sources support each point. Across the American Democracy cluster — the Declaration, Federalist 10, 'I Have a Dream' — you might synthesize how the meaning of 'equality' is claimed, narrowed, and reclaimed over time. The sources are your evidence; your idea is the centerpiece. When you make many texts serve one argument that is yours, you are synthesizing, not summarizing. Draft a one-sentence controlling idea first, then pull a piece of evidence from each source to support it; if you cannot do that, you are still summarizing rather than synthesizing.",
+          "curriculum_connection": "Prepares students for the Declaration of Independence, Federalist 10, and 'I Have a Dream.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Synthesis differs from summary because synthesis:",
+              "choices": [
+                {
+                  "text": "Restates each source one at a time",
+                  "is_correct": false
+                },
+                {
+                  "text": "Builds a new controlling idea supported by several sources",
+                  "is_correct": true
+                },
+                {
+                  "text": "Avoids using any sources",
+                  "is_correct": false
+                },
+                {
+                  "text": "Is always shorter than a summary",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L28",
+          "number": 28,
+          "title": "Same Theme, Different Treatment",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.9",
+            "RI.9-10.9"
+          ],
+          "learning_objective": "Analyze how two authors treat the same theme or event differently and why.",
+          "key_concepts": [
+            "Shared theme, divergent handling",
+            "Author's purpose shapes treatment",
+            "Differences in tone and stance",
+            "Context explains divergence",
+            "Treatment reveals values"
+          ],
+          "instruction": "When two texts share a theme or describe the same event, the interesting question is why they handle it so differently. The difference usually traces back to each author's purpose, era, and values. Both 'Dulce et Decorum Est' and older patriotic war poetry take up the theme of dying for one's country, but Owen's bitter, graphic treatment exists to demolish the noble version. Two news articles can report identical facts about a protest yet treat the event as a riot or as resistance. To analyze divergent treatment, hold the shared subject constant and vary everything else: tone, selection of detail, stance, and conclusion. Then explain the difference — usually the author's purpose or context. Showing how the same theme is reshaped by different hands proves you can read not just what a text says but the stance from which it says it.",
+          "curriculum_connection": "Prepares students for 'Dulce et Decorum Est,' Two News Articles, and the WWI poems.",
+          "check_for_understanding": [
+            {
+              "prompt": "When two texts share a theme but treat it differently, the difference is best explained by:",
+              "choices": [
+                {
+                  "text": "The color of the book covers",
+                  "is_correct": false
+                },
+                {
+                  "text": "How many words each text contains",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whether they rhyme",
+                  "is_correct": false
+                },
+                {
+                  "text": "Each author's purpose, context, and values",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L29",
+          "number": 29,
+          "title": "Intertextuality & Allusion",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.9",
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Recognize allusions and analyze how intertextual references deepen a text's meaning.",
+          "key_concepts": [
+            "Allusion as a borrowed reference",
+            "Intertextuality between works",
+            "Titles can be allusions",
+            "Allusion imports meaning",
+            "Recognizing the source"
+          ],
+          "instruction": "Texts talk to other texts. Allusion is a reference to another work, person, or event that imports its meaning without explaining it — a kind of shorthand that rewards the informed reader. Intertextuality is the broader web of these connections. A perfect grade-10 example sits in plain sight: Achebe took the title Things Fall Apart from Yeats's poem 'The Second Coming' ('Things fall apart; the centre cannot hold'). The borrowed line frames the novel's collapse of Igbo society as part of a larger vision of a world coming undone. When you catch an allusion, ask two questions: what is the source, and what meaning does borrowing it pull into the new text? You will meet allusions to the Bible, classical myth, and earlier literature throughout grade 10. Recognizing them turns a flat phrase into a doorway to another whole work.",
+          "curriculum_connection": "Prepares students for Things Fall Apart and 'The Second Coming,' plus 'The Hollow Men.'",
+          "check_for_understanding": [
+            {
+              "prompt": "An allusion works by:",
+              "choices": [
+                {
+                  "text": "Referring to another work to import its meaning",
+                  "is_correct": true
+                },
+                {
+                  "text": "Defining every reference in a footnote",
+                  "is_correct": false
+                },
+                {
+                  "text": "Repeating the same word for emphasis",
+                  "is_correct": false
+                },
+                {
+                  "text": "Avoiding all references to other texts",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L30",
+          "number": 30,
+          "title": "Comparing Across Genres",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.7",
+            "RI.9-10.7"
+          ],
+          "learning_objective": "Compare how different genres or media treat the same subject and account for the genre's effect.",
+          "key_concepts": [
+            "Genre shapes treatment",
+            "Same subject, different form",
+            "Strengths of each form",
+            "Fiction vs. nonfiction handling",
+            "Medium affects meaning"
+          ],
+          "instruction": "The same subject changes when its genre changes, and grade 10 asks you to account for that. A poem, a news article, a memoir, and a graphic novel about war each do something the others cannot. Compare In Cold Blood, which uses fiction's techniques to tell a true crime, with a straight news report of the same events: the novelistic version delivers psychological depth and dread; the report delivers verifiable facts and speed. Persepolis tells history through images and panels, so silence and a single drawing can carry weight that prose would need a paragraph to build. When comparing across genres, do not penalize a form for what it is not built to do. Instead ask what each genre's conventions make possible and what they cost. Naming the genre's effect is the analytical move that separates a real cross-genre comparison from a list of differences.",
+          "curriculum_connection": "Prepares students for In Cold Blood, Narrative Nonfiction vs Fiction, and Persepolis.",
+          "check_for_understanding": [
+            {
+              "prompt": "When comparing the same subject across two genres, you should mainly ask:",
+              "choices": [
+                {
+                  "text": "Which genre is older",
+                  "is_correct": false
+                },
+                {
+                  "text": "Which one was assigned first",
+                  "is_correct": false
+                },
+                {
+                  "text": "What each genre's conventions make possible and what they cost",
+                  "is_correct": true
+                },
+                {
+                  "text": "Which has more pages",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M6",
+      "title": "Evaluating Arguments & Sources",
+      "description": "Toulmin analysis, evidence sufficiency, logical fallacies, source credibility, propaganda and misinformation, and reading seminal US documents with SOAPS.",
+      "placement": {
+        "before_articles": "Articles 40–58 (American Democracy & Founding Documents) and the journalism/propaganda readings"
+      },
+      "duration_minutes": 51,
+      "lessons": [
+        {
+          "id": "L31",
+          "number": 31,
+          "title": "Toulmin: Claim, Evidence & the Hidden Warrant",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Use the Toulmin model to identify a claim, its evidence, and the often-unstated warrant connecting them.",
+          "key_concepts": [
+            "Claim, the position argued",
+            "Evidence (data/grounds)",
+            "Warrant, the connecting assumption",
+            "Warrants are often unstated",
+            "Testing the warrant"
+          ],
+          "instruction": "In Grade 9 you learned that an argument has a claim, reasons, and evidence. The Toulmin model adds the crucial missing piece: the warrant — the assumption that connects the evidence to the claim. Evidence does not prove a claim by itself; a warrant explains why this evidence supports that point. Often the warrant is left unstated, which is exactly where arguments hide their weak spots. If someone argues 'we should lower the voting age (claim) because 16-year-olds pay taxes (evidence),' the hidden warrant is 'anyone who pays taxes should vote' — and that is the assumption worth examining. In Federalist 10, Madison's claims about faction rest on warrants about human nature. Train yourself to ask, for any argument: what would have to be true for this evidence to support this claim? Naming the hidden warrant is the single most powerful evaluation move you will learn.",
+          "curriculum_connection": "Prepares students for Federalist 10, Federalist 51, and 'Civil Disobedience.'",
+          "check_for_understanding": [
+            {
+              "prompt": "In the Toulmin model, the warrant is:",
+              "choices": [
+                {
+                  "text": "The position the author is arguing for",
+                  "is_correct": false
+                },
+                {
+                  "text": "The often-unstated assumption linking evidence to claim",
+                  "is_correct": true
+                },
+                {
+                  "text": "A list of the sources cited",
+                  "is_correct": false
+                },
+                {
+                  "text": "The conclusion's final sentence",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L32",
+          "number": 32,
+          "title": "Strength & Sufficiency of Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Evaluate whether the evidence in an argument is relevant, sufficient, and credible.",
+          "key_concepts": [
+            "Relevance of evidence",
+            "Sufficiency (enough to support)",
+            "Credibility of the source",
+            "Cherry-picking and gaps",
+            "Quality over quantity"
+          ],
+          "instruction": "In Grade 9 you learned to find evidence; now you judge it. Not all evidence is good evidence. Ask three questions. Is it relevant — does it actually bear on the claim, or is it beside the point? Is it sufficient — is there enough, and is it representative, or is the author generalizing from one case? Is it credible — does it come from a source with real authority and no disqualifying stake? A single dramatic anecdote may be relevant but insufficient; a pile of statistics from a biased source may be plentiful but untrustworthy. Beware cherry-picking, where an author shows only the evidence that helps and hides the rest. In reading Voting Rights arguments or the Brown v. Board decision, weigh whether the support truly carries the conclusion. Evaluating evidence is about quality and fit, not just counting how much an author piled up.",
+          "curriculum_connection": "Prepares students for Brown v. Board, Voting Rights, and Federalist 10.",
+          "check_for_understanding": [
+            {
+              "prompt": "Evidence can be plentiful yet still weak if it is:",
+              "choices": [
+                {
+                  "text": "Written in complete sentences",
+                  "is_correct": false
+                },
+                {
+                  "text": "Quoted with page numbers",
+                  "is_correct": false
+                },
+                {
+                  "text": "More than one paragraph long",
+                  "is_correct": false
+                },
+                {
+                  "text": "Irrelevant, unrepresentative, or from a non-credible source",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L33",
+          "number": 33,
+          "title": "Logical Fallacies & How to Spot Them",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Identify common logical fallacies and explain why they make an argument unsound.",
+          "key_concepts": [
+            "Ad hominem",
+            "Straw man",
+            "False dilemma",
+            "Slippery slope",
+            "Hasty generalization"
+          ],
+          "instruction": "A fallacy is a flaw in reasoning that makes an argument fail even when it sounds persuasive. Learn the common ones by name. Ad hominem attacks the person instead of the argument. Straw man distorts an opponent's position into a weaker one that is easy to knock down. False dilemma offers only two options when more exist ('either we ban this or society collapses'). Slippery slope claims one small step must lead to disaster without proof. Hasty generalization leaps to a broad conclusion from too few examples. You will see these in propaganda, in heated political rhetoric, and even in some founding-era debates. Spotting a fallacy is not just labeling it — explain why the reasoning breaks. The skill protects you as a reader and a citizen: an argument can be confident, fluent, and completely unsound at the same time.",
+          "curriculum_connection": "Prepares students for Propaganda, Digital Misinformation, and the Federalist 84/Brutus debate.",
+          "check_for_understanding": [
+            {
+              "prompt": "Attacking the person making an argument instead of the argument itself is:",
+              "choices": [
+                {
+                  "text": "An ad hominem fallacy",
+                  "is_correct": true
+                },
+                {
+                  "text": "A false dilemma",
+                  "is_correct": false
+                },
+                {
+                  "text": "A hasty generalization",
+                  "is_correct": false
+                },
+                {
+                  "text": "A valid form of reasoning",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L34",
+          "number": 34,
+          "title": "Source Credibility: The CRAAP Test",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Evaluate a source's credibility using Currency, Relevance, Authority, Accuracy, and Purpose.",
+          "key_concepts": [
+            "Currency (timeliness)",
+            "Relevance (fit to the question)",
+            "Authority (who and why trust them)",
+            "Accuracy (verifiable, supported)",
+            "Purpose (motive behind it)"
+          ],
+          "instruction": "In a world flooded with sources, you need a checklist. The CRAAP test gives five questions. Currency: how recent is the information, and does timeliness matter here? Relevance: does it actually address your question, at the right depth? Authority: who created it, and what makes them qualified? Accuracy: is it supported by evidence and verifiable elsewhere? Purpose: why was it made — to inform, to sell, to persuade, to provoke? A polished website can fail every test; a modest one can pass. When you read Digital Misinformation, you will see how convincingly false sources mimic real ones, which is exactly why a method beats a gut reaction. Apply CRAAP before you trust or cite anything. The point is not to reject sources but to know how much weight each one can bear in your reasoning. When something online provokes a strong reaction, treat that feeling as a cue to slow down, open a new tab, and verify the source laterally before you believe it or pass it on.",
+          "curriculum_connection": "Prepares students for Digital Misinformation, Journalism Ethics, and Confirmation Bias.",
+          "check_for_understanding": [
+            {
+              "prompt": "In the CRAAP test, the 'P' prompts you to ask about a source's:",
+              "choices": [
+                {
+                  "text": "Page length",
+                  "is_correct": false
+                },
+                {
+                  "text": "Price",
+                  "is_correct": false
+                },
+                {
+                  "text": "Purpose — the motive behind why it was created",
+                  "is_correct": true
+                },
+                {
+                  "text": "Popularity",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L35",
+          "number": 35,
+          "title": "Propaganda & Digital Misinformation",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.6",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Identify propaganda techniques and the mechanics of digital misinformation.",
+          "key_concepts": [
+            "Propaganda techniques (bandwagon, fear, name-calling)",
+            "Emotional manipulation",
+            "Misinformation vs. disinformation",
+            "Virality and confirmation bias",
+            "Lateral reading"
+          ],
+          "instruction": "Propaganda is information designed to manipulate rather than inform, using techniques like bandwagon ('everyone agrees'), appeals to fear, glittering generalities, and name-calling. Digital misinformation adds new dangers: false content spreads faster than truth because outrage and confirmation of what we already believe drive sharing. Distinguish misinformation (false, but spread without intent to deceive) from disinformation (deliberately false). The Confirmation Bias readings explain why we are vulnerable — we accept what flatters our existing views. Your best defense is lateral reading: instead of staying on a suspicious page, open new tabs to check the source and claim against independent ones. Combine this with the CRAAP test and fallacy-spotting from the last lessons. In an age of engineered virality, the analytical reader who slows down and verifies is the one who is hard to fool. Apply CRAAP before you trust or cite anything, and remember that a single failed letter — say, an undisclosed commercial purpose — can be enough to set a polished, official-looking source aside.",
+          "curriculum_connection": "Prepares students for Propaganda, Digital Misinformation, and Confirmation Bias.",
+          "check_for_understanding": [
+            {
+              "prompt": "Disinformation differs from misinformation in that disinformation is:",
+              "choices": [
+                {
+                  "text": "Always printed, never digital",
+                  "is_correct": false
+                },
+                {
+                  "text": "False and spread with deliberate intent to deceive",
+                  "is_correct": true
+                },
+                {
+                  "text": "True information shared too quickly",
+                  "is_correct": false
+                },
+                {
+                  "text": "Information that is simply outdated",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L36",
+          "number": 36,
+          "title": "Reading Seminal Documents with SOAPS",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.6",
+            "RI.9-10.9"
+          ],
+          "learning_objective": "Analyze a primary or seminal document using the SOAPS framework.",
+          "key_concepts": [
+            "Subject",
+            "Occasion",
+            "Audience",
+            "Purpose",
+            "Speaker"
+          ],
+          "instruction": "In Grade 9 you were introduced to primary sources. Now you analyze seminal documents rigorously with SOAPS, a five-part framework. Subject: what is the text about? Occasion: what moment or event prompted it? Audience: who was meant to read or hear it? Purpose: what did the author want to accomplish? Speaker: who is the author, and what is their stake and persona? Apply this to 'Give me liberty or give me death' or the Declaration of Independence, and the text snaps into context — Patrick Henry's defiance makes sense only against the occasion of impending war and an audience of wavering delegates. SOAPS keeps you from reading a historic document as a free-floating set of words. Establish all five elements first, and the document's strategy, urgency, and meaning become readable rather than remote. Run all five SOAPS questions before reading closely; once you know the speaker, occasion, audience, purpose, and subject, the document's urgency and strategy stop feeling remote and become readable.",
+          "curriculum_connection": "Prepares students for the Declaration of Independence, 'Give me liberty…,' and the Letter from Birmingham Jail.",
+          "check_for_understanding": [
+            {
+              "prompt": "In SOAPS, the 'O' stands for:",
+              "choices": [
+                {
+                  "text": "Outcome of the speech",
+                  "is_correct": false
+                },
+                {
+                  "text": "Opinion of the audience",
+                  "is_correct": false
+                },
+                {
+                  "text": "Order of the paragraphs",
+                  "is_correct": false
+                },
+                {
+                  "text": "Occasion — the event or moment prompting the text",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L37",
+          "number": 37,
+          "title": "Evaluating Reasoning in Seminal US Texts",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.8",
+            "RI.9-10.9"
+          ],
+          "learning_objective": "Evaluate the reasoning, premises, and rhetorical strategy of foundational American arguments.",
+          "key_concepts": [
+            "Premises and conclusions",
+            "Constitutional principles argued",
+            "Rhetorical appeals in service of logic",
+            "Identifying assumptions",
+            "Judging soundness, not just style"
+          ],
+          "instruction": "Now you put the whole module to work on the documents that built and contested American democracy. These texts argue, and you can evaluate them. In the Letter from Birmingham Jail, King answers the charge that his protests are 'unwise and untimely' by reasoning from just and unjust laws — trace his premises and test whether the conclusion follows. In the Federalist 84/Brutus debate over a Bill of Rights, two sides reason from different assumptions about power and trust; identify each side's hidden warrant and judge whose reasoning is stronger. Use SOAPS for context, Toulmin to expose warrants, and your fallacy list to catch slips. The goal is not to admire the prose but to assess the argument: are the premises true, does the logic hold, and is the evidence sufficient? This is reading like a critical citizen. Identify the premises, ask whether each is true, then test whether the conclusion follows; doing this for both sides shows whose reasoning holds.",
+          "curriculum_connection": "Prepares students for the Letter from Birmingham Jail, the Federalist 84/Brutus debate, and 'Civil Disobedience.'",
+          "check_for_understanding": [
+            {
+              "prompt": "To evaluate the reasoning in a seminal argument, you should mainly judge whether:",
+              "choices": [
+                {
+                  "text": "The premises are true and the conclusion follows from them",
+                  "is_correct": true
+                },
+                {
+                  "text": "The prose sounds impressive",
+                  "is_correct": false
+                },
+                {
+                  "text": "The document is famous",
+                  "is_correct": false
+                },
+                {
+                  "text": "The author is well known",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M7",
+      "title": "Synthesis & Mastery",
+      "description": "Combining craft, perspective, and evaluation on complex passages, mastering grade-10 MCQ stems, and a capstone synthesis.",
+      "placement": {
+        "before_articles": "Final review before the Grade 10 assessment (applies to all clusters)"
+      },
+      "duration_minutes": 23,
+      "lessons": [
+        {
+          "id": "L38",
+          "number": 38,
+          "title": "Putting It All Together on a Complex Passage",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RL.9-10.5",
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Integrate craft, structure, and perspective analysis to read a complex passage at grade-10 depth.",
+          "key_concepts": [
+            "Layered analysis",
+            "Craft + structure + perspective together",
+            "Evidence-based reading",
+            "Letting layers inform each other",
+            "Synthesizing your own reading"
+          ],
+          "instruction": "Real grade-10 passages do not separate skills into tidy boxes, so neither should your reading. On a dense passage from Heart of Darkness or Man's Search for Meaning, run your tools at once: read the diction and imagery for tone (Module 1), notice how the structure controls revelation (Module 2), and ask whose perspective frames what you see (Module 3). The layers inform each other — a tonal shift often marks a structural turn, and a perspective's blind spot often explains an omission. Move from observation to claim: gather what the language, the arrangement, and the viewpoint each show, then state what the passage means and back it with specific evidence. This integrated reading is the true target of the whole course. Practiced together, the skills stop being a checklist and become a single, fluent way of seeing a text.",
+          "curriculum_connection": "Synthesizes skills for Heart of Darkness, Man's Search for Meaning, and Things Fall Apart.",
+          "check_for_understanding": [
+            {
+              "prompt": "Reading a complex passage at grade-10 depth means:",
+              "choices": [
+                {
+                  "text": "Using only one skill chosen at random",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reading it quickly without taking notes",
+                  "is_correct": false
+                },
+                {
+                  "text": "Integrating craft, structure, and perspective and backing claims with evidence",
+                  "is_correct": true
+                },
+                {
+                  "text": "Looking only at the first and last lines",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L39",
+          "number": 39,
+          "title": "Mastering the Grade-10 MCQ Stems",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Recognize and answer the signature grade-10 multiple-choice question stems with a reliable method.",
+          "key_concepts": [
+            "'Most nearly means' stems",
+            "'Function of paragraph X' stems",
+            "'Best supports' evidence stems",
+            "Eliminating trap answers",
+            "Matching answer to the whole text"
+          ],
+          "instruction": "In Grade 9 you learned MCQ mechanics and distractor elimination. Grade 10 raises the difficulty with predictable stem types you should recognize on sight. 'Which word most nearly means…' tests context (Lesson 6): substitute and match tone. 'What is the function of paragraph X?' tests structure (Lesson 8): name the job, do not summarize. 'Which quotation best supports the answer to the previous question?' tests evidence: the right quote must support your exact prior answer, not just relate to the topic. 'The author's tone is best described as…' wants the precise word backed by diction. For each, eliminate choices that are true but off-target, too broad, or contradicted by the text. The trap answer is usually plausible and partly right. Match every answer to the whole passage, not a single line, and the analytical reading you have built will carry you through the test.",
+          "curriculum_connection": "Prepares students for all Grade 10 assessment passages across every cluster.",
+          "check_for_understanding": [
+            {
+              "prompt": "On a 'which quotation best supports the previous answer' item, the correct quote must:",
+              "choices": [
+                {
+                  "text": "Be the longest quotation offered",
+                  "is_correct": false
+                },
+                {
+                  "text": "Directly support your specific previous answer",
+                  "is_correct": true
+                },
+                {
+                  "text": "Come from the first paragraph",
+                  "is_correct": false
+                },
+                {
+                  "text": "Mention the topic in any way",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L40",
+          "number": 40,
+          "title": "Capstone: Synthesizing Across the Year",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.9",
+            "RI.9-10.9",
+            "RI.9-10.7"
+          ],
+          "learning_objective": "Synthesize craft, perspective, drama, comparison, and evaluation into one analytical reading practice.",
+          "key_concepts": [
+            "Whole-course synthesis",
+            "Choosing the right tool for the text",
+            "Comparison and evaluation combined",
+            "From reader to scholar",
+            "Carrying skills into Grade 10 texts"
+          ],
+          "instruction": "This capstone pulls the year together. You began with the craft of words and tone, learned how texts are built, weighed perspective and bias, read drama and tragic structure, compared and synthesized multiple texts, and evaluated arguments and sources. The mark of a scholar is choosing the right tool for the text in front of you: SOAPS and Toulmin for a founding document, tragic-hero analysis for Macbeth, perspective and the Conrad-Achebe lens for postcolonial fiction, synthesis when several texts converge on one question. Remember the throughline from Grade 9: foundations made these analyses possible. As you move into the full Grade 10 curriculum — from Things Fall Apart to Frankenstein to the Letter from Birmingham Jail — read actively, support every claim with evidence, and hold competing texts in dialogue. You are no longer just decoding texts; you are interpreting and judging them. That is reading like a scholar.",
+          "curriculum_connection": "Synthesizes skills across all clusters, from Things Fall Apart to the Letter from Birmingham Jail to Frankenstein.",
+          "check_for_understanding": [
+            {
+              "prompt": "The central habit of a scholarly reader, as taught in this course, is to:",
+              "choices": [
+                {
+                  "text": "Apply the same single strategy to every text",
+                  "is_correct": false
+                },
+                {
+                  "text": "Read only for plot and stop there",
+                  "is_correct": false
+                },
+                {
+                  "text": "Trust the first interpretation that comes to mind",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choose the right analytical tool for the text and support claims with evidence",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

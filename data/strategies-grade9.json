@@ -1,0 +1,1787 @@
+{
+  "course_title": "Reading Primer — Grade 9",
+  "grade": 9,
+  "sequence": "Grades 9–10, Part 1 of 2",
+  "subtitle": "Foundations: The Reading Process, Comprehension & Genre Fundamentals",
+  "description": "This is Part 1 of a coordinated two-year reading-strategy course spanning the CCSS 9–10 band. Grade 9 builds your foundations: how to read closely in two passes, how to find central ideas and themes, and how stories, poems, and informational texts are put together. Grade 10 will continue the same skills into deeper analysis — craft and structure, perspective and bias, drama and tragic structure, comparing texts, and evaluating arguments and sources.",
+  "total_lessons": 40,
+  "total_duration_minutes": 285,
+  "paired_grade_note": "Topics are split across Grades 9 and 10 (the CCSS 9–10 band). Grade 9 builds foundations; Grade 10 builds craft/structure analysis, perspective, drama, comparison, and argument evaluation.",
+  "placement_modes": {
+    "single_take": "Deliver all modules before Grade 9 Article 1.",
+    "distributed": "Deliver each module before the article cluster in placement.before_articles."
+  },
+  "modules": [
+    {
+      "id": "M1",
+      "title": "The Reading Process & Test-Taking Foundations",
+      "description": "How to read closely in two passes, annotate, use guiding questions as lenses, answer multiple-choice reading questions, eliminate distractors, paraphrase, and cite strong evidence.",
+      "placement": {
+        "before_articles": "Before Articles 1+ (foundational skills for the entire Grade 9 course)"
+      },
+      "duration_minutes": 57,
+      "lessons": [
+        {
+          "id": "L1",
+          "number": 1,
+          "title": "What Close Reading Really Is",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Define close reading and explain why slowing down to reread reveals meaning a single fast read misses.",
+          "key_concepts": [
+            "Close reading vs. skimming",
+            "Reading for meaning, not just plot",
+            "Slowing down on purpose",
+            "Noticing word choice",
+            "Returning to the text for proof"
+          ],
+          "instruction": "Close reading means slowing down and treating a text as something worth studying, not just finishing. When you skim, you grab the gist; when you read closely, you notice how the author made the gist happen — the exact words, the order of events, the small surprises. Think about the opening of the Odyssey, Books 21–23, when Odysseus finally reveals himself. A fast read tells you he wins. A close read shows you the careful, tense steps that build to that moment. Your job all year is to read like a scholar: ask what the words say, and then ask what they mean and why they matter. You will not get everything on the first pass, and that is normal. Close reading expects you to return to the page. In this course you will practice on epics, poems, and articles — but the habit is the same everywhere: read slowly, notice carefully, go back for proof.",
+          "curriculum_connection": "Introduces the close-reading habit students will use on Odyssey Books 21–23 and every Grade 9 text that follows.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which statement best describes close reading?",
+              "choices": [
+                {
+                  "text": "Reading as quickly as possible to find out what happens",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reading the first and last lines and guessing the middle",
+                  "is_correct": false
+                },
+                {
+                  "text": "Slowing down to notice how the words create meaning and rereading for proof",
+                  "is_correct": true
+                },
+                {
+                  "text": "Memorizing the plot so you can retell it",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L2",
+          "number": 2,
+          "title": "The Two-Pass Method: First Read vs. Second Read",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.10"
+          ],
+          "learning_objective": "Use a two-pass reading process, with a first read for the gist and a second read for analysis.",
+          "key_concepts": [
+            "First read: get the gist",
+            "Second read: dig deeper",
+            "Different goals for each pass",
+            "It is normal to be confused at first",
+            "Rereading is a strategy, not a failure"
+          ],
+          "instruction": "Strong readers read important texts twice on purpose. Your first read has one job: get the gist — who is involved, what happens, where it goes. Do not panic over hard words yet; just keep moving and mark spots that confuse you. Your second read is where the thinking happens: now you slow down on those marked spots, ask why the author made certain choices, and look for patterns. When you read the Epic of Gilgamesh, Tablets I–II, your first pass tells you Gilgamesh and Enkidu meet and become friends. Your second pass asks how their friendship changes Gilgamesh, and why that matters for the rest of the epic. Two passes feel slower, but they are faster than rereading randomly when you are lost. Decide your purpose before each pass, and you will read with control instead of just hoping it makes sense.",
+          "curriculum_connection": "Models the two-pass process on the Epic of Gilgamesh Tablets I–II and Books 21–23 of the Odyssey.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the main job of your FIRST read?",
+              "choices": [
+                {
+                  "text": "To get the gist of who, what, and where",
+                  "is_correct": true
+                },
+                {
+                  "text": "To analyze every word choice in detail",
+                  "is_correct": false
+                },
+                {
+                  "text": "To memorize the text word for word",
+                  "is_correct": false
+                },
+                {
+                  "text": "To answer the test questions immediately",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L3",
+          "number": 3,
+          "title": "Building an Annotation System",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Annotate a text with a small, consistent set of marks that capture key ideas, questions, and reactions.",
+          "key_concepts": [
+            "Underline key ideas",
+            "Circle unknown words",
+            "Star surprising or important moments",
+            "Write questions in the margin",
+            "Keep the system small and consistent"
+          ],
+          "instruction": "Annotation is how you leave a trail for your future self. A good system is small enough to remember and use every time: underline a key idea, circle a word you do not know, put a star next to a moment that surprises you, and write a quick question in the margin when something puzzles you. The point is not to color the whole page — too many marks mean nothing stands out. As you read the Campbell Monomyth article, you might underline the definition of each stage, star the line that explains why the hero must leave home, and write 'like Odysseus?' in the margin. When you return for your second read or for the test, your marks point you straight to what mattered. Pick your handful of marks now and use the same ones all year, so annotating becomes automatic and your notes stay readable.",
+          "curriculum_connection": "Practices annotation on the Campbell Monomyth article and the poem 'Ithaka.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Why should an annotation system stay small and consistent?",
+              "choices": [
+                {
+                  "text": "Teachers require exactly five marks on every page",
+                  "is_correct": false
+                },
+                {
+                  "text": "Colorful pages always earn higher grades",
+                  "is_correct": false
+                },
+                {
+                  "text": "Marking everything is faster than reading",
+                  "is_correct": false
+                },
+                {
+                  "text": "If everything is marked, nothing stands out, and consistent marks are easy to reuse",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L4",
+          "number": 4,
+          "title": "Guiding Questions as Reading Lenses",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Use a guiding question before reading to focus attention and filter what matters in a text.",
+          "key_concepts": [
+            "A guiding question sets a purpose",
+            "Reading with a lens vs. reading blind",
+            "Questions filter what to notice",
+            "Returning to the question after reading",
+            "One clear question beats many vague ones"
+          ],
+          "instruction": "A guiding question is a lens you put on before you read. Without one, every sentence seems equally important and you tire out. With one, you read on a mission. Before you read 'Ithaka,' you might hold the question: 'According to this poem, what is the real reward of a journey?' Now lines about the trip itself jump out, and you can tell what to slow down on. A guiding question does not mean you ignore everything else — it just gives your attention a home base. After reading, return to the question and answer it in your own words, using the text. Many reading tasks come with a question already; treat it as your lens. When none is given, make one from the title or first paragraph. Reading with a purpose turns a wall of words into an organized search for an answer.",
+          "curriculum_connection": "Applies a guiding-question lens to 'Ithaka' and the Sundiata epic.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does a guiding question do for a reader?",
+              "choices": [
+                {
+                  "text": "It tells you the test answers ahead of time",
+                  "is_correct": false
+                },
+                {
+                  "text": "It lets you skip the parts you find boring",
+                  "is_correct": false
+                },
+                {
+                  "text": "It sets a purpose and filters what to notice in the text",
+                  "is_correct": true
+                },
+                {
+                  "text": "It replaces the need to read the text at all",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L5",
+          "number": 5,
+          "title": "How Multiple-Choice Reading Questions Work",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Explain what multiple-choice reading questions are testing and where the correct answer comes from.",
+          "key_concepts": [
+            "The answer lives in the text",
+            "The stem tells you what is asked",
+            "Right answers are supported, not just true-sounding",
+            "Read all four choices before choosing",
+            "Match the choice to evidence"
+          ],
+          "instruction": "A multiple-choice reading question is not a guessing game about opinions — it is a test of whether you can find what the text actually supports. Start with the stem, the question itself, and decide exactly what it asks: a detail, an inference, the main idea, a word's meaning? The correct answer is the one the text backs up, even if another choice sounds smart or true in real life. When you read questions about 'Perseus' or the Real Troy article, answer them from the passage, not from a movie you saw. Always read all four choices before deciding; the best answer often hides at C or D while a tempting trap sits at A. Then ask: where in the text is my proof? If you cannot point to a line or a clear inference, you are guessing. Reading questions reward readers who stay tied to the words on the page.",
+          "curriculum_connection": "Frames how to approach test questions on 'Perseus' and the Real Troy article.",
+          "check_for_understanding": [
+            {
+              "prompt": "On a reading multiple-choice question, the correct answer is best described as the one that —",
+              "choices": [
+                {
+                  "text": "sounds the smartest or most impressive",
+                  "is_correct": false
+                },
+                {
+                  "text": "matches your personal opinion",
+                  "is_correct": false
+                },
+                {
+                  "text": "appears first in the list of choices",
+                  "is_correct": false
+                },
+                {
+                  "text": "is supported by evidence in the text",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L6",
+          "number": 6,
+          "title": "Eliminating Wrong Answers: Distractor Logic",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Identify common types of wrong answers (distractors) and eliminate them to narrow the choices.",
+          "key_concepts": [
+            "True-but-not-the-answer distractors",
+            "Too-extreme words (always, never)",
+            "Half-right, half-wrong choices",
+            "Off-topic but tempting choices",
+            "Eliminate to find the best answer"
+          ],
+          "instruction": "Wrong answers, called distractors, are built to be tempting. Learn their tricks and you can cross them out fast. Watch for choices that are true but do not answer the question asked. Watch for extreme words like 'always,' 'never,' or 'all,' which a careful text rarely supports. Watch for half-right choices that start accurately and then add something false. And watch for off-topic choices that sound related but never appear in the passage. When you read about the Ramayana and Sita's choices, a distractor might describe something real about loyalty but ignore what the question actually asks. Cross out every choice you can prove wrong, even if you are unsure of the right one. Eliminating two distractors turns a hard guess into a coin flip, and eliminating three hands you the answer. Hunting for the wrong is often easier than naming the right.",
+          "curriculum_connection": "Builds distractor-elimination skills using the Ramayana (Sita) and the Norse Sigurd legend.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which is a warning sign of a likely WRONG answer choice?",
+              "choices": [
+                {
+                  "text": "It uses an extreme word like 'always' or 'never' that the text does not support",
+                  "is_correct": true
+                },
+                {
+                  "text": "It quotes a phrase directly from the passage",
+                  "is_correct": false
+                },
+                {
+                  "text": "It answers exactly what the stem asks",
+                  "is_correct": false
+                },
+                {
+                  "text": "It can be backed up by a specific line",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L7",
+          "number": 7,
+          "title": "Accurate Paraphrasing",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Restate a passage in your own words without changing its meaning or adding outside ideas.",
+          "key_concepts": [
+            "Paraphrase = same meaning, new words",
+            "Not copying, not summarizing",
+            "Do not add your opinion",
+            "Check the paraphrase against the text",
+            "Paraphrasing proves understanding"
+          ],
+          "instruction": "Paraphrasing means saying the same idea in your own words. It is different from copying (which uses the author's words) and from summarizing (which shrinks a long passage to its gist). A good paraphrase keeps the meaning exactly but swaps the wording, and it never sneaks in your own opinion. When you read a dense passage from the Iliad, Books 22–24, where Achilles confronts grief and rage, try restating one hard sentence as if explaining it to a friend. Then check: did I change the meaning? Did I add anything that was not there? If Priam begs for his son's body, your paraphrase must keep that plea, not soften it. Paraphrasing is also a test-taking tool: when an answer choice paraphrases the text correctly, it can be right even though it shares no words with the passage. Practicing paraphrase proves you truly understood, not just that you can recognize the original wording.",
+          "curriculum_connection": "Practices paraphrase on the Iliad Books 22–24 and the 'Penelope'/'Circe' poems.",
+          "check_for_understanding": [
+            {
+              "prompt": "An accurate paraphrase must —",
+              "choices": [
+                {
+                  "text": "use as many of the author's exact words as possible",
+                  "is_correct": false
+                },
+                {
+                  "text": "shorten the passage to a single sentence no matter what",
+                  "is_correct": false
+                },
+                {
+                  "text": "add your personal reaction to the idea",
+                  "is_correct": false
+                },
+                {
+                  "text": "keep the same meaning while using your own words",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L8",
+          "number": 8,
+          "title": "Citing Strong Textual Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Select the strongest, most relevant textual evidence to support a claim about a text.",
+          "key_concepts": [
+            "Evidence must support the specific claim",
+            "Strong vs. weak (vague) evidence",
+            "Quote the most relevant words",
+            "Explain how the evidence proves the claim",
+            "More evidence is not always better"
+          ],
+          "instruction": "Evidence is proof from the text, and not all proof is equal. Strong evidence is specific and directly tied to your claim; weak evidence is vague or only loosely related. If your claim is that Beowulf values reputation above safety, the strongest evidence is the moment he chooses to fight rather than retreat, not a general line about him being brave. When you cite, quote only the most relevant words, then explain how they prove your point — evidence does not speak for itself. You will build on this skill in Grade 10, where you will weigh which of several pieces of evidence is strongest, so master the basics now. Avoid the trap of piling on quotes; one precise quote that clearly fits beats three that almost fit. Each time you make a claim about a text, ask: what exact words make this true, and can I explain the connection?",
+          "curriculum_connection": "Develops evidence-citing skills using Beowulf and the article 'What Is a Tragic Hero?'",
+          "check_for_understanding": [
+            {
+              "prompt": "What makes a piece of textual evidence STRONG?",
+              "choices": [
+                {
+                  "text": "It is specific and directly supports the claim being made",
+                  "is_correct": true
+                },
+                {
+                  "text": "It is the longest quotation available",
+                  "is_correct": false
+                },
+                {
+                  "text": "It comes from the very first paragraph",
+                  "is_correct": false
+                },
+                {
+                  "text": "It sounds dramatic when read aloud",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Key Ideas & Details: Comprehension",
+      "description": "Topic vs. central idea, objective summary, inference from evidence, theme vs. topic, tracking character change and connected events, and stated vs. implied main idea.",
+      "placement": {
+        "before_articles": "Before the Epic & Myth and Identity clusters (Articles 1–35)"
+      },
+      "duration_minutes": 51,
+      "lessons": [
+        {
+          "id": "L9",
+          "number": 9,
+          "title": "Topic vs. Central Idea",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Distinguish the topic of a text (what it is about) from its central idea (the main point about that topic).",
+          "key_concepts": [
+            "Topic = a word or phrase",
+            "Central idea = a full statement",
+            "The same topic can carry different central ideas",
+            "Central idea covers the whole text",
+            "Ask 'what point is made about the topic?'"
+          ],
+          "instruction": "The topic is what a text is about, named in a word or short phrase. The central idea is the main point the text makes about that topic, stated as a full sentence. The topic of the Epic of Gilgamesh, Tablets X–XI, might be 'mortality,' but the central idea is something like 'even the greatest hero cannot escape death, so he must find meaning in what he builds and leaves behind.' Notice the difference: a topic is a label, a central idea is a claim. Two texts can share the topic of friendship but make opposite points about it. To find a central idea, first name the topic, then ask: what is the text saying about this topic across the whole work? Test your answer by checking that it fits the beginning, middle, and end. A central idea that only matches one paragraph is too small.",
+          "curriculum_connection": "Distinguishes topic from central idea in the Epic of Gilgamesh Tablets X–XI and 'How It Feels to Be Colored Me.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Which best states the difference between a topic and a central idea?",
+              "choices": [
+                {
+                  "text": "A topic is a full sentence; a central idea is one word",
+                  "is_correct": false
+                },
+                {
+                  "text": "A topic is a word or phrase; a central idea is the main point made about it",
+                  "is_correct": true
+                },
+                {
+                  "text": "They mean exactly the same thing",
+                  "is_correct": false
+                },
+                {
+                  "text": "A topic appears at the end; a central idea appears at the start",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L10",
+          "number": 10,
+          "title": "Writing an Objective Summary",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Write a short, objective summary that captures the central idea and key details without personal opinion.",
+          "key_concepts": [
+            "Summary = central idea + key details",
+            "Objective means no opinion",
+            "Keep it short and in order",
+            "Leave out minor details",
+            "Use your own words"
+          ],
+          "instruction": "An objective summary is a short, fair retelling of a text's central idea and most important details — with your opinions left out. 'Objective' means you report what the text says, not whether you liked it. Start with the central idea, then add only the key details that support it, in a sensible order. For 'Marigolds,' an objective summary names the narrator's poverty, the act of destroying the marigolds, and the moment she understands the woman who grew them — without saying 'this was a sad story' or 'she should not have done that.' Leave out tiny details that do not change the main point. Keep it in your own words to prove you understood, not just copied. A strong summary is something another reader could trust to know what the text is about. You will reuse this skill constantly, so practice trimming to essentials without distorting the meaning.",
+          "curriculum_connection": "Practices objective summary on 'Marigolds' and an excerpt from The Joy Luck Club.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does it mean for a summary to be 'objective'?",
+              "choices": [
+                {
+                  "text": "It reports the text's content without adding personal opinion",
+                  "is_correct": true
+                },
+                {
+                  "text": "It includes every detail from the text",
+                  "is_correct": false
+                },
+                {
+                  "text": "It is written in the same words as the original",
+                  "is_correct": false
+                },
+                {
+                  "text": "It only describes the parts you enjoyed",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L11",
+          "number": 11,
+          "title": "Drawing Inferences from Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.1",
+            "RI.9-10.1"
+          ],
+          "learning_objective": "Make a logical inference by combining stated textual evidence with reasoning.",
+          "key_concepts": [
+            "Inference = evidence + reasoning",
+            "What the text implies but does not say",
+            "Stay grounded in the text",
+            "Avoid wild guesses",
+            "Test the inference against details"
+          ],
+          "instruction": "An inference is a conclusion you reach by combining what the text says with careful reasoning — it is reading between the lines, but with proof. The formula is simple: evidence plus reasoning equals inference. In Brown Girl Dreaming, the poet may never say 'I felt out of place,' but details about silence, watching, and listening let you infer it. A good inference stays anchored to the text; a wild guess floats free of it. Always be ready to answer: what in the passage led me here? If you cannot connect your conclusion to specific details, you are guessing, not inferring. Watch the difference between an inference (supported) and an assumption (just believed). Test every inference by rereading the evidence and asking whether another reader, looking at the same lines, would reach the same conclusion. Strong inferences feel almost obvious once you point to the proof.",
+          "curriculum_connection": "Builds inference skills using Brown Girl Dreaming and the poem 'Sympathy.'",
+          "check_for_understanding": [
+            {
+              "prompt": "An inference is best described as —",
+              "choices": [
+                {
+                  "text": "a guess made without looking at the text",
+                  "is_correct": false
+                },
+                {
+                  "text": "a direct quotation copied from the passage",
+                  "is_correct": false
+                },
+                {
+                  "text": "a conclusion drawn by combining textual evidence with reasoning",
+                  "is_correct": true
+                },
+                {
+                  "text": "the author's exact stated opinion",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L12",
+          "number": 12,
+          "title": "Theme vs. Topic: A Theme Is a Full Claim",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.2"
+          ],
+          "learning_objective": "Distinguish a topic from a theme, stating a theme as a complete claim about life.",
+          "key_concepts": [
+            "Topic = subject word (e.g., freedom)",
+            "Theme = a full sentence claim",
+            "Theme is a lesson or insight, not a single word",
+            "Avoid one-word 'themes'",
+            "Theme should fit the whole text"
+          ],
+          "instruction": "Students often confuse topic and theme. A topic is a subject — freedom, hope, identity — named in a word or phrase. A theme is the full insight the text offers about that subject, written as a complete sentence. 'Freedom' is a topic; 'true freedom of the mind can survive even when the body is caged' is a theme. Notice that the poem 'Sympathy' and the poem 'Caged Bird' share the topic of captivity but each builds a theme you must state in your own words. A theme is not a one-word answer and not a bumper-sticker rule; it is a claim about life that the whole text supports. To find one, name the topic, then ask what the text shows or argues about it from beginning to end. If your 'theme' is a single word, you have only found the topic — keep going until you can write a sentence.",
+          "curriculum_connection": "Distinguishes topic from theme in 'Sympathy,' 'Caged Bird,' and 'Invictus.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Which of the following is stated as a THEME rather than a topic?",
+              "choices": [
+                {
+                  "text": "Freedom",
+                  "is_correct": false
+                },
+                {
+                  "text": "Captivity and hope",
+                  "is_correct": false
+                },
+                {
+                  "text": "Even when the body is confined, the spirit can remain free",
+                  "is_correct": true
+                },
+                {
+                  "text": "Birds",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L13",
+          "number": 13,
+          "title": "Tracking How a Character Changes",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Trace how a character changes over a text and identify what causes the change.",
+          "key_concepts": [
+            "Character at the start vs. the end",
+            "Turning points that cause change",
+            "Change can be in belief, not just situation",
+            "Evidence at each stage",
+            "Why the change matters to the theme"
+          ],
+          "instruction": "Characters in strong stories rarely end where they began, and tracking that change helps you understand the whole text. Start by noticing the character at the opening — what they believe, want, or fear. Then watch for turning points: moments that push them to think or act differently. Finally, describe who they are at the end and what caused the shift. In A Lesson Before Dying, a young man condemned to die slowly changes in how he sees his own worth and dignity, and the people around him change too. Keep evidence at each stage so you can show the journey, not just claim it. Remember that change can be internal — a shift in belief or attitude — not only a change in circumstances. Ask why the change matters: a character's growth usually points straight at the text's theme. Mapping the before, the turning point, and the after turns a long story into a clear arc.",
+          "curriculum_connection": "Tracks character change in A Lesson Before Dying and the novel Speak.",
+          "check_for_understanding": [
+            {
+              "prompt": "To track how a character changes, you should mainly look for —",
+              "choices": [
+                {
+                  "text": "how the character looks physically",
+                  "is_correct": false
+                },
+                {
+                  "text": "whether you personally like the character",
+                  "is_correct": false
+                },
+                {
+                  "text": "the number of times the character is mentioned",
+                  "is_correct": false
+                },
+                {
+                  "text": "the character's beliefs or attitudes at the start, the turning points, and where they end up",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L14",
+          "number": 14,
+          "title": "Tracking How Events Connect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3",
+            "RI.9-10.3"
+          ],
+          "learning_objective": "Identify how one event leads to or causes another and explain the connection.",
+          "key_concepts": [
+            "Cause and effect between events",
+            "Sequence shows connection",
+            "One event sets up the next",
+            "Distinguish 'and then' from 'because'",
+            "Connected events build meaning"
+          ],
+          "instruction": "Events in a good text are not just a list — they are linked, often by cause and effect. Your job is to see how one event leads to the next, not just what order they come in. There is a big difference between 'this happened, and then that happened' and 'this happened because of that.' In the Sundiata epic, the hero's early hardship is not random; it sets up the strength and loyalty he shows later. As you read, ask: did this event cause the next one, or just come before it? Drawing those links shows you why a story holds together and where its meaning lives. The same skill works in nonfiction, where one cause can trigger a chain of effects. When you can explain why events connect, you understand the text far better than someone who can only retell the order. Look for the 'because' hiding behind the 'and then.'",
+          "curriculum_connection": "Connects events in the Sundiata epic and the article 'Heroes in Modern Media.'",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the difference between events that simply follow each other and events that are connected by cause?",
+              "choices": [
+                {
+                  "text": "There is no difference; order always means cause",
+                  "is_correct": false
+                },
+                {
+                  "text": "Connected events happen on the same page",
+                  "is_correct": false
+                },
+                {
+                  "text": "Cause means one event makes the next happen, not just comes before it",
+                  "is_correct": true
+                },
+                {
+                  "text": "Order matters only in nonfiction texts",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L15",
+          "number": 15,
+          "title": "Stated vs. Implied Main Idea",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.2",
+            "RL.9-10.2"
+          ],
+          "learning_objective": "Determine whether a main idea is directly stated or must be inferred from the details.",
+          "key_concepts": [
+            "Stated main idea appears in a sentence",
+            "Implied main idea must be inferred",
+            "Use details to build the implied idea",
+            "Often found in intros or conclusions when stated",
+            "Same skill in fiction and nonfiction"
+          ],
+          "instruction": "Sometimes a text hands you its main idea in a clear sentence, often in the introduction or conclusion — that is a stated main idea. Other times the text never says it outright, and you must build it from the details — that is an implied main idea. Both are testable, so learn to tell which you are facing. In the article on the Developing Teenage Brain, the main idea may be stated plainly in a topic sentence. In a poem like 'Invictus,' the main idea is implied: no line announces it, but the imagery of an unconquerable spirit makes it clear. When the idea is implied, gather several details and ask what point they add up to — do not rely on a single line. Whether stated or implied, the main idea must cover the whole text, not just one part. Knowing the difference tells you whether to locate a sentence or to infer from clues.",
+          "curriculum_connection": "Compares stated vs. implied main idea in the 'Developing Teenage Brain' article and 'Invictus.'",
+          "check_for_understanding": [
+            {
+              "prompt": "When a main idea is IMPLIED, how do you find it?",
+              "choices": [
+                {
+                  "text": "Copy the first sentence of the text",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip it, since implied ideas are not testable",
+                  "is_correct": false
+                },
+                {
+                  "text": "Look only in the title",
+                  "is_correct": false
+                },
+                {
+                  "text": "Gather the supporting details and infer the point they add up to",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Reading Narrative: Fundamentals",
+      "description": "Plot and conflict (Freytag), characterization (STEAL), setting as meaning, basic point of view, the Hero's Journey, archetypes, and sequence and flashback basics.",
+      "placement": {
+        "before_articles": "Before the Epic & Myth and Storytelling clusters (Articles 1–16, 86–102)"
+      },
+      "duration_minutes": 50,
+      "lessons": [
+        {
+          "id": "L16",
+          "number": 16,
+          "title": "Plot & Conflict: Freytag's Pyramid",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Identify the stages of plot using Freytag's Pyramid and locate the central conflict.",
+          "key_concepts": [
+            "Exposition, rising action, climax, falling action, resolution",
+            "Conflict drives plot",
+            "Internal vs. external conflict",
+            "Climax is the turning point",
+            "Plot serves meaning, not just events"
+          ],
+          "instruction": "Most narratives follow a shape you can map with Freytag's Pyramid: exposition sets the scene, rising action builds tension, the climax is the turning point, falling action shows the fallout, and the resolution settles things. Driving all of it is conflict — the problem the characters struggle against. Conflict can be external (a hero against a monster) or internal (a hero against their own fear or pride). In 'The Necklace,' the rising action piles up as a borrowed necklace is lost, and the climax and resolution deliver a brutal twist. Identifying the conflict tells you what the story is really about. Map the stages on a text and you will see how an author builds and releases tension on purpose. Remember the plot is not the point by itself — it is the path the author uses to deliver meaning. Find the conflict first, and the rest of the pyramid falls into place.",
+          "curriculum_connection": "Maps plot and conflict in 'The Necklace' and Odyssey Books 21–23.",
+          "check_for_understanding": [
+            {
+              "prompt": "In Freytag's Pyramid, the climax is —",
+              "choices": [
+                {
+                  "text": "the opening that introduces the characters",
+                  "is_correct": false
+                },
+                {
+                  "text": "the calm ending that settles the story",
+                  "is_correct": false
+                },
+                {
+                  "text": "the turning point of highest tension",
+                  "is_correct": true
+                },
+                {
+                  "text": "the background information before the action",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L17",
+          "number": 17,
+          "title": "Characterization: STEAL and Direct vs. Indirect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Analyze how an author reveals character through direct statements and indirect methods (STEAL).",
+          "key_concepts": [
+            "Direct vs. indirect characterization",
+            "STEAL: Speech, Thoughts, Effect on others, Actions, Looks",
+            "Show vs. tell",
+            "Inferring traits from behavior",
+            "Characterization reveals values"
+          ],
+          "instruction": "Characterization is how an author builds a person on the page. Direct characterization tells you a trait outright ('he was brave'); indirect characterization shows it and lets you infer. A handy tool for indirect methods is STEAL: Speech, Thoughts, Effect on others, Actions, and Looks. Watch what a character says, what they think, how others react to them, what they do, and how they appear. In Things Fall Apart, you learn who Okonkwo is far more from his actions and the fear he stirs in others than from any single sentence labeling him. Authors usually prefer to show, so train yourself to infer traits from behavior rather than waiting to be told. When you read a character through STEAL, ask what each clue reveals about their values and what they want. Naming a trait is only step one; the richer move is pointing to the speech, action, or reaction that proves it.",
+          "curriculum_connection": "Analyzes characterization in Things Fall Apart and Beowulf using STEAL.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which is an example of INDIRECT characterization?",
+              "choices": [
+                {
+                  "text": "The narrator states, 'She was generous'",
+                  "is_correct": false
+                },
+                {
+                  "text": "We infer kindness from the character quietly sharing her last meal",
+                  "is_correct": true
+                },
+                {
+                  "text": "A label in the cast list calls her 'the kind one'",
+                  "is_correct": false
+                },
+                {
+                  "text": "A footnote explains her personality",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L18",
+          "number": 18,
+          "title": "Setting as Meaning",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Explain how setting shapes mood, character, and meaning, not just where a story takes place.",
+          "key_concepts": [
+            "Setting = time and place",
+            "Setting creates mood",
+            "Setting can shape characters",
+            "Setting can carry meaning or symbolism",
+            "More than backdrop"
+          ],
+          "instruction": "Setting is the time and place of a story, but a skilled author makes it do far more than mark a spot on a map. Setting can create mood, shape how characters behave, and even carry meaning. In 'The Open Boat,' the vast, indifferent sea is not just scenery — it presses on the men and shapes the whole story's sense of human smallness against nature. Ask what a setting makes you feel, how it limits or pressures the characters, and whether it stands for something larger. A house, a season, or a storm can carry weight beyond the literal. When you notice a setting described in detail, slow down: authors rarely waste description. You will go deeper into symbolism and setting's connection to theme in Grade 10, so for now practice seeing setting as an active part of the story rather than a painted backdrop behind it.",
+          "curriculum_connection": "Examines setting in 'The Open Boat' and the House on Mango Street vignettes.",
+          "check_for_understanding": [
+            {
+              "prompt": "Beyond telling where a story happens, setting can —",
+              "choices": [
+                {
+                  "text": "create mood, shape characters, and carry meaning",
+                  "is_correct": true
+                },
+                {
+                  "text": "only fill space until the action starts",
+                  "is_correct": false
+                },
+                {
+                  "text": "replace the need for any plot",
+                  "is_correct": false
+                },
+                {
+                  "text": "be ignored without losing anything",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L19",
+          "number": 19,
+          "title": "Basic Point of View: Who Is Telling This?",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Identify first-person and third-person narration and explain how the narrator shapes what we know.",
+          "key_concepts": [
+            "First person (I) vs. third person (he/she/they)",
+            "The narrator is a position, not the author",
+            "Narration limits or expands what we know",
+            "First person = inside one mind",
+            "Third person can be limited or all-knowing"
+          ],
+          "instruction": "Point of view is the position from which a story is told. In first person, a character narrates using 'I,' so you see only what that one person knows and feels. In third person, the narrator stands outside using 'he,' 'she,' or 'they,' and may know just one character's mind (limited) or everyone's (all-knowing). The narrator is a position, not the author — never assume the 'I' is the writer. In House on Mango Street, the first-person voice keeps you close inside one girl's experience, which shapes what you can and cannot know. Ask: who is telling this, and what does that choice let me see or hide? A first-person narrator might not understand everything that is happening, which can be part of the meaning. Identifying point of view early tells you how much to trust the narration and whose eyes you are borrowing as you read.",
+          "curriculum_connection": "Identifies point of view in the House on Mango Street vignettes and 'Araby.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Why should you never assume the first-person 'I' is the author?",
+              "choices": [
+                {
+                  "text": "Authors never write in first person",
+                  "is_correct": false
+                },
+                {
+                  "text": "The 'I' is always an all-knowing narrator",
+                  "is_correct": false
+                },
+                {
+                  "text": "First person is always more truthful",
+                  "is_correct": false
+                },
+                {
+                  "text": "The narrator is a chosen position in the story, separate from the writer",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L20",
+          "number": 20,
+          "title": "The Hero's Journey / Monomyth",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RL.9-10.3"
+          ],
+          "learning_objective": "Recognize the stages of the Hero's Journey and use them to understand the shape of a narrative.",
+          "key_concepts": [
+            "Call to adventure",
+            "Crossing into the unknown",
+            "Trials and helpers",
+            "The ordeal and transformation",
+            "Return changed"
+          ],
+          "instruction": "The Hero's Journey, or monomyth, is a pattern many stories across cultures share, described by Joseph Campbell. A hero receives a call to adventure, crosses into an unknown world, faces trials with helpers and enemies, endures a central ordeal, and returns home changed. You do not need every stage in every story, but the pattern helps you see a narrative's shape and predict what matters. The Odyssey, the Epic of Gilgamesh, and Sundiata all follow versions of this arc, which is why they feel related even though they come from different times and places. As you read, ask where the hero is in the journey and what the next stage might bring. Pay special attention to the return: a hero who comes back unchanged has not truly completed the journey. Spotting the monomyth is a foundation skill — recognizing the pattern now prepares you to question and complicate it in later study.",
+          "curriculum_connection": "Applies the monomyth to the Campbell Monomyth article, the Odyssey, and the Sundiata epic.",
+          "check_for_understanding": [
+            {
+              "prompt": "In the Hero's Journey, the 'return' stage is most meaningful when the hero —",
+              "choices": [
+                {
+                  "text": "comes home exactly the same as before",
+                  "is_correct": false
+                },
+                {
+                  "text": "never leaves home at all",
+                  "is_correct": false
+                },
+                {
+                  "text": "comes home changed by the journey",
+                  "is_correct": true
+                },
+                {
+                  "text": "refuses every call to adventure",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L21",
+          "number": 21,
+          "title": "Archetypes Across Cultures",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.2",
+            "RL.9-10.9"
+          ],
+          "learning_objective": "Recognize common character and story archetypes and how they recur across different cultures.",
+          "key_concepts": [
+            "Archetype = a recurring pattern or type",
+            "Common types: hero, mentor, trickster, threshold guardian",
+            "Archetypes appear across cultures",
+            "Archetypes carry shared meaning",
+            "Spotting archetypes aids prediction"
+          ],
+          "instruction": "An archetype is a character type or pattern that recurs across many stories and cultures — the hero, the wise mentor, the trickster, the guardian who blocks the threshold. Because these patterns are so widespread, recognizing them helps you understand new stories quickly and see what cultures share. The mentor figure who guides a hero appears in Greek myth, in the Sundiata epic, and in modern films alike, as the article on Jung and archetypes explains. Spotting an archetype lets you predict a character's likely role, but stay alert: good authors also twist archetypes to surprise you. Ask which familiar type a character resembles and whether the text follows or breaks the pattern. Archetypes are a foundation for comparison — noticing them now sets you up to compare and contrast how different texts and cultures use the same patterns when you reach Grade 10.",
+          "curriculum_connection": "Identifies archetypes in the Jung/Archetype article, 'Perseus,' and the Norse Sigurd legend.",
+          "check_for_understanding": [
+            {
+              "prompt": "An archetype is best defined as —",
+              "choices": [
+                {
+                  "text": "a recurring character type or pattern found across many stories and cultures",
+                  "is_correct": true
+                },
+                {
+                  "text": "a word that has no meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "a character that appears in only one story",
+                  "is_correct": false
+                },
+                {
+                  "text": "the author's biography",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L22",
+          "number": 22,
+          "title": "Sequence & Flashback Basics",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.3",
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Distinguish chronological order from flashback and explain why an author might reorder events.",
+          "key_concepts": [
+            "Chronological vs. nonlinear order",
+            "Flashback shows an earlier moment",
+            "Signal words for time shifts",
+            "Reordering creates effect",
+            "Track the true timeline"
+          ],
+          "instruction": "Stories do not always run in straight time order. A flashback interrupts the present to show an earlier moment, and a flash-forward jumps ahead. Authors reorder events on purpose — to reveal a secret at the right time, to explain a character's behavior, or to build suspense. Your job as a reader is to track the real timeline even when the telling jumps around. Watch for signal words like 'earlier,' 'years before,' or a sudden shift in verb tense. In The Namesake, glimpses of the past help you understand a character's present choices about identity and family. Ask why the author placed a memory exactly where they did — what does revealing it here, rather than earlier, accomplish? Keeping the true order straight prevents confusion, and noticing the chosen order shows you the author's craft. You will analyze more complex structures in Grade 10; here, master telling story-time from real-time.",
+          "curriculum_connection": "Tracks sequence and flashback in The Namesake and One Hundred Years of Solitude.",
+          "check_for_understanding": [
+            {
+              "prompt": "A flashback is —",
+              "choices": [
+                {
+                  "text": "the fastest part of the action",
+                  "is_correct": false
+                },
+                {
+                  "text": "an interruption that shows an earlier moment in time",
+                  "is_correct": true
+                },
+                {
+                  "text": "the final scene of a story",
+                  "is_correct": false
+                },
+                {
+                  "text": "a list of characters",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Reading Poetry: Fundamentals",
+      "description": "What makes a poem a poem, imagery and the senses, the speaker, basic tone and mood, figurative language, and reading a poem aloud and slowly.",
+      "placement": {
+        "before_articles": "Before the identity poems (Articles 17–35 cluster: 'Sympathy,' 'Caged Bird,' 'Invictus,' 'We Wear the Mask')"
+      },
+      "duration_minutes": 44,
+      "lessons": [
+        {
+          "id": "L23",
+          "number": 23,
+          "title": "What Makes a Poem a Poem: Line, Stanza, Form",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Identify the basic building blocks of poetry — line, stanza, and form — and how they differ from prose.",
+          "key_concepts": [
+            "Line vs. sentence",
+            "Stanza vs. paragraph",
+            "Line breaks create emphasis",
+            "Form gives a poem shape",
+            "Poems use space deliberately"
+          ],
+          "instruction": "Poetry is built differently from prose, and noticing its building blocks helps you read it well. A line is the basic unit of a poem; it is not the same as a sentence and may end before the thought does. A stanza is a group of lines, like a paragraph but tighter. Where a poet chooses to break a line creates emphasis — the last word of a line lingers in your mind. Form is the overall shape, from strict patterns to free verse. In 'We Wear the Mask,' the short, controlled lines and repeated phrase shape how the poem feels and what it stresses. When you read a poem, notice where lines break and how stanzas are grouped, then ask why. Poets use white space and line endings on purpose; they are part of the meaning, not just decoration. Reading a poem as if it were a paragraph misses half of what it is doing.",
+          "curriculum_connection": "Examines line, stanza, and form in 'We Wear the Mask' and 'Hanging Fire'/'Coal.'",
+          "check_for_understanding": [
+            {
+              "prompt": "A line break in a poem is important because it —",
+              "choices": [
+                {
+                  "text": "always marks the end of a complete sentence",
+                  "is_correct": false
+                },
+                {
+                  "text": "creates emphasis and shapes how the poem is read",
+                  "is_correct": true
+                },
+                {
+                  "text": "has no effect on meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "must happen every five words",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L24",
+          "number": 24,
+          "title": "Imagery & the Senses",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Identify imagery and explain how sensory details create meaning and feeling in a poem.",
+          "key_concepts": [
+            "Imagery appeals to the five senses",
+            "Concrete vs. abstract language",
+            "Imagery creates mood",
+            "Images can imply ideas",
+            "Notice repeated or surprising images"
+          ],
+          "instruction": "Imagery is language that appeals to your senses — sight, sound, touch, taste, and smell. Poets use it to make you experience a feeling rather than just be told about it. Concrete sensory details land harder than abstract statements: 'cold iron bars' makes you feel captivity more than the word 'unfree.' In 'Sympathy,' the images of a beating wing and a bruised body let you feel what the caged bird endures, which is why the poem moves readers so strongly. As you read, mark the sense each image appeals to and ask what mood it builds and what idea it implies. Pay attention to images that repeat or that surprise you — those often point to the poem's heart. Imagery is not decoration; it is how a poem thinks. Train yourself to pause on a vivid image and ask both what it shows and what it means.",
+          "curriculum_connection": "Analyzes imagery in 'Sympathy' and 'Caged Bird.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Imagery in a poem mainly works by —",
+              "choices": [
+                {
+                  "text": "appealing to the reader's senses to create feeling and meaning",
+                  "is_correct": true
+                },
+                {
+                  "text": "listing facts and dates",
+                  "is_correct": false
+                },
+                {
+                  "text": "explaining the poem's rhyme scheme",
+                  "is_correct": false
+                },
+                {
+                  "text": "naming the poet's hometown",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L25",
+          "number": 25,
+          "title": "The Speaker Is Not the Poet",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.6"
+          ],
+          "learning_objective": "Distinguish the speaker of a poem from the poet who wrote it.",
+          "key_concepts": [
+            "Speaker = the voice in the poem",
+            "Poet = the real author",
+            "The speaker may be a persona",
+            "Clues reveal the speaker",
+            "Do not assume autobiography"
+          ],
+          "instruction": "Every poem has a speaker — the voice that says the words — and that voice is not automatically the poet. Just as a story has a narrator, a poem has a speaker who may be a created persona with a different identity, time, or attitude than the writer. In 'Caged Bird,' the speaker gives voice to the bird's longing; the poet is using a persona to make a point about freedom. Look for clues about who the speaker is: what they notice, how they feel, what they seem to want. Then ask what the poet achieves by choosing this voice. Assuming the poem is simply the poet's diary can lead you to misread it. Separating speaker from poet keeps you focused on the text itself. This is the poetry version of point of view, and it sets up the deeper questions about perspective and voice you will tackle in Grade 10.",
+          "curriculum_connection": "Distinguishes speaker from poet in 'Caged Bird' and 'If We Must Die.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Why is it important to separate the speaker from the poet?",
+              "choices": [
+                {
+                  "text": "Poets never appear in their own poems by law",
+                  "is_correct": false
+                },
+                {
+                  "text": "It makes the poem rhyme correctly",
+                  "is_correct": false
+                },
+                {
+                  "text": "The speaker is always an animal",
+                  "is_correct": false
+                },
+                {
+                  "text": "The speaker is the voice in the poem and may be a created persona, not the writer",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L26",
+          "number": 26,
+          "title": "Basic Tone & Mood",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Distinguish tone (the speaker's attitude) from mood (the feeling created in the reader).",
+          "key_concepts": [
+            "Tone = speaker's attitude",
+            "Mood = feeling in the reader",
+            "Word choice signals tone",
+            "Imagery shapes mood",
+            "Tone and mood can differ"
+          ],
+          "instruction": "Tone and mood are easy to mix up, but they are different. Tone is the speaker's attitude toward the subject — angry, hopeful, mocking, calm. Mood is the feeling the poem creates in you, the reader — uneasy, peaceful, defiant. Word choice (diction) is your best clue to tone: harsh words signal one attitude, gentle words another. Imagery and rhythm shape mood. In 'Invictus,' the speaker's tone is defiant and unbroken, and that tone produces a mood of strength and resolve in the reader. Sometimes tone and mood line up; sometimes they clash on purpose. To find tone, ask how the speaker feels about the topic and which words prove it. To find mood, ask how the poem makes you feel. Naming both, with evidence, sharpens your reading of any poem and prepares you for more subtle attitudes you will study later.",
+          "curriculum_connection": "Identifies tone and mood in 'Invictus' and 'Still I Rise.'",
+          "check_for_understanding": [
+            {
+              "prompt": "Which best captures the difference between tone and mood?",
+              "choices": [
+                {
+                  "text": "Tone is the rhyme scheme; mood is the line count",
+                  "is_correct": false
+                },
+                {
+                  "text": "Tone is the speaker's attitude; mood is the feeling created in the reader",
+                  "is_correct": true
+                },
+                {
+                  "text": "They are two words for the same thing",
+                  "is_correct": false
+                },
+                {
+                  "text": "Tone is in fiction only; mood is in poetry only",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L27",
+          "number": 27,
+          "title": "Simile, Metaphor & Personification",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.4"
+          ],
+          "learning_objective": "Identify simile, metaphor, and personification and explain the comparison each makes.",
+          "key_concepts": [
+            "Simile uses 'like' or 'as'",
+            "Metaphor states one thing is another",
+            "Personification gives human traits to nonhuman things",
+            "Figurative vs. literal meaning",
+            "Explain what the comparison reveals"
+          ],
+          "instruction": "Figurative language says one thing to mean another, and three types appear constantly. A simile compares using 'like' or 'as' ('brave as a lion'). A metaphor compares by saying one thing is another ('the mind is a cage'). Personification gives human qualities to something nonhuman ('the wind whispered'). The skill is not just labeling these — anyone can spot a 'like.' The real work is explaining what the comparison reveals. In 'We Wear the Mask,' the mask is a metaphor for hiding true pain behind a calm face; naming the metaphor matters less than explaining what it shows about the speakers. When you find figurative language, ask: what two things are compared, and what does the comparison make me understand or feel? Always separate figurative from literal meaning so you do not read 'the mind is a cage' as an actual cage. Explaining the comparison is where understanding lives.",
+          "curriculum_connection": "Analyzes figurative language in 'We Wear the Mask,' 'Coal,' and 'Caged Bird.'",
+          "check_for_understanding": [
+            {
+              "prompt": "'The wind whispered through the trees' is an example of —",
+              "choices": [
+                {
+                  "text": "a simile",
+                  "is_correct": false
+                },
+                {
+                  "text": "personification",
+                  "is_correct": true
+                },
+                {
+                  "text": "a literal description",
+                  "is_correct": false
+                },
+                {
+                  "text": "a statistic",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L28",
+          "number": 28,
+          "title": "Reading a Poem Aloud & Slowly",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.9-10.4",
+            "RL.9-10.5"
+          ],
+          "learning_objective": "Use reading aloud and slow rereading to hear a poem's sound and uncover its meaning.",
+          "key_concepts": [
+            "Hearing rhythm and sound",
+            "Punctuation guides pauses, not line breaks alone",
+            "Rereading reveals meaning",
+            "Sound supports meaning",
+            "Slow down on dense lines"
+          ],
+          "instruction": "Poems are made to be heard, so reading aloud is a real strategy, not a stunt. When you speak a poem, you hear its rhythm, its rhymes, and the way sounds echo — effects that are invisible to a silent skim. A key move: follow the punctuation for pauses, not just the line breaks. A line may flow straight into the next without a stop, while a period mid-line tells you to pause. Read 'Still I Rise' aloud and you will feel its rising, repeated beat carry the speaker's defiance. Then reread slowly, lingering on dense or confusing lines until they open up. Sound is not separate from meaning in poetry — a harsh, choppy rhythm or a smooth, flowing one supports what the poem is saying. Make a habit of reading any poem aloud at least once, listening for where it speeds up, slows down, and lands hardest. Your ear catches what your eye misses.",
+          "curriculum_connection": "Practices reading aloud with 'Still I Rise' and 'Ithaka.'",
+          "check_for_understanding": [
+            {
+              "prompt": "When reading a poem aloud, where should you pause?",
+              "choices": [
+                {
+                  "text": "Wherever the punctuation guides you, not at every line break",
+                  "is_correct": true
+                },
+                {
+                  "text": "At the end of every single line, always",
+                  "is_correct": false
+                },
+                {
+                  "text": "Never; poems should be read without pauses",
+                  "is_correct": false
+                },
+                {
+                  "text": "Only at the very end of the poem",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M5",
+      "title": "Reading Informational Text: Fundamentals",
+      "description": "Central idea in nonfiction, common text structures, fact vs. interpretation, types of evidence, academic vocabulary in context, and locating supporting details.",
+      "placement": {
+        "before_articles": "Before the Science & Nature and Justice nonfiction clusters (Articles 36–52, 68–85)"
+      },
+      "duration_minutes": 44,
+      "lessons": [
+        {
+          "id": "L29",
+          "number": 29,
+          "title": "Central Idea in Nonfiction: The Intro/Conclusion Frame",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Locate the central idea of an informational text, using the introduction and conclusion as a frame.",
+          "key_concepts": [
+            "Central idea = main point of the whole text",
+            "Intros often preview it",
+            "Conclusions often restate it",
+            "Body paragraphs develop it",
+            "Distinguish from supporting details"
+          ],
+          "instruction": "Informational texts usually announce their central idea more openly than stories do. A strong nonfiction central idea is the main point the whole text makes, and it often shows up twice — previewed in the introduction and restated in the conclusion. That frame is a gift: read the opening and closing first to predict and then confirm the main point. In a piece like Silent Spring, the introduction signals concern about the damage chemicals do to nature, and the conclusion drives that point home, while the body paragraphs supply the evidence. Be careful not to mistake a single striking detail for the central idea; the central idea must cover the entire text. Once you have it, every supporting detail makes more sense because you can see what it is supporting. Use the intro/conclusion frame on any article to find your footing fast, then read the middle to see how the idea is built.",
+          "curriculum_connection": "Locates the central idea in Silent Spring and 'The Marginal World.'",
+          "check_for_understanding": [
+            {
+              "prompt": "In many informational texts, where is the central idea often previewed and then restated?",
+              "choices": [
+                {
+                  "text": "Only in the middle paragraphs",
+                  "is_correct": false
+                },
+                {
+                  "text": "It is never stated anywhere",
+                  "is_correct": false
+                },
+                {
+                  "text": "Only in the title",
+                  "is_correct": false
+                },
+                {
+                  "text": "In the introduction and the conclusion",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L30",
+          "number": 30,
+          "title": "Common Text Structures",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.5"
+          ],
+          "learning_objective": "Identify common informational text structures: chronological, cause/effect, compare/contrast, and problem/solution.",
+          "key_concepts": [
+            "Chronological order",
+            "Cause and effect",
+            "Compare and contrast",
+            "Problem and solution",
+            "Signal words reveal structure"
+          ],
+          "instruction": "Informational writers organize ideas in predictable patterns, and spotting the pattern helps you follow and remember the text. Four common structures are chronological (events in time order), cause and effect (why something happens and what results), compare and contrast (how things are alike and different), and problem and solution (a trouble and a proposed fix). Signal words are your clue: 'first, then, finally' point to chronology; 'because, as a result' point to cause and effect; 'however, unlike, similarly' point to comparison; 'problem, solution, in response' point to problem/solution. An article on Climate Science may use cause and effect to explain how rising gases lead to warming. Identify the structure early and you can predict where information will appear. The same text can mix structures, so watch for shifts. Knowing the pattern turns a dense article into an organized map you can navigate.",
+          "curriculum_connection": "Identifies text structures in the Climate Science article and the Scientific Method article.",
+          "check_for_understanding": [
+            {
+              "prompt": "Signal words like 'because' and 'as a result' most likely indicate which text structure?",
+              "choices": [
+                {
+                  "text": "Compare and contrast",
+                  "is_correct": false
+                },
+                {
+                  "text": "Chronological order",
+                  "is_correct": false
+                },
+                {
+                  "text": "Cause and effect",
+                  "is_correct": true
+                },
+                {
+                  "text": "Problem and solution",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L31",
+          "number": 31,
+          "title": "Fact vs. Interpretation",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.1",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Distinguish statements of fact from an author's interpretation or claim about those facts.",
+          "key_concepts": [
+            "Fact = can be checked",
+            "Interpretation = a conclusion drawn from facts",
+            "Both can appear in one paragraph",
+            "Interpretations can be reasonable or weak",
+            "Watch for opinion words"
+          ],
+          "instruction": "Good nonfiction mixes facts with interpretation, and a sharp reader can tell them apart. A fact is something that can be checked or verified — a date, a measurement, an event. An interpretation is the meaning or conclusion an author draws from those facts. The two often sit side by side: 'The cells divided endlessly (fact), which made them a scientific gift and an ethical problem (interpretation).' In a text like The Immortal Life of Henrietta Lacks, separating verified facts from the author's interpretations helps you decide what to accept and what to weigh. Interpretations are not lies — they can be strong or weak depending on the evidence behind them. Watch for opinion or judgment words that signal interpretation. You will go further in Grade 10, learning to evaluate how well an interpretation is supported; for now, simply build the habit of asking, 'Is this a fact I could check, or a conclusion the author has drawn?'",
+          "curriculum_connection": "Separates fact from interpretation in The Immortal Life of Henrietta Lacks and the Double Helix article.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which statement is a FACT rather than an interpretation?",
+              "choices": [
+                {
+                  "text": "The discovery was the most important moment in all of science",
+                  "is_correct": false
+                },
+                {
+                  "text": "The cells continued to divide in the laboratory",
+                  "is_correct": true
+                },
+                {
+                  "text": "This raises the deepest ethical questions imaginable",
+                  "is_correct": false
+                },
+                {
+                  "text": "Everyone should feel troubled by the story",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L32",
+          "number": 32,
+          "title": "Types of Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.1",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Identify common types of evidence: fact, example, statistic, and expert testimony.",
+          "key_concepts": [
+            "Facts",
+            "Examples and anecdotes",
+            "Statistics and data",
+            "Expert testimony",
+            "Match evidence type to its purpose"
+          ],
+          "instruction": "Writers support their ideas with different kinds of evidence, and naming the type helps you judge what work it is doing. Facts state something verifiable. Examples and anecdotes illustrate an idea with a specific case or story. Statistics use numbers and data to show scale or trends. Expert testimony quotes a knowledgeable authority to lend credibility. An article on Pandemics might use a statistic to show how fast a disease spread, an example of one outbreak to make it concrete, and an expert's quote to explain the science. Each type persuades differently: numbers feel objective, anecdotes feel human, experts feel authoritative. As you read, label the evidence and ask why the author chose that type here. In Grade 10 you will evaluate how strong and relevant each piece is; right now, focus on recognizing the four basic types so you can see how an informational text builds its case.",
+          "curriculum_connection": "Identifies evidence types in the Pandemics article and the CRISPR article.",
+          "check_for_understanding": [
+            {
+              "prompt": "A quotation from a scientist who studies the topic is an example of which type of evidence?",
+              "choices": [
+                {
+                  "text": "A statistic",
+                  "is_correct": false
+                },
+                {
+                  "text": "An anecdote",
+                  "is_correct": false
+                },
+                {
+                  "text": "Expert testimony",
+                  "is_correct": true
+                },
+                {
+                  "text": "A personal opinion of the reader",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L33",
+          "number": 33,
+          "title": "Academic & Domain Vocabulary in Context",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.9-10.4"
+          ],
+          "learning_objective": "Use context clues to determine the meaning of academic and domain-specific words in informational text.",
+          "key_concepts": [
+            "Domain-specific vs. general academic words",
+            "Context clues: definition, example, contrast",
+            "Word parts (roots, prefixes)",
+            "Reread the surrounding sentences",
+            "Confirm the meaning fits"
+          ],
+          "instruction": "Informational texts are full of specialized words — domain-specific terms tied to a field (like 'genome' in biology) and general academic words that appear across subjects (like 'analyze' or 'significant'). You will not always have a dictionary, so context clues are essential. Look for a definition right after the word, an example that shows its meaning, or a contrast that hints at the opposite. Word parts help too: knowing that 'bio-' means life unlocks 'biology' and 'biodiversity.' In a Double Helix or CRISPR article, technical terms come fast; reread the surrounding sentences and let the explanation that authors usually provide do the work. After you guess a meaning, plug it back into the sentence to confirm it fits. Building this habit keeps a single hard word from stalling your whole reading. Strong readers do not stop at unknown words; they hunt the page for the clues that decode them.",
+          "curriculum_connection": "Practices context-clue strategies in the CRISPR article and A Brief History of Time.",
+          "check_for_understanding": [
+            {
+              "prompt": "When you meet an unfamiliar academic word, the best first move is to —",
+              "choices": [
+                {
+                  "text": "use context clues in the surrounding sentences to infer its meaning",
+                  "is_correct": true
+                },
+                {
+                  "text": "skip the rest of the paragraph",
+                  "is_correct": false
+                },
+                {
+                  "text": "assume it is unimportant",
+                  "is_correct": false
+                },
+                {
+                  "text": "replace it with any word you like",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L34",
+          "number": 34,
+          "title": "Locating Supporting Details",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.1",
+            "RI.9-10.2"
+          ],
+          "learning_objective": "Locate the specific details that support a central idea and explain how they connect to it.",
+          "key_concepts": [
+            "Supporting details back the main idea",
+            "Scan for relevant facts and examples",
+            "Details vs. central idea",
+            "Each detail should connect upward",
+            "Use details as evidence for answers"
+          ],
+          "instruction": "Once you know a text's central idea, the supporting details are the facts, examples, and reasons that back it up. Locating them is a core reading and test skill, because many questions ask which detail supports a point or where a claim is proven. Start from the central idea and scan for sentences that develop it, then ask how each detail connects upward to that main point. In Silent Spring, the central idea about environmental harm is supported by specific details about wildlife and chemicals; the central idea is the claim, the details are the proof. Be able to tell the difference: a detail is narrow and specific, while the central idea is broad and covers the whole text. When a question asks for support, you are hunting for the detail that most directly props up the idea, not just any true sentence. Practice moving quickly from a big claim to the exact line that backs it.",
+          "curriculum_connection": "Locates supporting details in Silent Spring and the article on the Anthropocene.",
+          "check_for_understanding": [
+            {
+              "prompt": "A supporting detail is best described as —",
+              "choices": [
+                {
+                  "text": "the broad main point of the entire text",
+                  "is_correct": false
+                },
+                {
+                  "text": "a specific fact, example, or reason that backs up the central idea",
+                  "is_correct": true
+                },
+                {
+                  "text": "the title of the article",
+                  "is_correct": false
+                },
+                {
+                  "text": "the reader's personal opinion",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M6",
+      "title": "Intro to Argument & Rhetoric",
+      "description": "What an argument is, an introduction to ethos/pathos/logos, author's purpose and audience, persuasive techniques and loaded language, primary sources, and a closing synthesis lesson.",
+      "placement": {
+        "before_articles": "Before the Justice and Power & Persuasion clusters (Articles 36–67) and the Rhetoric & Argument cluster (103–120)"
+      },
+      "duration_minutes": 39,
+      "lessons": [
+        {
+          "id": "L35",
+          "number": 35,
+          "title": "What an Argument Is: Claim, Reasons, Evidence",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Identify the three basic parts of an argument: a claim, supporting reasons, and evidence.",
+          "key_concepts": [
+            "Claim = the main point or position",
+            "Reasons = why the claim is true",
+            "Evidence = proof for the reasons",
+            "Argument vs. mere opinion",
+            "All three parts work together"
+          ],
+          "instruction": "An argument is more than just an opinion — it is a claim backed by reasons and evidence. The claim is the position the author wants you to accept. The reasons explain why the claim should be true. The evidence is the proof — facts, examples, or testimony — that supports the reasons. A loud opinion with no support is not a real argument. In the Letter from Birmingham Jail, Dr. King makes the claim that people have a duty to oppose unjust laws, gives reasons rooted in justice and morality, and supports them with examples and references. As you read any argument, try to separate the three parts: underline the claim, number the reasons, and box the evidence. If a piece is missing reasons or evidence, that is a weakness worth noticing. Recognizing these parts now is the foundation for Grade 10, where you will evaluate how well an argument's evidence actually supports its claim.",
+          "curriculum_connection": "Identifies claim, reasons, and evidence in the Letter from Birmingham Jail and On Civil Disobedience.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which set lists the three basic parts of an argument?",
+              "choices": [
+                {
+                  "text": "Title, author, and date",
+                  "is_correct": false
+                },
+                {
+                  "text": "Setting, character, and plot",
+                  "is_correct": false
+                },
+                {
+                  "text": "Rhyme, rhythm, and meter",
+                  "is_correct": false
+                },
+                {
+                  "text": "Claim, reasons, and evidence",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L36",
+          "number": 36,
+          "title": "Intro to Ethos, Pathos & Logos",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.6",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Define ethos, pathos, and logos and recognize each appeal in a persuasive text.",
+          "key_concepts": [
+            "Ethos = appeal to credibility",
+            "Pathos = appeal to emotion",
+            "Logos = appeal to logic",
+            "Speakers often blend all three",
+            "Identify which appeal is used"
+          ],
+          "instruction": "For thousands of years, speakers have persuaded audiences using three appeals, named by Aristotle. Ethos appeals to credibility — the speaker shows they are trustworthy or qualified. Pathos appeals to emotion — it makes you feel pity, anger, hope, or pride. Logos appeals to logic — it uses facts, reasons, and clear thinking. Most strong persuasion blends all three. In 'I Have a Dream,' Dr. King builds ethos through his moral authority, stirs pathos with vivid images of justice, and uses logos by pointing to the promises of founding documents. Your job at this stage is simply to recognize which appeal is at work in a given passage. Ask: is the speaker trying to seem trustworthy, to move my feelings, or to convince my reason? Naming the appeals is a foundation skill; in Grade 10 you will judge whether each appeal is used fairly or manipulatively. For now, learn to spot all three confidently.",
+          "curriculum_connection": "Identifies ethos, pathos, and logos in 'I Have a Dream' and the Ethos/Pathos/Logos article.",
+          "check_for_understanding": [
+            {
+              "prompt": "An appeal that uses facts, reasons, and logical thinking is called —",
+              "choices": [
+                {
+                  "text": "ethos",
+                  "is_correct": false
+                },
+                {
+                  "text": "pathos",
+                  "is_correct": false
+                },
+                {
+                  "text": "logos",
+                  "is_correct": true
+                },
+                {
+                  "text": "tone",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L37",
+          "number": 37,
+          "title": "Author's Purpose & Audience",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Determine an author's purpose and intended audience and explain how they shape the text.",
+          "key_concepts": [
+            "Purpose: to inform, persuade, or entertain",
+            "Audience = who the text is for",
+            "Purpose shapes word choice and content",
+            "Clues to audience in tone and detail",
+            "Purpose and audience work together"
+          ],
+          "instruction": "Every text is written for a reason and for someone. Author's purpose is the why — most often to inform, to persuade, or to entertain, though a text can do more than one. Audience is the who — the readers or listeners the author has in mind. The two shape everything: a speech meant to persuade a crowd will use different words than a report meant to inform experts. In 'Ain't I a Woman?', Sojourner Truth's purpose is to persuade her audience that women, and Black women especially, deserve equal rights, and she shapes her words for the people in that hall. As you read, ask: what does the author want from me, and who did they expect to be reading or listening? Clues live in the tone, the examples, and the assumed knowledge. Identifying purpose and audience helps you understand why a text is built the way it is, and it sets up the deeper analysis of perspective you will do in Grade 10.",
+          "curriculum_connection": "Determines purpose and audience in 'Ain't I a Woman?' and the Gettysburg Address.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which question best helps you identify an author's PURPOSE?",
+              "choices": [
+                {
+                  "text": "How many paragraphs does the text have?",
+                  "is_correct": false
+                },
+                {
+                  "text": "Does the author want to inform, persuade, or entertain?",
+                  "is_correct": true
+                },
+                {
+                  "text": "What year was the author born?",
+                  "is_correct": false
+                },
+                {
+                  "text": "How long are the sentences?",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L38",
+          "number": 38,
+          "title": "Persuasive Techniques & Loaded Language",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RI.9-10.6",
+            "RI.9-10.8"
+          ],
+          "learning_objective": "Recognize common persuasive techniques and identify loaded (emotionally charged) language.",
+          "key_concepts": [
+            "Loaded language carries strong connotations",
+            "Repetition for emphasis",
+            "Appeals to fear or pride",
+            "Word choice steers feeling",
+            "Notice when language pushes you"
+          ],
+          "instruction": "Persuasive writers use techniques to steer how you feel, and loaded language is one of the most common. Loaded words carry strong positive or negative connotations beyond their plain meaning — calling a plan 'reckless' versus 'bold' pushes you in opposite directions even when the facts are the same. Other techniques include repetition for emphasis, appeals to fear or pride, and carefully chosen examples. An article on Propaganda & Persuasion shows how these tools can inform honestly or manipulate unfairly. Your foundation skill here is to notice when language is doing more than describing — when it is nudging your emotions. Underline words that feel charged and ask what reaction they aim to produce. Recognizing these techniques does not mean every use is wrong; persuasion is normal. But a reader who can spot loaded language stays in control of their own response. In Grade 10 you will judge when these techniques cross into manipulation.",
+          "curriculum_connection": "Identifies persuasive techniques and loaded language in the Propaganda & Persuasion article and 'The Unknown Citizen.'",
+          "check_for_understanding": [
+            {
+              "prompt": "'Loaded language' refers to words that —",
+              "choices": [
+                {
+                  "text": "carry strong emotional connotations that steer the reader's feelings",
+                  "is_correct": true
+                },
+                {
+                  "text": "are very long and difficult to pronounce",
+                  "is_correct": false
+                },
+                {
+                  "text": "appear only in poetry",
+                  "is_correct": false
+                },
+                {
+                  "text": "have no real meaning at all",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L39",
+          "number": 39,
+          "title": "Intro to Primary Sources: Who, When, Why",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.9-10.1",
+            "RI.9-10.6"
+          ],
+          "learning_objective": "Define a primary source and ask who created it, when, and why before reading it.",
+          "key_concepts": [
+            "Primary source = firsthand record",
+            "Primary vs. secondary source",
+            "Ask who created it",
+            "Ask when it was created",
+            "Ask why it was created"
+          ],
+          "instruction": "A primary source is a firsthand record from the time of an event — a speech, a letter, a diary, an official document. A secondary source comes later and discusses or interprets those events. Knowing which you are reading changes how you read it. Before reading any primary source, ask three questions: Who created it? When? And why? The Universal Declaration of Human Rights, for example, was created by the United Nations after World War II to set shared rights for all people — knowing that context shapes how you understand its bold language. The 'why' is especially important, because a document written to persuade reads differently than one written to record facts. These questions ground you before a single line of analysis. You will dig much deeper into evaluating sources in Grade 10; here, simply build the habit of identifying a primary source and asking who, when, and why before you trust what it says.",
+          "curriculum_connection": "Applies the who/when/why questions to the Universal Declaration of Human Rights and Common Sense.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which of these is a PRIMARY source?",
+              "choices": [
+                {
+                  "text": "A textbook chapter written years later about a war",
+                  "is_correct": false
+                },
+                {
+                  "text": "A letter written by a person who lived through the event",
+                  "is_correct": true
+                },
+                {
+                  "text": "An encyclopedia summary of an era",
+                  "is_correct": false
+                },
+                {
+                  "text": "A modern article reviewing historical research",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L40",
+          "number": 40,
+          "title": "Synthesis: Reading Like a Scholar",
+          "duration_minutes": 6,
+          "ccss_standards": [
+            "RL.9-10.10",
+            "RI.9-10.10"
+          ],
+          "learning_objective": "Combine the year's foundational reading strategies into a single, flexible process for any text.",
+          "key_concepts": [
+            "Choose strategies to fit the text",
+            "Two-pass reading + annotation as a base",
+            "Find central idea or theme",
+            "Support every answer with evidence",
+            "These foundations carry into Grade 10"
+          ],
+          "instruction": "You have built a toolkit this year: two-pass reading, annotation, finding central ideas and themes, drawing inferences, reading stories, poems, and informational texts, and recognizing arguments and appeals. The final skill is choosing the right tools for each text instead of using all of them at once. Meet a poem like 'Dulce et Decorum Est' and you reach for imagery, speaker, tone, and figurative language. Meet an argument like Common Sense and you reach for claim, reasons, evidence, and the rhetorical appeals. Whatever the text, your base is the same: read twice, annotate, find the main point, and support every answer with evidence. These are foundations on purpose — in Grade 10 you will build straight upward into analyzing craft and structure, weighing perspective and bias, reading drama and tragedy, comparing texts, and evaluating arguments and sources. Carry these habits forward, and you will keep reading like a scholar. Choose your tools, stay tied to the text, and prove what you claim.",
+          "curriculum_connection": "Synthesizes the full toolkit using 'Dulce et Decorum Est,' Common Sense, and Animal Farm.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does it mean to read 'like a scholar' as taught in this course?",
+              "choices": [
+                {
+                  "text": "Use every single strategy on every text at once",
+                  "is_correct": false
+                },
+                {
+                  "text": "Read once, quickly, and trust your first impression",
+                  "is_correct": false
+                },
+                {
+                  "text": "Memorize the text word for word",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choose the right strategies for the text and support every claim with evidence",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

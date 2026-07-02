@@ -1,0 +1,1794 @@
+{
+  "course_title": "Reading Primer — Grade 11",
+  "grade": 11,
+  "sequence": "Grades 11–12, Part 1 of 2",
+  "subtitle": "Texts in Conversation: Synthesis, Rhetoric, Context & Voice",
+  "description": "This is Part 1 of a coordinated two-year reading-strategy progression spanning the CCSS 11–12 band. Grade 11 trains you to read American literature like a scholar: synthesizing across many texts, tracking a theme across decades, analyzing rhetoric and argument, weighing historical and cultural context, reading texts that answer one another, and interpreting voice and form. Grade 12 (Part 2) continues with literary criticism as a lens, dense philosophical argument, advanced craft and form, world literature at scale, and college and lifelong reading.",
+  "total_lessons": 40,
+  "total_duration_minutes": 298,
+  "paired_grade_note": "Topics are split across Grades 11 and 12 (the CCSS 11–12 band). Grade 11 covers synthesis, rhetoric, context, intertextuality, and voice/form; Grade 12 covers literary criticism, dense argument, advanced form, world literature at scale, and college/lifelong reading.",
+  "placement_modes": {
+    "single_take": "Deliver all modules before Grade 11 Article 1.",
+    "distributed": "Deliver each module before the article cluster in placement.before_articles."
+  },
+  "modules": [
+    {
+      "id": "M1",
+      "title": "Advanced Analytical Reading",
+      "description": "You learn to read complex texts actively and analytically: annotating with purpose, tracking a theme as it develops over a whole work, summarizing objectively, mapping the interactions of people and ideas, sorting competing central ideas, and staying oriented in long, dense texts.",
+      "placement": {
+        "before_articles": "Articles 1+ (The Great Gatsby; The Restless Spirit of Americans / Democracy in America; The Golden Touch; A Dream Deferred / Let America Be America Again; Death of a Salesman; Walden)"
+      },
+      "duration_minutes": 44,
+      "lessons": [
+        {
+          "id": "L1",
+          "number": 1,
+          "title": "Active Academic Reading & Analytical Annotation",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.1",
+            "RI.11-12.1"
+          ],
+          "learning_objective": "Annotate a complex text with a purpose so that your marks build an interpretation rather than just highlight pretty lines.",
+          "key_concepts": [
+            "Purposeful annotation",
+            "Marking patterns vs. marking facts",
+            "Questions in the margin",
+            "Tracking a thread",
+            "From notes to claim"
+          ],
+          "instruction": "An expert reader does not just run a highlighter over a page; you read with a pen and a question. As you open The Great Gatsby this year, decide before you read what you are hunting for—say, every time money and color appear together—and mark only that thread. Annotation is not decoration. Each mark should answer 'why does this matter?' Write short questions in the margin ('why does Nick withhold judgment?'), star repeated images (the green light), and bracket sentences where the narrator seems unreliable. When you reach the chapter's end, your marks should let you reconstruct an argument, not just a plot. Try three kinds of marks: a circle for recurring images, a question mark for confusion you must resolve, and a line for sentences that state or undercut a theme. By the time you analyze Gatsby's parties, your annotations become the raw material for a claim about the hollowness beneath the glamour.",
+          "curriculum_connection": "Prepares close reading of The Great Gatsby and the dense expository prose of The Restless Spirit of Americans (Democracy in America).",
+          "check_for_understanding": [
+            {
+              "prompt": "According to the lesson, what makes an annotation 'analytical' rather than decorative?",
+              "choices": [
+                {
+                  "text": "Each mark answers a purpose and helps build toward an interpretation",
+                  "is_correct": true
+                },
+                {
+                  "text": "It highlights every sentence the reader finds beautiful",
+                  "is_correct": false
+                },
+                {
+                  "text": "It is done in a single color so the page looks neat",
+                  "is_correct": false
+                },
+                {
+                  "text": "It records the plot events in the order they happen",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L2",
+          "number": 2,
+          "title": "How a Theme Develops Over a Whole Text",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Trace the way a single theme is introduced, complicated, and transformed across an entire long work.",
+          "key_concepts": [
+            "Theme as a moving target",
+            "Introduction, complication, transformation",
+            "Turning points",
+            "Theme vs. topic",
+            "Evidence across chapters"
+          ],
+          "instruction": "A theme is not a fixed message stamped on a book; it is an idea that grows and shifts as the text unfolds. Your job is to watch that growth. Take the theme of the corrupt American Dream in The Great Gatsby. Early on, the Dream looks dazzling and possible; by the green-light scenes it becomes longing; by the funeral it has curdled into emptiness. Track the same idea across Death of a Salesman, where Willy Loman's faith in being 'well-liked' is introduced as hope, complicated by failure, and transformed into tragedy. To follow a theme over a whole text, note where it first appears, where it is tested or contradicted, and where the author finally lands. Mark the turning points—the moments the idea changes weight. A strong thematic statement names not just the topic ('the American Dream') but what the whole text finally says about it ('the Dream destroys those who measure their worth by it').",
+          "curriculum_connection": "Builds the skill students apply to the arc of The Great Gatsby and Death of a Salesman across multiple articles.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does it mean to trace a theme's 'development' over a whole text?",
+              "choices": [
+                {
+                  "text": "Counting how many times a key word appears",
+                  "is_correct": false
+                },
+                {
+                  "text": "Watching how the idea is introduced, complicated, and transformed across the work",
+                  "is_correct": true
+                },
+                {
+                  "text": "Finding the single sentence that states the moral",
+                  "is_correct": false
+                },
+                {
+                  "text": "Summarizing only the final chapter",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L3",
+          "number": 3,
+          "title": "Objective Summary of Complex Texts",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.2",
+            "RI.11-12.2"
+          ],
+          "learning_objective": "Write an objective summary that captures a complex text's central ideas without inserting your own opinion.",
+          "key_concepts": [
+            "Objective vs. evaluative",
+            "Central ideas over details",
+            "Neutral language",
+            "Faithful proportion",
+            "Summary as foundation"
+          ],
+          "instruction": "Before you can argue about a text, you must prove you understand it on its own terms. An objective summary states what the text says and does—not whether you like it. When you summarize Tocqueville's account of the restless American spirit, you report his claim (that Americans chase prosperity so anxiously they can never rest) without sneaking in your verdict ('and he's clearly right'). Keep your language neutral: write 'the author argues,' not 'the author foolishly claims.' Capture central ideas in proportion—if a chapter spends most of its weight on disillusionment, your summary should too, not on a single vivid detail you happened to enjoy. A good test: could the author read your summary and say 'yes, that's what I meant'? This discipline matters because every higher-order move—analysis, synthesis, critique—rests on first representing a text fairly. You will sharpen the critical, evaluative side of this in Grade 12; here you master the neutral foundation.",
+          "curriculum_connection": "Applies to summarizing the dense argument of The Restless Spirit of Americans and the allegory of The Golden Touch.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which sentence belongs in an objective summary?",
+              "choices": [
+                {
+                  "text": "Tocqueville foolishly exaggerates how restless Americans are",
+                  "is_correct": false
+                },
+                {
+                  "text": "This is the most boring passage I have ever read",
+                  "is_correct": false
+                },
+                {
+                  "text": "Tocqueville argues that Americans' constant pursuit of prosperity leaves them unable to rest",
+                  "is_correct": true
+                },
+                {
+                  "text": "Everyone should agree with Tocqueville's brilliant point",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L4",
+          "number": 4,
+          "title": "Analyzing Complex Interactions Among Individuals, Ideas & Events",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.3"
+          ],
+          "learning_objective": "Analyze how an author develops a sequence of interactions among people, ideas, and events, including cause and influence.",
+          "key_concepts": [
+            "Interaction over isolation",
+            "Cause and influence",
+            "Sequence and order",
+            "Ideas shaping people",
+            "Mapping relationships"
+          ],
+          "instruction": "Complex nonfiction rarely lays out a single fact; it shows how people, ideas, and events act on one another. The CCSS skill (RI.11-12.3) asks you to analyze that interaction. As you read The Case for Reparations, don't just list events—map how an idea (housing discrimination) shapes individuals (specific families), how those individual stories build into a larger argument, and how one policy causes the next harm. Ask three questions: Which idea or event comes first, and why does order matter? How does each element influence the next—does it cause, enable, or contradict it? And how does the author connect a personal story to a national pattern? Try drawing arrows between the actors and ideas on the page. When you can show that A leads to B which reframes C, you are reading the architecture of an argument, not just its bricks. This kind of relational reading is exactly what makes a dense essay feel navigable instead of overwhelming.",
+          "curriculum_connection": "Prepares students for the layered cause-and-effect argument of The Case for Reparations.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the focus of analyzing 'interactions among individuals, ideas, and events'?",
+              "choices": [
+                {
+                  "text": "Listing each fact separately in alphabetical order",
+                  "is_correct": false
+                },
+                {
+                  "text": "Deciding whether you agree with the author's politics",
+                  "is_correct": false
+                },
+                {
+                  "text": "Counting how many people are named in the text",
+                  "is_correct": false
+                },
+                {
+                  "text": "Showing how people, ideas, and events influence and cause one another",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L5",
+          "number": 5,
+          "title": "Distinguishing Layered & Competing Central Ideas",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.2",
+            "RL.11-12.2"
+          ],
+          "learning_objective": "Identify two or more central ideas in a complex text and explain how they interact, build, or compete.",
+          "key_concepts": [
+            "Multiple central ideas",
+            "Layering",
+            "Competing claims",
+            "Tension as meaning",
+            "Both/and reading"
+          ],
+          "instruction": "Sophisticated texts carry more than one central idea at once, and those ideas often pull against each other. A weak reader picks one and ignores the rest; a scholar holds several and watches them interact. Consider A Dream Deferred and Let America Be America Again together: Hughes voices both a fierce hope for America's promise and a sharp grief that the promise has been broken. Neither idea cancels the other—the poem means precisely because both are true at once. When you read, ask: Is there a second idea here that complicates the first? Do the two ideas reinforce each other, or compete? Often the richest interpretation lives in the tension, not in choosing a side. Train yourself to say 'this text argues X, and at the same time Y,' then explain how the friction between X and Y produces the work's deeper meaning. Resisting the urge to flatten a text into one tidy message is a mark of advanced reading.",
+          "curriculum_connection": "Prepares students for the dual hope-and-grief of A Dream Deferred and Let America Be America Again.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does this lesson warn against picking a single central idea in a complex text?",
+              "choices": [
+                {
+                  "text": "Because complex texts often hold competing ideas whose tension creates the meaning",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because every text has exactly two ideas and no more",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because central ideas are always stated in the first sentence",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because readers should never decide what a text is about",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L6",
+          "number": 6,
+          "title": "Managing Long & Dense Texts",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.10",
+            "RL.11-12.10"
+          ],
+          "learning_objective": "Use strategies to stay oriented, maintain stamina, and build comprehension across long or difficult texts.",
+          "key_concepts": [
+            "Reading stamina",
+            "Chunking",
+            "Periodic synthesis",
+            "Re-reading the hard part",
+            "Tracking the through-line"
+          ],
+          "instruction": "Grade 11 asks you to read at a length and density you may not be used to—whole novels, philosophical essays like Walden, and full-length plays. The skill is not just reading; it is not getting lost. First, chunk the text into manageable sections and pause at each break to summarize in one sentence what just happened to the argument or story. Second, when a passage from Walden feels impenetrable, slow down and re-read that paragraph before moving on—dense prose rewards a second pass. Third, keep a running 'through-line' note: what is the one question this whole text is wrestling with? For Walden it might be 'what is the cost of a simpler, more deliberate life?' Returning to that question keeps you oriented when the prose wanders. Building stamina is like training a muscle: the goal is to finish a hard text with your understanding intact, ready to analyze it rather than just survive it.",
+          "curriculum_connection": "Prepares students for sustained reading of Walden and full-length works like The Great Gatsby and Death of a Salesman.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which strategy does the lesson recommend for staying oriented in a long, dense text?",
+              "choices": [
+                {
+                  "text": "Skim the whole book once quickly and never look back",
+                  "is_correct": false
+                },
+                {
+                  "text": "Chunk the text and pause to summarize each section while tracking the through-line",
+                  "is_correct": true
+                },
+                {
+                  "text": "Read only the first and last chapters",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip any paragraph that feels difficult",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Synthesis I: Tracking a Theme Across Many Texts",
+      "description": "You move from summarizing one text to synthesizing several: tracing the American Dream across genres and decades, following motifs across a corpus, putting sources in conversation, and building a new claim from what they say together.",
+      "placement": {
+        "before_articles": "The American Dream cluster (The Great Gatsby; The Golden Touch; A Dream Deferred / Let America Be America Again; I Hear America Singing / I, Too; Death of a Salesman; A Raisin in the Sun; The American Dream Across Generations; The American Scholar)"
+      },
+      "duration_minutes": 46,
+      "lessons": [
+        {
+          "id": "L7",
+          "number": 7,
+          "title": "Synthesis vs. Summary",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Distinguish summarizing a single source from synthesizing multiple sources into a new claim.",
+          "key_concepts": [
+            "Summary recaps one source",
+            "Synthesis combines sources",
+            "A new claim",
+            "Relationship between texts",
+            "The writer's value-add"
+          ],
+          "instruction": "Summary and synthesis are different mental moves, and confusing them keeps your thinking shallow. Summary answers 'what does this one text say?' Synthesis answers 'what do these texts say together that none says alone?' Imagine you have read The Great Gatsby, Death of a Salesman, and The American Dream Across Generations. A summary would describe each in turn. A synthesis notices that all three test the same promise—that effort earns reward—and reach different verdicts, then builds a fresh claim: 'across the American century, writers increasingly portray the Dream as a trap rather than a path.' That claim is yours; it did not exist in any single text. Synthesis is the reader's value-add. The trick is to stop walking through sources one at a time and instead group them by what they argue, then say something true of the group. Throughout this module you will practice turning a stack of texts into one new idea.",
+          "curriculum_connection": "Sets up synthesis across The Great Gatsby, Death of a Salesman, and The American Dream Across Generations.",
+          "check_for_understanding": [
+            {
+              "prompt": "Which statement best describes synthesis?",
+              "choices": [
+                {
+                  "text": "Describing each source one after another",
+                  "is_correct": false
+                },
+                {
+                  "text": "Choosing the single best source and quoting it",
+                  "is_correct": false
+                },
+                {
+                  "text": "Building a new claim about what multiple sources say together",
+                  "is_correct": true
+                },
+                {
+                  "text": "Restating one text in your own words",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L8",
+          "number": 8,
+          "title": "Tracing One Idea Across Genres & Decades",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.2"
+          ],
+          "learning_objective": "Follow how the American Dream is reshaped as it moves across genres and historical periods.",
+          "key_concepts": [
+            "Idea across time",
+            "Genre reframes a theme",
+            "Historical pressure on an idea",
+            "Continuity and change",
+            "Comparative timeline"
+          ],
+          "instruction": "An idea like the American Dream does not stay still—it bends under the genre that carries it and the decade that produces it. Your task is to trace that movement. In Whitman's I Hear America Singing (1860s), the Dream is collective and joyful; in The Great Gatsby (1920s), it is glittering and corrupt; in Death of a Salesman (1940s), it is exhausting and tragic; in A Raisin in the Sun (1950s), it is deferred and racialized. Lay these out on a mental timeline and ask: what stays constant, and what changes? Notice that genre matters too—a poem can celebrate the Dream in a breath, while a three-act play has room to grind it down. When you track one idea across genres and decades, you are reading the culture's changing mind. The payoff is a claim about trajectory: the Dream did not just appear in many works; it evolved, and you can describe how.",
+          "curriculum_connection": "Connects I Hear America Singing, The Great Gatsby, Death of a Salesman, and A Raisin in the Sun across the century.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does tracing an idea across decades and genres deepen your reading?",
+              "choices": [
+                {
+                  "text": "It proves that older texts are always better",
+                  "is_correct": false
+                },
+                {
+                  "text": "It lets you skip the harder modern texts",
+                  "is_correct": false
+                },
+                {
+                  "text": "It shows that all the texts mean exactly the same thing",
+                  "is_correct": false
+                },
+                {
+                  "text": "It reveals how the idea changes over time and under different forms",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L9",
+          "number": 9,
+          "title": "Motif & Recurring Image Across a Corpus",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.2",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Track a recurring motif or image across several texts and explain what its repetition means.",
+          "key_concepts": [
+            "Motif vs. theme",
+            "Recurring image",
+            "Pattern across a corpus",
+            "Image carries meaning",
+            "Cumulative weight"
+          ],
+          "instruction": "A motif is a concrete image or detail that recurs and gathers meaning each time it returns. Across a corpus, motifs become signals you can follow. Watch how gold and money operate: the curse of gold in The Golden Touch, the green light and gold-tinted parties in The Great Gatsby, Willy Loman's worship of cash value in Death of a Salesman. Each appearance adds weight, so that by the time you have read all three, gold no longer means simply 'wealth'—it means the seduction and ruin of measuring a life by money. A motif differs from a theme: the theme is the idea (materialism corrupts), the motif is the repeated image that carries it (gold, light, color). To track a motif across texts, note every appearance, then ask what the pattern adds up to. The cumulative weight of a recurring image is one of literature's most powerful tools, and spotting it across works is pure scholarly reading.",
+          "curriculum_connection": "Traces the gold/money motif across The Golden Touch, The Great Gatsby, and Death of a Salesman.",
+          "check_for_understanding": [
+            {
+              "prompt": "How does a motif differ from a theme?",
+              "choices": [
+                {
+                  "text": "A motif is a recurring concrete image that carries the abstract theme",
+                  "is_correct": true
+                },
+                {
+                  "text": "A motif is the abstract message; a theme is a single word",
+                  "is_correct": false
+                },
+                {
+                  "text": "A motif appears only once; a theme repeats",
+                  "is_correct": false
+                },
+                {
+                  "text": "They are exactly the same thing",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L10",
+          "number": 10,
+          "title": "Putting Sources in Conversation to Build a Claim",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Place sources in dialogue so that their agreements and clashes generate an arguable claim.",
+          "key_concepts": [
+            "Sources as voices",
+            "Dialogue between texts",
+            "Points of contact",
+            "Generating a claim",
+            "Naming the conversation"
+          ],
+          "instruction": "Synthesis becomes powerful when you imagine your sources sitting at a table, talking. Your job is to host the conversation and then report what it produced. Bring The American Scholar, with its call for self-reliant American thought, into dialogue with The Great Gatsby's critique of self-made ambition gone hollow. Where do they touch? Emerson celebrates the independent striver; Fitzgerald shows the striver destroyed by his own myth. The conversation between them yields a claim you could not get from either alone: 'American literature both worships and fears the self-made individual.' To build a claim this way, find the exact point where two texts address the same question, then state how they answer it differently, then name what their disagreement teaches. The claim is the conversation's conclusion. Hosting texts in dialogue is how scholars move from reading to original argument—and it is the engine of every research paper you will ever write.",
+          "curriculum_connection": "Puts The American Scholar in dialogue with The Great Gatsby on the self-made individual.",
+          "check_for_understanding": [
+            {
+              "prompt": "What produces an arguable claim when you put sources 'in conversation'?",
+              "choices": [
+                {
+                  "text": "Picking whichever source is shortest",
+                  "is_correct": false
+                },
+                {
+                  "text": "Identifying where they address the same question and how their answers differ",
+                  "is_correct": true
+                },
+                {
+                  "text": "Summarizing each source without comparing them",
+                  "is_correct": false
+                },
+                {
+                  "text": "Agreeing with all sources equally",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L11",
+          "number": 11,
+          "title": "Categorizing Sources by Agreement & Disagreement",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Sort multiple sources into camps of agreement, disagreement, and qualification on a shared question.",
+          "key_concepts": [
+            "Mapping the debate",
+            "Agreement clusters",
+            "Disagreement and dissent",
+            "Qualifying voices",
+            "The synthesis matrix"
+          ],
+          "instruction": "Before you can synthesize, you must organize. A scholar sorts sources by where they stand on a shared question. Take the question 'is the American Dream available to everyone?' I Hear America Singing answers yes, optimistically; I, Too and A Raisin in the Sun answer 'not yet, not for everyone'; The American Dream Across Generations might qualify: 'for some, in some eras.' Build a simple matrix—who agrees, who disagrees, who complicates. This map shows you the shape of the debate before you write a word. The qualifying voices matter most; they keep your synthesis from being a shouting match between two extremes. When you can place each source in its camp and explain why, you have done the invisible work that makes a synthesis essay coherent. The matrix is a tool, not the final product: once you see the camps, you can write a claim that accounts for all of them.",
+          "curriculum_connection": "Maps agreement and dissent across I Hear America Singing, I, Too, and A Raisin in the Sun.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why are 'qualifying' sources especially valuable when mapping a debate?",
+              "choices": [
+                {
+                  "text": "They are always the longest and most important texts",
+                  "is_correct": false
+                },
+                {
+                  "text": "They let you ignore the sources that disagree",
+                  "is_correct": false
+                },
+                {
+                  "text": "They keep the synthesis from collapsing into two extremes by adding nuance",
+                  "is_correct": true
+                },
+                {
+                  "text": "They prove one side is simply correct",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L12",
+          "number": 12,
+          "title": "What Each Says vs. What They Say Together",
+          "duration_minutes": 9,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Articulate the emergent meaning that arises only when sources are read collectively.",
+          "key_concepts": [
+            "Individual vs. collective meaning",
+            "Emergent idea",
+            "The whole exceeds the parts",
+            "Patterns across sources",
+            "Synthesis as discovery"
+          ],
+          "instruction": "Here is the heart of synthesis: a group of texts can mean something that no single text intends. Reading The Golden Touch, The Great Gatsby, and Death of a Salesman one by one, you get three separate stories about wealth. Read them together and a new idea emerges that none of their authors set out to say: that American culture keeps retelling the same warning—that what you grasp for can hollow you out—and keeps not listening. That emergent meaning is the discovery. To find it, lay out what each source says, then step back and ask: 'What pattern do I see now that I couldn't see in any one of them?' The answer is the synthesis. This is genuinely creative work; you are not merely reporting, you are noticing something true about the collection. When you reach Grade 12, you will use literary criticism as another voice in this conversation, but the move stays the same: the whole says more than the sum of its parts.",
+          "curriculum_connection": "Synthesizes the shared warning across The Golden Touch, The Great Gatsby, and Death of a Salesman.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does the lesson mean by an 'emergent' meaning across sources?",
+              "choices": [
+                {
+                  "text": "The meaning of whichever source was written first",
+                  "is_correct": false
+                },
+                {
+                  "text": "The shortest summary of all the sources combined",
+                  "is_correct": false
+                },
+                {
+                  "text": "The author's stated thesis in the most important text",
+                  "is_correct": false
+                },
+                {
+                  "text": "A meaning that appears only when the sources are read together, beyond any one of them",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Rhetoric & Argument in Public Texts",
+      "description": "You analyze how seminal American arguments persuade: ethos, pathos, and logos at depth; rhetorical devices; the arc of a speech; the strength of reasoning and evidence; tone and stance; SOAPS for primary sources; and rhetorical purpose for a real audience.",
+      "placement": {
+        "before_articles": "Freedom, slavery & abolition / movements rhetoric cluster (Frederick Douglass; The Declaration of Sentiments; Letter from Birmingham Jail; Declaration of Independence; Chavez Letter from Delano; I Have a Dream; I've Been to the Mountaintop)"
+      },
+      "duration_minutes": 52,
+      "lessons": [
+        {
+          "id": "L13",
+          "number": 13,
+          "title": "Advanced Ethos, Pathos & Logos",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Identify how a skilled rhetorician blends ethos, pathos, and logos and shifts among them strategically.",
+          "key_concepts": [
+            "Ethos (credibility)",
+            "Pathos (emotion)",
+            "Logos (logic)",
+            "Strategic blending",
+            "Shifting appeals"
+          ],
+          "instruction": "You met ethos, pathos, and logos in earlier grades; now you analyze how a master deploys them in combination and on purpose. In his Fourth of July address, Frederick Douglass first builds ethos by praising the founders, lulling his audience into trust—then pivots to scorching pathos as he names the hypocrisy of celebrating freedom while enslaving people, all framed by relentless logos. The advanced skill is noticing the shift: why does the speaker move from logic to emotion here, from authority to anger there? Each appeal is a tool chosen for a moment. Ask of every persuasive passage: which appeal is doing the work, and why this one now? A speaker who opens with credibility, reasons through evidence, then closes on feeling is engineering your response in sequence. Reading rhetoric well means seeing the machinery, not just feeling the effect—so you can be moved knowingly rather than manipulated blindly.",
+          "curriculum_connection": "Analyzes the blend and shift of appeals in Frederick Douglass's Fourth of July speech.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the 'advanced' move in analyzing ethos, pathos, and logos?",
+              "choices": [
+                {
+                  "text": "Noticing why and when a speaker strategically shifts among the appeals",
+                  "is_correct": true
+                },
+                {
+                  "text": "Labeling each appeal once and stopping there",
+                  "is_correct": false
+                },
+                {
+                  "text": "Deciding emotion is always the most powerful appeal",
+                  "is_correct": false
+                },
+                {
+                  "text": "Counting the total number of appeals in a speech",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L14",
+          "number": 14,
+          "title": "Rhetorical Devices: Anaphora, Antithesis, Allusion",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.4",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Name and analyze the effect of key rhetorical devices in persuasive speech.",
+          "key_concepts": [
+            "Anaphora",
+            "Antithesis",
+            "Allusion",
+            "Parallelism",
+            "Device serves purpose"
+          ],
+          "instruction": "Great speeches are built from named techniques, and recognizing them lets you explain why a line lands. Anaphora—repeating an opening phrase—drums an idea into memory; think of the cascade of 'I have a dream' in King's speech. Antithesis sets opposites side by side ('not...but') to sharpen a choice. Allusion borrows authority and emotion from a shared text—King's echoes of scripture and the Declaration of Independence let him stand on America's own founding promises. The skill is not just labeling a device but explaining its effect: anaphora builds momentum and unity; antithesis clarifies a moral stake; allusion lends borrowed weight. When you read Letter from Birmingham Jail, watch King allude to Jefferson, Lincoln, and the prophets to argue that he is the true heir of American ideals. Always pair the name with the function: 'King uses anaphora here to make the dream feel collective and inevitable.' That pairing is the whole point.",
+          "curriculum_connection": "Identifies anaphora, antithesis, and allusion in I Have a Dream and Letter from Birmingham Jail.",
+          "check_for_understanding": [
+            {
+              "prompt": "When analyzing a rhetorical device, what must you do beyond naming it?",
+              "choices": [
+                {
+                  "text": "Count how many times it appears",
+                  "is_correct": false
+                },
+                {
+                  "text": "Explain the effect it creates and the purpose it serves",
+                  "is_correct": true
+                },
+                {
+                  "text": "Find a synonym for the device",
+                  "is_correct": false
+                },
+                {
+                  "text": "Translate it into a simpler word",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L15",
+          "number": 15,
+          "title": "The Structure & Arc of a Speech",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.5",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Analyze how a speech is organized to move an audience from opening to climax to resolution.",
+          "key_concepts": [
+            "Exordium / opening",
+            "Building the case",
+            "The turn or climax",
+            "Call to action",
+            "Architecture of persuasion"
+          ],
+          "instruction": "A speech is engineered architecture: each section sets up the next, and the order is part of the argument. Map the arc. King's I've Been to the Mountaintop opens by establishing common ground and historical sweep, builds through the logic of nonviolent pressure, climbs to a soaring, almost prophetic climax, and lands on resolve. Notice how he delays the emotional peak until the audience is prepared for it. The structure does work the words alone cannot: an early appeal to shared values earns trust that a later, harder demand will spend. To analyze a speech's arc, divide it into movements and ask what each one accomplishes and why it must come where it does. Could the climax work if it came first? Usually not. Reading for structure reveals the strategy behind the emotion—you see how the speaker built a runway long enough for the final takeoff.",
+          "curriculum_connection": "Maps the arc and climax of King's I've Been to the Mountaintop.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does the order of a speech's sections matter to its persuasion?",
+              "choices": [
+                {
+                  "text": "Because longer speeches are always more convincing",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because the conclusion should always come first",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because earlier sections prepare the audience so later, harder appeals can succeed",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because structure has no effect on meaning",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L16",
+          "number": 16,
+          "title": "Evaluating the Strength of Reasoning & Evidence",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RI.11-12.8"
+          ],
+          "learning_objective": "Assess whether the reasoning and evidence in a seminal argument actually support its claims.",
+          "key_concepts": [
+            "Claim and support",
+            "Sufficiency of evidence",
+            "Logical validity",
+            "Identifying assumptions",
+            "Fallacy awareness"
+          ],
+          "instruction": "Persuasion can be beautiful and still be weak; your job is to test the reasoning, not just enjoy it. The CCSS skill (RI.11-12.8) asks you to evaluate whether evidence is relevant and sufficient and whether the reasoning holds. In Letter from Birmingham Jail, King answers the clergymen's charge that his protests are 'untimely' with a tight chain of reasoning: justice delayed has always been justice denied, so 'wait' has almost always meant 'never.' Test it: Is his evidence (a history of broken promises) relevant and sufficient? Are his assumptions reasonable? Does the conclusion follow? Watch also for unstated assumptions and any leaps that don't quite connect. Evaluating reasoning does not mean disagreeing—King's argument largely holds—it means you can say why it holds. This is the difference between being persuaded and being able to judge a persuasion. Carry the habit into every editorial and speech you read for the rest of your life.",
+          "curriculum_connection": "Evaluates the reasoning chain in Letter from Birmingham Jail.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does evaluating the 'strength' of an argument require?",
+              "choices": [
+                {
+                  "text": "Deciding whether the speech sounds beautiful",
+                  "is_correct": false
+                },
+                {
+                  "text": "Agreeing with the speaker's conclusion",
+                  "is_correct": false
+                },
+                {
+                  "text": "Measuring how long the argument is",
+                  "is_correct": false
+                },
+                {
+                  "text": "Judging whether the evidence is relevant and sufficient and the reasoning holds",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L17",
+          "number": 17,
+          "title": "Analyzing Tone & Stance in Persuasion",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.4"
+          ],
+          "learning_objective": "Determine an author's tone and stance and explain how word choice reveals their attitude and position.",
+          "key_concepts": [
+            "Tone vs. stance",
+            "Diction reveals attitude",
+            "Controlled anger",
+            "Stance toward audience",
+            "Shifts in tone"
+          ],
+          "instruction": "Tone is the author's attitude; stance is the position they take toward the subject and audience. Persuasive writers control both with precision. In Chavez's Letter from Delano, the tone stays disciplined and dignified even when describing injustice—he chooses controlled, moral language over rage, and that restraint is itself an argument: it presents the farmworkers as reasonable and their opponents as the ones lacking self-control. Read diction closely: words like 'sacrifice,' 'nonviolence,' and 'brotherhood' set a tone of principled patience. Ask what stance the writer takes toward you, the reader—pleading, demanding, inviting? Notice tone shifts too; a sudden turn from calm to fierce marks a moment the writer wants you to feel. Tracking tone and stance tells you not only what a writer argues but how they want to be seen while arguing it, which is often as persuasive as the claim itself.",
+          "curriculum_connection": "Analyzes the disciplined tone and moral stance of Chavez's Letter from Delano.",
+          "check_for_understanding": [
+            {
+              "prompt": "How does Chavez's controlled tone function as part of his argument?",
+              "choices": [
+                {
+                  "text": "It presents the speaker as reasonable and dignified, strengthening his moral position",
+                  "is_correct": true
+                },
+                {
+                  "text": "It hides the real message from readers",
+                  "is_correct": false
+                },
+                {
+                  "text": "It proves tone has nothing to do with persuasion",
+                  "is_correct": false
+                },
+                {
+                  "text": "It shows the writer is uninterested in the subject",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L18",
+          "number": 18,
+          "title": "SOAPS at Depth for Primary Sources",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6",
+            "RI.11-12.9"
+          ],
+          "learning_objective": "Use the SOAPS framework (Speaker, Occasion, Audience, Purpose, Subject) to read a primary source in its rhetorical context.",
+          "key_concepts": [
+            "Speaker",
+            "Occasion",
+            "Audience",
+            "Purpose",
+            "Subject"
+          ],
+          "instruction": "A primary source is not a free-floating text; it was spoken by someone, to someone, at a charged moment, for a reason. SOAPS makes that context visible. Apply it to The Declaration of Sentiments: the Speaker is the women's-rights convention at Seneca Falls; the Occasion is an 1848 gathering organizing for suffrage; the Audience is both the assembled reformers and the wider nation; the Purpose is to demand equal rights by claiming the founders' own logic; the Subject is the denial of women's rights. Notice how knowing the Occasion explains the choice to echo the Declaration of Independence—the authors deliberately borrow America's founding form to expose its broken promise. Used at depth, SOAPS does more than fill boxes; each element shapes how you read every line. When you can explain how Occasion drives Purpose and Audience shapes diction, you are reading a document the way a historian and a rhetorician both would.",
+          "curriculum_connection": "Applies SOAPS to The Declaration of Sentiments and its echo of the Declaration of Independence.",
+          "check_for_understanding": [
+            {
+              "prompt": "In SOAPS, why does knowing the 'Occasion' of The Declaration of Sentiments matter?",
+              "choices": [
+                {
+                  "text": "It tells you how long the document is",
+                  "is_correct": false
+                },
+                {
+                  "text": "It explains rhetorical choices, like echoing the Declaration of Independence to expose a broken promise",
+                  "is_correct": true
+                },
+                {
+                  "text": "It identifies the genre as fiction",
+                  "is_correct": false
+                },
+                {
+                  "text": "It reveals nothing the text itself can't say",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L19",
+          "number": 19,
+          "title": "Rhetorical Purpose & Audience",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Explain how an author shapes a text to achieve a specific purpose with a specific audience.",
+          "key_concepts": [
+            "Purpose drives choices",
+            "Audience awareness",
+            "Tailoring the appeal",
+            "Multiple audiences",
+            "Anticipating objections"
+          ],
+          "instruction": "Every persuasive text is built for a particular reader to do a particular thing—and the best writers shape every choice to that target. The Declaration of Independence had layered audiences: the King it accused, the colonists it needed to unite, and the watching world whose support it sought. Jefferson's measured list of grievances is calibrated to make the colonists' rebellion look reasonable and lawful to that international audience. Ask of any argument: who exactly is meant to be moved, and to do what? Then watch how the writer tailors evidence, tone, and concessions to that reader. Skilled rhetoricians also anticipate objections and answer them before they're raised. When a writer seems to address one audience while really aiming at another, you've found a sophisticated rhetorical strategy. Reading for purpose and audience turns a static document into a strategic act—you see not just what it says but what it was trying to make happen.",
+          "curriculum_connection": "Examines the layered purpose and audiences of the Declaration of Independence.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does the lesson say the Declaration of Independence had layered audiences?",
+              "choices": [
+                {
+                  "text": "Because it was written by many authors",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because it was read aloud many times",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because it aimed at the King, the colonists, and the watching world at once",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because it had no clear purpose",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Historical & Cultural Context as a Reading Tool",
+      "description": "You use historical and cultural context to deepen interpretation without reducing literature to history: literary-period awareness (the Harlem Renaissance and Modernism), how a moment shapes a text, whose voices a period includes, reading against the grain, and allegory grounded in history.",
+      "placement": {
+        "before_articles": "Harlem Renaissance + Modernism clusters (Their Eyes Were Watching God; The Harlem Renaissance; How It Feels to Be Colored Me; Prufrock; The Waste Land; A Rose for Emily; Modernism as a Response to Crisis; The Crucible; McCarthyism)"
+      },
+      "duration_minutes": 51,
+      "lessons": [
+        {
+          "id": "L20",
+          "number": 20,
+          "title": "Using Context to Deepen, Not Replace, Interpretation",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.7"
+          ],
+          "learning_objective": "Use historical context to enrich a reading of a text while keeping the text itself central.",
+          "key_concepts": [
+            "Context as a tool",
+            "Text-first reading",
+            "Avoiding reductionism",
+            "Background vs. meaning",
+            "Informed interpretation"
+          ],
+          "instruction": "Historical context is a lamp, not a substitute for the room. It illuminates a text, but the text is still what you interpret. Knowing that The Crucible was written during the McCarthy era enriches your reading of the Salem witch trials—but the play's meaning is not simply 'McCarthyism is bad.' If you reduce a work to its background, you stop reading literature and start reading a history footnote. The skill is balance: bring in context to answer questions the text raises ('why this fear of accusation?'), then return to the words on the page. When you read How It Feels to Be Colored Me, knowing the Harlem Renaissance lets you hear Hurston's defiant joy as part of a movement—but her specific voice, her sentences, are still the object of study. Use context to deepen interpretation, never to short-circuit it. The text always gets the final word; history just helps you hear it more fully.",
+          "curriculum_connection": "Balances historical context and text in The Crucible and How It Feels to Be Colored Me.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the proper role of historical context in interpretation?",
+              "choices": [
+                {
+                  "text": "It replaces the need to read the text closely",
+                  "is_correct": false
+                },
+                {
+                  "text": "It reduces a work to a single historical message",
+                  "is_correct": false
+                },
+                {
+                  "text": "It proves the author's intentions beyond doubt",
+                  "is_correct": false
+                },
+                {
+                  "text": "It deepens interpretation while the text itself stays central",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L21",
+          "number": 21,
+          "title": "Literary Periods & Movements: The Harlem Renaissance",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.7"
+          ],
+          "learning_objective": "Recognize the shared concerns and innovations that define the Harlem Renaissance as a literary movement.",
+          "key_concepts": [
+            "Literary movement",
+            "Shared aesthetic project",
+            "Cultural assertion",
+            "Vernacular and music",
+            "Reading a text as part of a movement"
+          ],
+          "instruction": "A literary movement is a group of writers, working in roughly the same time and place, who share concerns and techniques. Recognizing the movement helps you read any one work as part of a larger project. The Harlem Renaissance (1920s–30s) was a flowering of Black American art that asserted dignity, beauty, and complexity in Black life, often drawing on jazz, blues, and vernacular speech. When you read Their Eyes Were Watching God, you can hear Hurston's use of dialect not as 'incorrect' English but as a deliberate movement choice—language as cultural pride. Read The Harlem Renaissance article to learn the shared aims, then notice how individual works fulfill or stretch them. Knowing the movement lets you ask better questions: How does this poem participate in the celebration of Black identity? Where does it complicate the movement's optimism? Reading a text as part of a movement turns a single work into a voice in a chorus you can now hear.",
+          "curriculum_connection": "Reads Their Eyes Were Watching God and How It Feels to Be Colored Me as part of the Harlem Renaissance.",
+          "check_for_understanding": [
+            {
+              "prompt": "What defines a 'literary movement' like the Harlem Renaissance?",
+              "choices": [
+                {
+                  "text": "Writers in a shared time and place who share concerns and techniques",
+                  "is_correct": true
+                },
+                {
+                  "text": "A single author writing many books",
+                  "is_correct": false
+                },
+                {
+                  "text": "Any books published in the same year",
+                  "is_correct": false
+                },
+                {
+                  "text": "A genre with strict rules of form",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L22",
+          "number": 22,
+          "title": "Modernism as a Response to Crisis",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RI.11-12.7"
+          ],
+          "learning_objective": "Explain how literary Modernism's fragmented forms respond to the crises of the early twentieth century.",
+          "key_concepts": [
+            "Modernism",
+            "Form mirrors content",
+            "Fragmentation",
+            "Loss of certainty",
+            "Crisis and disillusionment"
+          ],
+          "instruction": "Modernism is what happens when writers feel the old certainties collapse—after world war, industrialization, and lost faith—and reshape literature to match a broken world. The key insight is that Modernist form mirrors Modernist content: a fractured age produces fractured texts. The Waste Land does not flow in tidy stanzas; it splinters into fragments, voices, and languages because the world it describes is shattered. Prufrock circles, hesitates, and never arrives because its speaker cannot act in a world that has lost its center. When you read the Modernism as a Response to Crisis article alongside these poems, ask: how does the difficulty of the form reflect the difficulty of the moment? Don't be frustrated by fragmentation—read it as meaning. The disorientation you feel is engineered; it is the experience of modernity itself. You will push deeper into experimental form and the fractured self in Grade 12; here you learn to read crisis in the very shape of the text.",
+          "curriculum_connection": "Reads The Waste Land and Prufrock through Modernism as a Response to Crisis.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does Modernist poetry like The Waste Land use fragmented form?",
+              "choices": [
+                {
+                  "text": "Because the poets did not know how to write properly",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because the fractured form mirrors a world that had lost its old certainties",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because shorter fragments are easier to publish",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because all poetry after 1900 must rhyme",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L23",
+          "number": 23,
+          "title": "How the Social & Historical Moment Shapes a Text",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.7",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Analyze how the conditions of a historical moment shape a text's concerns, imagery, and form.",
+          "key_concepts": [
+            "Conditions of production",
+            "Moment shapes subject",
+            "Imagery from the era",
+            "Economic and social pressure",
+            "Reading the moment in the text"
+          ],
+          "instruction": "Texts grow out of their moment the way plants grow out of soil—the conditions show up in what the writer chooses to see and how. Faulkner's A Rose for Emily is steeped in the decaying American South, a region clinging to a vanished order; Emily's crumbling house and refusal to accept change are the South's own anxieties made into a character. The Great Depression shaped a whole literature of scarcity, dust, and dignity-under-pressure. When you read, ask: what was happening when this was written, and where does that pressure surface—in the imagery, the conflicts, the very things the text takes for granted? You are not reducing the work to history; you are reading history's fingerprints on it. A text's moment shapes not only its subject but its mood and its silences—what it cannot bring itself to say. Learning to spot the moment inside the text is one of the most rewarding skills a reader can develop.",
+          "curriculum_connection": "Reads the decaying South in A Rose for Emily and scarcity in The Great Depression.",
+          "check_for_understanding": [
+            {
+              "prompt": "How does a historical moment 'shape' a text, according to this lesson?",
+              "choices": [
+                {
+                  "text": "It dictates the exact number of pages",
+                  "is_correct": false
+                },
+                {
+                  "text": "It forces every text into the same plot",
+                  "is_correct": false
+                },
+                {
+                  "text": "It appears in the text's subjects, imagery, conflicts, and even its silences",
+                  "is_correct": true
+                },
+                {
+                  "text": "It has no effect once the book is published",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L24",
+          "number": 24,
+          "title": "Whose Voices a Period Includes or Excludes",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RI.11-12.9",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Identify which voices a literary period centers, marginalizes, or omits, and why that matters to interpretation.",
+          "key_concepts": [
+            "The canon's gaps",
+            "Centered vs. marginalized voices",
+            "Silences in a period",
+            "Recovery of voices",
+            "Reading what's absent"
+          ],
+          "instruction": "Every literary period tells you as much by who it leaves out as by who it celebrates. A scholar asks: whose voices were heard in this moment, and whose were silenced? The traditional Modernist canon centered a handful of writers while the Harlem Renaissance recovered Black voices the mainstream had ignored. Gwendolyn Brooks's A Street in Bronzeville insisted that ordinary Black urban lives belonged in serious poetry—a claim the period's gatekeepers had often denied. When you study a period, notice the gaps: who is missing, and what would the picture look like if they were centered? Reading for absence is not a side note; it changes interpretation. A celebratory account of the 1920s reads very differently when you add the voices it excluded. Throughout this American-literature year, keep asking whose America a text speaks for—and whose it leaves out. The fullest reading hears both the loud voices and the deliberate silences.",
+          "curriculum_connection": "Considers excluded and recovered voices via A Street in Bronzeville and the Harlem Renaissance.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does a scholar pay attention to whom a literary period excludes?",
+              "choices": [
+                {
+                  "text": "Because excluded writers are always more talented",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because only included writers matter to interpretation",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because exclusion is impossible to detect",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because the silences and gaps change how we interpret the period",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L25",
+          "number": 25,
+          "title": "Reading a Text Against Its Moment",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.6",
+            "RI.11-12.6"
+          ],
+          "learning_objective": "Recognize when a text resists or critiques the dominant attitudes of its own time.",
+          "key_concepts": [
+            "Against the grain",
+            "Text as critique",
+            "Subversion of norms",
+            "Dissent within a period",
+            "Author vs. era"
+          ],
+          "instruction": "Not every writer agrees with their era—some write against it, and spotting that resistance is advanced reading. A text 'against its moment' challenges the very attitudes most people of its time accepted. In a culture that doubted a Black woman's right to define her own desire, Their Eyes Were Watching God put Janie's self-determination at the center—an act of quiet defiance. Hurston also resisted her own movement's pressures, refusing to make every work a protest. To read a text against its moment, first establish the dominant attitude of the time, then notice where the text pushes back. Ask: what did this work dare to say that its era discouraged? Resistance can be loud or subtle—a sympathetic portrayal, an unexpected ending, a centered character who 'shouldn't' be central. Recognizing dissent keeps you from assuming a text simply echoes its time; often the most interesting works are the ones arguing with their own moment.",
+          "curriculum_connection": "Reads Their Eyes Were Watching God as resisting the attitudes of its time.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does it mean to read a text 'against its moment'?",
+              "choices": [
+                {
+                  "text": "Recognizing how it resists or critiques the dominant attitudes of its time",
+                  "is_correct": true
+                },
+                {
+                  "text": "Reading it out of its historical order",
+                  "is_correct": false
+                },
+                {
+                  "text": "Assuming it simply repeats what everyone believed",
+                  "is_correct": false
+                },
+                {
+                  "text": "Refusing to consider the time period at all",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L26",
+          "number": 26,
+          "title": "Allegory Grounded in History: The Crucible & McCarthyism",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.2",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Analyze how a historical allegory uses one era's events to comment on another.",
+          "key_concepts": [
+            "Allegory",
+            "Surface vs. parallel meaning",
+            "Historical analogy",
+            "Universal pattern",
+            "Reading both layers"
+          ],
+          "instruction": "An allegory tells one story on the surface while pointing to another beneath it. Arthur Miller set The Crucible in 1692 Salem, but he wrote it to indict the 1950s McCarthy hearings, where accusations of communism ruined lives on flimsy evidence. The witch trials become a mirror for his own moment's mass hysteria, coerced confessions, and the destruction of reputations by rumor. To read an allegory, hold both layers at once: follow Salem's drama and recognize the McCarthy parallel it encodes. Read the McCarthyism article to make the second layer visible. But the best allegories also rise above their target moment to reveal a universal pattern—how fear turns neighbors into accusers in any age. Ask: what is the surface story, what historical event does it shadow, and what timeless danger does it expose? Reading both layers at once is the whole pleasure and power of allegory.",
+          "curriculum_connection": "Reads The Crucible as an allegory for McCarthyism using the McCarthyism article.",
+          "check_for_understanding": [
+            {
+              "prompt": "How does The Crucible function as a historical allegory?",
+              "choices": [
+                {
+                  "text": "It is a literal documentary of the 1950s hearings",
+                  "is_correct": false
+                },
+                {
+                  "text": "It tells the Salem story on the surface while shadowing 1950s McCarthyism beneath",
+                  "is_correct": true
+                },
+                {
+                  "text": "It has only one layer of meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "It ignores history entirely",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M5",
+      "title": "Intertextuality: Texts Answering Texts",
+      "description": "You learn to read works as responses to other works: allusion as argument, the signature case of Hughes's I, Too answering Whitman's I Hear America Singing, texts in direct dialogue, revision and rewriting, recognizing canonical references, and how a later writer critiques an earlier one.",
+      "placement": {
+        "before_articles": "Paired poems across the American canon (I Hear America Singing / I, Too; The Negro Speaks of Rivers / Lift Every Voice; Song of Myself; New Colossus / America the Beautiful)"
+      },
+      "duration_minutes": 45,
+      "lessons": [
+        {
+          "id": "L27",
+          "number": 27,
+          "title": "Allusion & Reference as Argument",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Explain how an allusion can make an argument by invoking and reframing an earlier text.",
+          "key_concepts": [
+            "Allusion",
+            "Borrowed meaning",
+            "Reference as claim",
+            "Recognizing the source",
+            "Reframing the original"
+          ],
+          "instruction": "An allusion is more than a clever nod; it can be an argument compressed into a reference. When a writer alludes to an earlier text, they import its meaning—and then often bend it to a new purpose. To claim America's founding promise, the Declaration of Sentiments alludes to the Declaration of Independence, arguing 'your own words demand our rights.' The reference is the argument. To read allusion well, you must first recognize the source, then ask what the writer gains by invoking it, and finally notice whether they affirm or twist the original. An allusion to scripture lends moral authority; an allusion to a national document claims a tradition. Intertextuality means texts are never sealed off—they reach across time and quote, echo, and answer one another. Once you start hearing these references, literature opens into a vast conversation, and you realize a single line can carry the weight of everything it points to.",
+          "curriculum_connection": "Examines allusion as argument in The Declaration of Sentiments and across the American canon.",
+          "check_for_understanding": [
+            {
+              "prompt": "How can an allusion function as an argument?",
+              "choices": [
+                {
+                  "text": "By proving the writer has read many books",
+                  "is_correct": false
+                },
+                {
+                  "text": "By hiding the writer's real meaning",
+                  "is_correct": false
+                },
+                {
+                  "text": "By invoking an earlier text's authority and reframing it for a new purpose",
+                  "is_correct": true
+                },
+                {
+                  "text": "By making the text longer",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L28",
+          "number": 28,
+          "title": "Hughes Answers Whitman: I, Too and I Hear America Singing",
+          "duration_minutes": 9,
+          "ccss_standards": [
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Analyze how Langston Hughes's I, Too directly answers and revises Walt Whitman's I Hear America Singing.",
+          "key_concepts": [
+            "Direct poetic response",
+            "Revision of a predecessor",
+            "Who counts as America",
+            "Echo and correction",
+            "Signature intertextual pair"
+          ],
+          "instruction": "This is the signature intertextual case of your year: one poem written to answer another. Whitman's I Hear America Singing (1860) celebrates a chorus of American workers—but the chorus is white, and Black Americans are absent. Decades later, Langston Hughes opens I, Too with 'I, too, sing America,' deliberately echoing Whitman to correct him. Hughes claims a place in the song Whitman left him out of: the speaker is 'the darker brother' sent to eat in the kitchen who insists 'tomorrow I'll be at the table.' Read these two poems side by side and you watch the American canon argue with itself across time. Notice the echo ('sing America') and the correction (the addition of the excluded voice). Hughes does not reject Whitman; he completes and challenges him. This is intertextuality at its most powerful—a later writer using the earlier writer's own words to expose what the earlier writer missed.",
+          "curriculum_connection": "Centers the paired poems I Hear America Singing (Whitman) and I, Too (Hughes).",
+          "check_for_understanding": [
+            {
+              "prompt": "How does Hughes's I, Too answer Whitman's I Hear America Singing?",
+              "choices": [
+                {
+                  "text": "It rejects Whitman's poem as worthless",
+                  "is_correct": false
+                },
+                {
+                  "text": "It copies Whitman's poem word for word",
+                  "is_correct": false
+                },
+                {
+                  "text": "It has nothing to do with Whitman's poem",
+                  "is_correct": false
+                },
+                {
+                  "text": "It echoes Whitman's celebration while correcting him by claiming the excluded Black voice",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L29",
+          "number": 29,
+          "title": "Texts in Direct Dialogue & Response",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Identify when one text is explicitly responding to or conversing with another and analyze the exchange.",
+          "key_concepts": [
+            "Call and response",
+            "Explicit dialogue",
+            "Shared subject, different stance",
+            "The exchange as unit",
+            "Reading the pair"
+          ],
+          "instruction": "Some texts are best understood as halves of a conversation. When you read them as a pair, the exchange becomes the unit of meaning. Consider The Negro Speaks of Rivers and Lift Every Voice and Sing: both reach back through Black history to claim a deep, dignified heritage, speaking to and amplifying each other across the page. Reading them together, you hear a call-and-response—a shared subject, each text adding a verse to a collective song. To analyze texts in dialogue, identify the shared question or subject, then map how each text answers it and how the second responds to the first. Ask: does the later text agree, extend, or challenge the earlier one? Treating the pair as a single conversation, rather than two separate poems, reveals meaning neither holds alone. This is the same synthesis muscle from Module 2, now applied to texts that are explicitly talking to each other.",
+          "curriculum_connection": "Pairs The Negro Speaks of Rivers with Lift Every Voice and Sing as a conversation about heritage.",
+          "check_for_understanding": [
+            {
+              "prompt": "When two texts are 'in dialogue,' what becomes the unit of meaning?",
+              "choices": [
+                {
+                  "text": "The exchange between them, read as a single conversation",
+                  "is_correct": true
+                },
+                {
+                  "text": "Only the first text written",
+                  "is_correct": false
+                },
+                {
+                  "text": "Whichever text is more famous",
+                  "is_correct": false
+                },
+                {
+                  "text": "Each text read in complete isolation",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L30",
+          "number": 30,
+          "title": "Rewriting & Revising an Earlier Text",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Analyze how a later writer rewrites or revises an earlier work to make a new statement.",
+          "key_concepts": [
+            "Revision as response",
+            "Retelling from a new angle",
+            "Filling silences",
+            "Updating an old form",
+            "What the rewrite reveals"
+          ],
+          "instruction": "Writers don't just allude to predecessors; sometimes they rewrite them, retelling an old story to expose what it left out. A rewrite keeps enough of the original to be recognizable, then changes what matters. When Maya Angelou writes On the Pulse of Morning, she revisits the grand national-vision poem (a Whitmanian form) but fills it with the diverse, previously excluded American voices the older tradition silenced. The revision is the argument: the form says 'this is a national hymn,' the new content says 'and this nation includes everyone.' To read a rewrite, identify the earlier model, then track exactly what the new writer keeps and what they change—the changes carry the meaning. Ask: what silence in the original does the rewrite fill, and what does that reveal about both texts? Rewriting is a powerful form of critique because it works from the inside, using the master's own house to build a different room.",
+          "curriculum_connection": "Reads On the Pulse of Morning as a revision of the national-vision poem.",
+          "check_for_understanding": [
+            {
+              "prompt": "In a literary rewrite, where does the new meaning usually live?",
+              "choices": [
+                {
+                  "text": "In the parts the writer keeps identical",
+                  "is_correct": false
+                },
+                {
+                  "text": "In the changes the writer makes to the original model",
+                  "is_correct": true
+                },
+                {
+                  "text": "In the title alone",
+                  "is_correct": false
+                },
+                {
+                  "text": "In how long the new text is",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L31",
+          "number": 31,
+          "title": "Recognizing Canonical References",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.9"
+          ],
+          "learning_objective": "Build the background knowledge to recognize references to foundational American and Western texts.",
+          "key_concepts": [
+            "The canon as shared code",
+            "Foundational sources",
+            "Building reference literacy",
+            "Catching the echo",
+            "Looking up the unknown"
+          ],
+          "instruction": "Writers assume you share a library of foundational texts—scripture, the Declaration of Independence, Whitman, Shakespeare—and they reference it like a shared code. If you don't recognize the source, you miss the message. When Walt Whitman's Song of Myself echoes through later American poetry, writers are tapping a recognizable voice of expansive democratic selfhood; catching that echo tells you they are positioning themselves in his tradition. Building reference literacy is part of becoming a strong reader: the more foundational texts you know, the more echoes you hear. When you sense an allusion you can't place—a phrase that sounds borrowed, a name that carries extra weight—flag it and look it up. Over time, your mental library grows and the conversation gets louder. Recognizing canonical references is not trivia; it is the difference between hearing a single voice and hearing the whole chorus a writer is joining or challenging.",
+          "curriculum_connection": "Builds recognition of canonical voices like Whitman's Song of Myself across American poetry.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does building 'reference literacy' matter for reading?",
+              "choices": [
+                {
+                  "text": "Because long texts are always better",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because only the canon is worth reading",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because recognizing references lets you catch the meaning writers encode in allusions",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because references should always be ignored",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L32",
+          "number": 32,
+          "title": "How a Later Writer Critiques an Earlier One",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.9"
+          ],
+          "learning_objective": "Analyze how a later text critiques the assumptions or omissions of an earlier text.",
+          "key_concepts": [
+            "Critique through response",
+            "Exposing assumptions",
+            "Naming what was missed",
+            "Respect and challenge",
+            "Conversation over time"
+          ],
+          "instruction": "The deepest form of intertextuality is critique: a later writer uses an earlier text to argue that it got something wrong or left something out. This is not mere disagreement—it is engagement. New Colossus reimagines what a monument can mean, recasting a symbol of power as a welcome to the 'huddled masses,' implicitly critiquing older, narrower ideas of who belongs. To read a critique-through-response, first reconstruct the earlier text's assumptions, then identify exactly what the later text challenges and what it offers instead. A strong critique often respects its target even as it corrects it—Hughes loves the America Whitman sang, which is why he insists on joining the song. Ask: what did the earlier text assume or omit, and how does the later one expose it? When you can trace a critique across decades, you are reading the American canon as a living argument about itself—exactly the scholarly habit that will serve you when you turn to formal literary criticism in Grade 12.",
+          "curriculum_connection": "Reads New Colossus and the canon's self-critique across time.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is the first step in analyzing how a later text critiques an earlier one?",
+              "choices": [
+                {
+                  "text": "Deciding the earlier text is worthless",
+                  "is_correct": false
+                },
+                {
+                  "text": "Ignoring the earlier text completely",
+                  "is_correct": false
+                },
+                {
+                  "text": "Counting the words in both texts",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reconstructing the earlier text's assumptions so you can see what is being challenged",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M6",
+      "title": "Point of View, Voice & Form",
+      "description": "You read for the how of storytelling: unreliable and limited narration, the narrator's stake and framing, free indirect discourse, an introduction to stream of consciousness, voice and dialect, drama and subtext, the advanced lyric speaker, and a capstone synthesis of the whole course.",
+      "placement": {
+        "before_articles": "Gatsby, Their Eyes Were Watching God, Invisible Man, Fences, A Raisin in the Sun, Death of a Salesman, and the poetry"
+      },
+      "duration_minutes": 60,
+      "lessons": [
+        {
+          "id": "L33",
+          "number": 33,
+          "title": "Unreliable & Limited Narration (Advanced)",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Detect and analyze narrators whose account is limited, biased, or untrustworthy.",
+          "key_concepts": [
+            "Unreliable narrator",
+            "Limited perspective",
+            "Gaps and bias",
+            "Reading past the narrator",
+            "Trusting the evidence, not the voice"
+          ],
+          "instruction": "An unreliable narrator is one whose account you cannot fully trust—because of bias, limited knowledge, or self-deception—and detecting this is advanced reading. The narrator of Invisible Man begins his story already disillusioned, recounting his younger self's naïveté; you must read both the events and the older narrator's bitter wisdom about them. Limited narration is subtler: a narrator simply can't see everything, so you must read past them. The skill is to separate what happens from how the narrator frames it. Watch for gaps, contradictions, and moments the narrator protests too much. Ask: does the evidence on the page support the narrator's interpretation, or undercut it? When a narrator insists they are fair-minded while describing people unfairly, the text is telling you something the narrator won't. Reading past a narrator—trusting the evidence over the voice—is one of the most sophisticated moves a reader can make, and it transforms how you experience first-person fiction.",
+          "curriculum_connection": "Analyzes the narrating voice of Invisible Man (Battle Royal).",
+          "check_for_understanding": [
+            {
+              "prompt": "How should you read an unreliable narrator?",
+              "choices": [
+                {
+                  "text": "Separate what happens from how the narrator frames it, trusting the evidence over the voice",
+                  "is_correct": true
+                },
+                {
+                  "text": "Believe everything the narrator says",
+                  "is_correct": false
+                },
+                {
+                  "text": "Skip first-person texts entirely",
+                  "is_correct": false
+                },
+                {
+                  "text": "Assume the narrator is always lying about plot events",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L34",
+          "number": 34,
+          "title": "Framing & the Narrator's Stake: Nick in Gatsby",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.6",
+            "RL.11-12.3"
+          ],
+          "learning_objective": "Analyze how a narrator's personal stake and framing shape the story they tell.",
+          "key_concepts": [
+            "Framing narrator",
+            "The narrator's stake",
+            "Selective storytelling",
+            "Judgment within narration",
+            "Reading the teller"
+          ],
+          "instruction": "A framing narrator stands at the edge of the story, telling it for reasons of their own—and those reasons color everything. Nick Carraway narrates The Great Gatsby, opening by claiming he is 'inclined to reserve all judgments,' yet his whole account is shaped by his growing admiration for Gatsby and his disgust with the Buchanans. Nick has a stake: he wants you to see Gatsby as 'great,' worth more than the careless rich around him. So you must read both Gatsby's story and Nick's framing of it. Ask: why is this person telling the story, what do they want you to feel, and what might they be downplaying? A framing narrator selects and arranges—what they linger on and what they skip is itself meaning. Reading the teller, not just the tale, lets you see that Gatsby is partly Nick's creation, shaped by Nick's needs. The frame is never neutral, and noticing it deepens every first-person novel you read.",
+          "curriculum_connection": "Analyzes Nick Carraway's framing and stake in The Great Gatsby.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why does Nick's 'stake' in the story matter when reading The Great Gatsby?",
+              "choices": [
+                {
+                  "text": "It guarantees his account is perfectly objective",
+                  "is_correct": false
+                },
+                {
+                  "text": "His admiration and disgust shape what he emphasizes and downplays",
+                  "is_correct": true
+                },
+                {
+                  "text": "It has no effect on the story he tells",
+                  "is_correct": false
+                },
+                {
+                  "text": "It means he is lying about every event",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L35",
+          "number": 35,
+          "title": "Free Indirect Discourse",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.6",
+            "RL.11-12.4"
+          ],
+          "learning_objective": "Recognize free indirect discourse and explain how it blends narrator and character.",
+          "key_concepts": [
+            "Free indirect discourse",
+            "Blended voice",
+            "Third person, character's mind",
+            "Intimacy without 'I'",
+            "Slippage of perspective"
+          ],
+          "instruction": "Free indirect discourse is a technique where a third-person narrator slips into a character's thoughts and language without quotation marks or 'she thought'—the narration takes on the character's voice. Their Eyes Were Watching God moves fluidly into Janie's inner world, so the narration carries her rhythms and feelings even while staying in third person. The effect is intimacy without the limits of first person: you get inside a character's head while the narrator can still pull back to a wider view. To spot free indirect discourse, look for moments where the 'objective' narration suddenly sounds like the character would sound—using their slang, their bias, their excitement. Ask: whose words are these really? The blending is the art; it lets a writer hold closeness and distance at once. Recognizing this slippage of perspective is a hallmark of sophisticated reading, and it explains why some third-person novels feel as intimate as a confession.",
+          "curriculum_connection": "Identifies free indirect discourse in Their Eyes Were Watching God.",
+          "check_for_understanding": [
+            {
+              "prompt": "What defines free indirect discourse?",
+              "choices": [
+                {
+                  "text": "Dialogue marked clearly with quotation marks",
+                  "is_correct": false
+                },
+                {
+                  "text": "A first-person narrator who addresses the reader directly",
+                  "is_correct": false
+                },
+                {
+                  "text": "Third-person narration that slips into a character's voice and thoughts without tags",
+                  "is_correct": true
+                },
+                {
+                  "text": "A footnote explaining the character's feelings",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L36",
+          "number": 36,
+          "title": "Stream of Consciousness (Introduction)",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.5",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Understand the basics of stream-of-consciousness narration and how to read its associative flow.",
+          "key_concepts": [
+            "Stream of consciousness",
+            "Associative logic",
+            "Interior flow",
+            "Fragmented thought",
+            "Reading without punctuation cues"
+          ],
+          "instruction": "Stream of consciousness tries to render thought itself—the unfiltered, associative flow of a mind, jumping from sensation to memory to worry without tidy transitions. Faulkner's As I Lay Dying gives different characters' interior monologues, and the prose can feel disorienting because real thinking is disorienting. The key to reading it is to stop expecting linear logic and instead follow the associations: this image triggered that memory, which sparked this fear. Don't panic at missing punctuation or sudden leaps—that's the mind at work. Ask what the flow reveals about the character that ordinary narration could not: their obsessions, their gaps, the things they circle back to. Read a difficult passage twice, the first time for the feel and the second time tracing the chain of associations. This is an introduction; you will go deeper into experimental interiority and the fractured self in Grade 12. For now, learn to surrender to the flow and read it as meaning, not chaos.",
+          "curriculum_connection": "Introduces stream of consciousness through As I Lay Dying.",
+          "check_for_understanding": [
+            {
+              "prompt": "How should you read a stream-of-consciousness passage?",
+              "choices": [
+                {
+                  "text": "Insist on strict linear logic and skip anything confusing",
+                  "is_correct": false
+                },
+                {
+                  "text": "Read only the dialogue",
+                  "is_correct": false
+                },
+                {
+                  "text": "Assume the punctuation errors are mistakes",
+                  "is_correct": false
+                },
+                {
+                  "text": "Follow the associative flow of the mind and read the leaps as meaning",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L37",
+          "number": 37,
+          "title": "Voice, Dialect & Idiolect",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Analyze how dialect and individual speech patterns create voice and meaning.",
+          "key_concepts": [
+            "Voice",
+            "Dialect",
+            "Idiolect",
+            "Speech as characterization",
+            "Dialect as cultural assertion"
+          ],
+          "instruction": "Voice is the distinct sound of a speaker on the page, and writers build it from dialect (the speech of a region or group) and idiolect (the unique patterns of one person). These are not errors to correct; they are meaning. In Their Eyes Were Watching God, Hurston renders Black Southern vernacular precisely, and that choice asserts the dignity and richness of a way of speaking the mainstream dismissed—the dialect is a cultural argument. In Mother to Son, Langston Hughes builds the mother's whole character from her idiolect: 'Life for me ain't been no crystal stair' tells you her hardship, her resilience, and her love in one voice. To analyze voice, read aloud and listen: what does this way of speaking reveal about who the character is and where they come from? Treating dialect as deficient is a reading error; treating it as deliberate craft is the scholarly move. Voice is one of literature's most human pleasures.",
+          "curriculum_connection": "Analyzes dialect in Their Eyes Were Watching God and idiolect in Mother to Son.",
+          "check_for_understanding": [
+            {
+              "prompt": "How should a scholarly reader treat a character's dialect?",
+              "choices": [
+                {
+                  "text": "As deliberate craft that creates voice and can assert cultural dignity",
+                  "is_correct": true
+                },
+                {
+                  "text": "As incorrect English to be mentally corrected",
+                  "is_correct": false
+                },
+                {
+                  "text": "As a printing error",
+                  "is_correct": false
+                },
+                {
+                  "text": "As proof the character is uneducated",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L38",
+          "number": 38,
+          "title": "Drama & Subtext",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.3",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Read drama for subtext—the meaning beneath what characters actually say.",
+          "key_concepts": [
+            "Subtext",
+            "What is said vs. meant",
+            "Stage directions",
+            "Silence and gesture",
+            "Conflict beneath dialogue"
+          ],
+          "instruction": "In drama, characters rarely say exactly what they mean; the real meaning lives in the subtext—beneath the lines. When Troy and his son Cory argue about a football scholarship in Fences, the surface is about sports, but the subtext is about a father's wounded pride, his fear, and a love he cannot express. In Death of a Salesman and A Raisin in the Sun, families talk about money and houses while really fighting about dignity, dreams, and disappointment. To read subtext, ask what each character wants but won't say directly, then watch how stage directions, pauses, and gestures reveal it. A line like 'I'm fine' can carry an ocean of unspoken pain depending on what surrounds it. Pay attention to silences and what characters avoid. Reading drama well means hearing two conversations at once—the spoken one and the deeper one underneath. That double-hearing is the heart of dramatic literacy.",
+          "curriculum_connection": "Reads subtext in Fences, Death of a Salesman, and A Raisin in the Sun.",
+          "check_for_understanding": [
+            {
+              "prompt": "What is 'subtext' in drama?",
+              "choices": [
+                {
+                  "text": "The stage directions printed in italics only",
+                  "is_correct": false
+                },
+                {
+                  "text": "The meaning beneath the lines—what characters mean but do not say directly",
+                  "is_correct": true
+                },
+                {
+                  "text": "The summary printed on the back of the script",
+                  "is_correct": false
+                },
+                {
+                  "text": "The literal dictionary meaning of each word",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L39",
+          "number": 39,
+          "title": "The Lyric Speaker at an Advanced Level",
+          "duration_minutes": 7,
+          "ccss_standards": [
+            "RL.11-12.4",
+            "RL.11-12.6"
+          ],
+          "learning_objective": "Distinguish the lyric speaker from the poet and analyze the speaker's stance, tone, and self-presentation.",
+          "key_concepts": [
+            "Speaker vs. poet",
+            "Lyric persona",
+            "Self-presentation",
+            "Stance and address",
+            "Tone of the speaker"
+          ],
+          "instruction": "The 'I' in a poem is the speaker, a constructed voice that is not simply the poet. Advanced reading begins by refusing to collapse the two. In Still I Rise, the speaker performs a defiant, almost triumphant self—addressing an oppressor directly, building confidence with each stanza. That speaker is a deliberate creation, a stance Angelou chose, not a transcript of her diary. Ask: who is this speaker, whom do they address, and how do they want to be seen? Notice self-presentation—the speaker in We Wear the Mask hides pain behind a smile, and the poem's power comes from the gap between the mask and the suffering underneath. Track the speaker's tone and whether it shifts. By separating speaker from poet, you can analyze the persona as a crafted instrument, which lets you read irony, performance, and self-fashioning that you'd miss if you assumed the poem was a literal confession. The lyric speaker is one of poetry's most subtle tools.",
+          "curriculum_connection": "Analyzes the lyric speaker in Still I Rise and We Wear the Mask.",
+          "check_for_understanding": [
+            {
+              "prompt": "Why distinguish the lyric 'speaker' from the poet?",
+              "choices": [
+                {
+                  "text": "Because poems are never about real feelings",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because poets never write about themselves",
+                  "is_correct": false
+                },
+                {
+                  "text": "Because the speaker is a crafted persona whose stance and self-presentation can be analyzed",
+                  "is_correct": true
+                },
+                {
+                  "text": "Because the speaker and poet are always identical",
+                  "is_correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L40",
+          "number": 40,
+          "title": "Capstone: Reading Like a Scholar",
+          "duration_minutes": 8,
+          "ccss_standards": [
+            "RL.11-12.9",
+            "RI.11-12.9"
+          ],
+          "learning_objective": "Integrate synthesis, rhetoric, context, intertextuality, and voice into a single scholarly reading.",
+          "key_concepts": [
+            "Integrated reading",
+            "Synthesis across the course",
+            "From skill to habit",
+            "The text in conversation",
+            "Bridge to Grade 12"
+          ],
+          "instruction": "This capstone brings the whole course together. A scholar does not apply one skill at a time; you read with all of them at once. Take I, Too and bring everything to bear: synthesize it with the American Dream cluster (Module 2); analyze its quiet rhetoric and stance (Module 3); place it in the Harlem Renaissance and its historical moment (Module 4); read it as a direct answer to Whitman (Module 5); and attend to the constructed defiant speaker and the poem's voice (Module 6). Now the poem is not a single object but a node in a vast conversation, and you can say something true and original about it. That integrated reading—holding text, context, and conversation together—is what it means to read like a scholar. Carry it into every Grade 11 article. And know that this is Part 1: in Grade 12 you will add literary criticism, dense philosophical argument, advanced form, and world literature, taking these same habits further still.",
+          "curriculum_connection": "Integrates the full course on I, Too within the American Dream and Harlem Renaissance clusters, bridging to Grade 12.",
+          "check_for_understanding": [
+            {
+              "prompt": "What does the capstone say it means to 'read like a scholar'?",
+              "choices": [
+                {
+                  "text": "Applying exactly one reading skill per text",
+                  "is_correct": false
+                },
+                {
+                  "text": "Memorizing the plot of every assigned work",
+                  "is_correct": false
+                },
+                {
+                  "text": "Reading as quickly as possible",
+                  "is_correct": false
+                },
+                {
+                  "text": "Holding synthesis, rhetoric, context, intertextuality, and voice together in one integrated reading",
+                  "is_correct": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
