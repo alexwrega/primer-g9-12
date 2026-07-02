@@ -65,6 +65,13 @@ async function loadMedia(grade) {
     }
 }
 
+let currentFlags = null, flaggedLessons = {}, flaggedItemIds = new Set();
+async function loadFlags() {
+    if (currentFlags) return currentFlags;
+    try { const r = await fetch('data/judge-flags.json'); currentFlags = r.ok ? await r.json() : {}; }
+    catch (e) { currentFlags = {}; }
+    return currentFlags;
+}
 async function selectGrade(grade, lessonNumber) {
     document.querySelectorAll('.grade-tab').forEach(tab => {
         tab.classList.toggle('active', parseInt(tab.dataset.grade) === grade);
@@ -77,8 +84,10 @@ async function selectGrade(grade, lessonNumber) {
     hideLesson();
 
     try {
-        const [data, media] = await Promise.all([loadGrade(grade), loadMedia(grade)]);
+        const [data, media, flags] = await Promise.all([loadGrade(grade), loadMedia(grade), loadFlags()]);
         currentMedia = media || {};
+        flaggedLessons = (flags || {})[String(grade)] || {};
+        flaggedItemIds = new Set(Object.values(flaggedLessons).flat().map(f => f.id));
         renderLessonList(data);
         const idx = lessonNumber
             ? flatLessons.findIndex(({ lesson }) => lesson.number === lessonNumber)
@@ -118,8 +127,10 @@ function renderLessonList(data) {
 
             const div = document.createElement('div');
             div.className = 'article-item lesson-item';
+            const _lf = flaggedLessons['L' + lesson.number];
+            const _flag = _lf ? ` <span class="qc-flag" title="Independent QC flagged ${_lf.length} item(s): ${_lf.map(f => f.id + ' (' + f.verdict + ')').join(', ')}">🚩</span>` : '';
             div.innerHTML = `
-                <div>${lesson.number}. ${escapeHtml(lesson.title)}</div>
+                <div>${lesson.number}. ${escapeHtml(lesson.title)}${_flag}</div>
                 <div class="lesson-item-meta">video + quiz</div>
             `;
             div.addEventListener('click', () => selectLesson(index));
@@ -472,10 +483,12 @@ function renderMCQ(q, label, bare) {
         ? `<blockquote class="cfu-passage" style="white-space:pre-line;border-left:3px solid #888;margin:0 0 10px;padding:8px 12px;background:rgba(0,0,0,0.04);font-style:italic">${escapeHtml(q.passage)}</blockquote>`
         : '';
 
+    const qcFlag = (q.id && typeof flaggedItemIds !== 'undefined' && flaggedItemIds.has(q.id))
+        ? ` <span class="qc-flag" title="Flagged by independent QC — see the Quality Grid">🚩</span>` : '';
     const inner = `
         ${label ? `<div class="cfu-label">${escapeHtml(label)}</div>` : ''}
         ${passageHtml}
-        <div class="cfu-prompt">${escapeHtml(q.prompt)}</div>
+        <div class="cfu-prompt">${escapeHtml(q.prompt)}${qcFlag}</div>
         <ul class="cfu-choices">${choicesHtml}</ul>
         <div class="cfu-feedback">${feedback}</div>
     `;

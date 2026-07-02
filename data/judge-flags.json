@@ -1,0 +1,176 @@
+{
+ "9": {
+  "L3": [
+   {
+    "id": "L3Q-READ",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L4": [
+   {
+    "id": "L4Q-READ",
+    "verdict": "AMBIGUOUS"
+   },
+   {
+    "id": "L4Q7",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L6": [
+   {
+    "id": "L6Q2",
+    "verdict": "MISMATCH"
+   }
+  ],
+  "L7": [
+   {
+    "id": "L7Q5",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L9": [
+   {
+    "id": "L9Q7",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L15": [
+   {
+    "id": "L15Q2",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L18": [
+   {
+    "id": "L18Q5",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L22": [
+   {
+    "id": "L22Q2",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L36": [
+   {
+    "id": "L36Q6",
+    "verdict": "MISMATCH"
+   }
+  ]
+ },
+ "10": {
+  "L1": [
+   {
+    "id": "L1Q3",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L5": [
+   {
+    "id": "L5Q5",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L6": [
+   {
+    "id": "L6Q2",
+    "verdict": "AMBIGUOUS"
+   },
+   {
+    "id": "L6Q6",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L7": [
+   {
+    "id": "L7Q3",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L14": [
+   {
+    "id": "L14Q7",
+    "verdict": "MISMATCH"
+   }
+  ],
+  "L15": [
+   {
+    "id": "L15Q7",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L16": [
+   {
+    "id": "L16Q6",
+    "verdict": "AMBIGUOUS"
+   },
+   {
+    "id": "L16Q7",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L34": [
+   {
+    "id": "L34Q7",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L38": [
+   {
+    "id": "L38Q3",
+    "verdict": "AMBIGUOUS"
+   },
+   {
+    "id": "L38Q6",
+    "verdict": "AMBIGUOUS"
+   }
+  ]
+ },
+ "11": {
+  "L2": [
+   {
+    "id": "L2Q6",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L3": [
+   {
+    "id": "L3Q2",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L11": [
+   {
+    "id": "L11Q2",
+    "verdict": "AMBIGUOUS"
+   }
+  ]
+ },
+ "12": {
+  "L6": [
+   {
+    "id": "L6Q5",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L21": [
+   {
+    "id": "L21Q6",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L31": [
+   {
+    "id": "L31Q2",
+    "verdict": "AMBIGUOUS"
+   }
+  ],
+  "L40": [
+   {
+    "id": "L40Q2",
+    "verdict": "MISMATCH"
+   }
+  ]
+ }
+}
