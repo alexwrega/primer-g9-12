@@ -402,7 +402,11 @@
             white-space: nowrap;
         }
         .header-nav-link:hover { background: var(--color-primary-light); }
-    </style>
+    
+ .hubnav{margin-left:auto;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+ .hubnav a{margin-left:0;color:#2563eb;text-decoration:none;font-weight:600;font-size:13px;background:#dbeafe;padding:5px 12px;border-radius:6px;border:1px solid #cfe0fd}
+ .hubnav a:hover{background:#c7dbfd;text-decoration:none}
+</style>
 </head>
 <body>
     <header class="header">
@@ -411,9 +415,7 @@
             <span class="header-date">Reading Strategy Courses · Grades 9–12</span>
         </div>
         <nav class="grade-tabs" id="gradeTabs"></nav>
-        <a class="header-nav-link" href="primer-quality-grid.html">Quality Grid →</a>
-        <a class="header-nav-link" href="primer-overview.html">Lesson Overview →</a>
-        <a class="header-nav-link" href="hfing-overview.html">HFing Overview →</a>
+        <nav class="hubnav"><a href="primer-overview.html">Lesson Overview &rarr;</a><a href="primer-quality-grid.html">Quality Grid &rarr;</a><a href="hfing-overview.html">HFing Overview &rarr;</a></nav>
     </header>
 
     <main class="layout">
